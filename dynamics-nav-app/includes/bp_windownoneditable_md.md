@@ -1,0 +1,1 @@
+No se puede modificar el contenido de esta ventana.

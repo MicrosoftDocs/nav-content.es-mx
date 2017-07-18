@@ -1,0 +1,1 @@
+Cliente adaptado a roles

@@ -1,0 +1,1 @@
+Destinos de visualización compatibles
