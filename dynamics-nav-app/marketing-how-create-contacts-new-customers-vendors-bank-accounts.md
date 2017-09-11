@@ -9,30 +9,30 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2a0252743c4f6ce8a85c7aaf2d0751351a6d4251
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: e011a2a943b4ca96ba2e6647143cbccc16438cbc
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="create-a-customer-vendor-or-bank-account-from-a-contact"></a>Crear un contacto, proveedor o una cuenta bancaria a partir de un contacto
-Puede que desee registrar algunos de sus contactos existentes como clientes, proveedores o bancos. Crear un cliente, un proveedor o una cuenta bancaria a partir de un contacto le permite usar datos existentes. Al crear un cliente, proveedor o cuenta bancaria de esta forma, se sincroniza con el contacto. La sincronización unifica la información que es común entre los contactos y los clientes, los proveedores o la cuenta bancaria.
+# <a name="create-a-customer-vendor-or-bank-account-from-a-contact"></a><span data-ttu-id="5a716-102">Crear un contacto, proveedor o una cuenta bancaria a partir de un contacto</span><span class="sxs-lookup"><span data-stu-id="5a716-102">Create a Customer, Vendor, or Bank Account From a Contact</span></span>
+<span data-ttu-id="5a716-103">Puede que desee registrar algunos de sus contactos existentes como clientes, proveedores o bancos.</span><span class="sxs-lookup"><span data-stu-id="5a716-103">You may want to record some of your existing contacts as customers, vendors, or bank accounts.</span></span> <span data-ttu-id="5a716-104">Crear un cliente, un proveedor o una cuenta bancaria a partir de un contacto le permite usar datos existentes.</span><span class="sxs-lookup"><span data-stu-id="5a716-104">Creating a customer, vendor, or bank account from a contact enables you use existing data.</span></span> <span data-ttu-id="5a716-105">Al crear un cliente, proveedor o cuenta bancaria de esta forma, se sincroniza con el contacto.</span><span class="sxs-lookup"><span data-stu-id="5a716-105">When you create a customer, vendor, or bank account this way, it is synchronized with the contact.</span></span> <span data-ttu-id="5a716-106">La sincronización unifica la información que es común entre los contactos y los clientes, los proveedores o la cuenta bancaria.</span><span class="sxs-lookup"><span data-stu-id="5a716-106">Synchronization makes information that is common between contacts and customers, vendors, or bank account the same.</span></span>
 
-Para poder registrar los contactos de esta forma, es necesario especificar un código de relación de negocio para los clientes, proveedores y las cuentas bancarias en la ventana **Configuración de marketing**. Si va a registrar contactos como cuentas bancarias, también debe especificar números de serie para las cuentas bancarias en la ventana **Configuración de contabilidad**.
+<span data-ttu-id="5a716-107">Para poder registrar los contactos de esta forma, es necesario especificar un código de relación de negocio para los clientes, proveedores y las cuentas bancarias en la ventana **Configuración de marketing**.</span><span class="sxs-lookup"><span data-stu-id="5a716-107">Before you can record contacts this way, you must specify a business relation code for customers, vendors, and bank accounts in the **Marketing Setup** window.</span></span> <span data-ttu-id="5a716-108">Si va a registrar contactos como cuentas bancarias, también debe especificar números de serie para las cuentas bancarias en la ventana **Configuración de contabilidad**.</span><span class="sxs-lookup"><span data-stu-id="5a716-108">If you will be recording contacts as bank accounts, you must also specify numbers series for bank accounts in the **General Ledger Setup** window.</span></span>
 
-## <a name="to-create-a-contact-as-a-customer-vendor-or-bank-account"></a>Para crear un contacto como cliente, proveedor o banco
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Contactos** y, a continuación, seleccione el enlace relacionado.
-2. Seleccione el contacto que desea crear como cliente, proveedor o banco.
-3. Elija la acción **Crear como** y, a continuación, elija **Cliente**, **Proveedor** o **Banco**.
-4. Confirme el mensaje que aparece después.
+## <a name="to-create-a-contact-as-a-customer-vendor-or-bank-account"></a><span data-ttu-id="5a716-109">Para crear un contacto como cliente, proveedor o banco</span><span class="sxs-lookup"><span data-stu-id="5a716-109">To create a contact as a customer, vendor, or bank account</span></span>
+1. <span data-ttu-id="5a716-110">En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Contactos** y, a continuación, seleccione el enlace relacionado.</span><span class="sxs-lookup"><span data-stu-id="5a716-110">In the top right corner, choose the **Search for Page or Report** icon, enter **Contacts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="5a716-111">Seleccione el contacto que desea crear como cliente, proveedor o banco.</span><span class="sxs-lookup"><span data-stu-id="5a716-111">Select the contact you want to create as a customer, vendor, or bank account.</span></span>
+3. <span data-ttu-id="5a716-112">Elija la acción **Crear como** y, a continuación, elija **Cliente**, **Proveedor** o **Banco**.</span><span class="sxs-lookup"><span data-stu-id="5a716-112">Choose the **Create As** action, and then choose either **Customer**, **Vendor**, or **Bank**.</span></span>
+4. <span data-ttu-id="5a716-113">Confirme el mensaje que aparece después.</span><span class="sxs-lookup"><span data-stu-id="5a716-113">Confirm the subsequent message.</span></span>
 
-La información de contacto se transfiere desde la ficha **Contacto** a la ficha **Cuenta bancaria**, en la ficha **Cliente** o en la ficha **Proveedor**. Tal vez desee agregar información específica a cada una de las fichas, como detalles de facturación y de pago.
+<span data-ttu-id="5a716-114">La información de contacto se transfiere desde la ficha **Contacto** a la ficha **Cuenta bancaria**, en la ficha **Cliente** o en la ficha **Proveedor**.</span><span class="sxs-lookup"><span data-stu-id="5a716-114">The contact information is transferred from the **Contact** card to the **Bank Account** card, the **Customer** card, or the **Vendor** card.</span></span> <span data-ttu-id="5a716-115">Tal vez desee agregar información específica a cada una de las fichas, como detalles de facturación y de pago.</span><span class="sxs-lookup"><span data-stu-id="5a716-115">You may want to add specific information to each of the cards, such as invoicing and payment details.</span></span>
 
-## <a name="see-also"></a>Consulte también
-[Procedimiento para crear empresas de contacto](marketing-create-contact-companies.md)  
-[Procedimiento para crear personas de contacto](marketing-create-contact-persons.md)  
-[Configurar la gestión de marketing y contactos](marketing-setup-marketing.md)  
-[Sincronizar contactos con clientes, proveedores y cuentas bancarias](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
-[Procedimiento: Cómo vincular contactos con clientes, proveedores o cuentas bancarias existentes](marketing-how-link-contact.md)  
-[Asignar relaciones de negocio a un contacto](marketing-business-relations.md#assign-business-relations-to-a-contact)
+## <a name="see-also"></a><span data-ttu-id="5a716-116">Consulte también</span><span class="sxs-lookup"><span data-stu-id="5a716-116">See Also</span></span>
+[<span data-ttu-id="5a716-117">Procedimiento para crear empresas de contacto</span><span class="sxs-lookup"><span data-stu-id="5a716-117">How to: Create Contact Companies</span></span>](marketing-create-contact-companies.md)  
+[<span data-ttu-id="5a716-118">Procedimiento para crear personas de contacto</span><span class="sxs-lookup"><span data-stu-id="5a716-118">How to: Create Contact Persons</span></span>](marketing-create-contact-persons.md)  
+[<span data-ttu-id="5a716-119">Configurar la gestión de marketing y contactos</span><span class="sxs-lookup"><span data-stu-id="5a716-119">Set Up Marketing and Contact Management</span></span>](marketing-setup-marketing.md)  
+[<span data-ttu-id="5a716-120">Sincronizar contactos con clientes, proveedores y cuentas bancarias</span><span class="sxs-lookup"><span data-stu-id="5a716-120">Synchronizing Contacts With Customers, Vendors, and Bank Accounts</span></span>](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
+[<span data-ttu-id="5a716-121">Procedimiento: Cómo vincular contactos con clientes, proveedores o cuentas bancarias existentes</span><span class="sxs-lookup"><span data-stu-id="5a716-121">How to: Link Contacts to Existing Customers, Vendors, or Bank Accounts</span></span>](marketing-how-link-contact.md)  
+[<span data-ttu-id="5a716-122">Asignar relaciones de negocio a un contacto</span><span class="sxs-lookup"><span data-stu-id="5a716-122">Assign Business Relations to a Contact</span></span>](marketing-business-relations.md#assign-business-relations-to-a-contact)
 

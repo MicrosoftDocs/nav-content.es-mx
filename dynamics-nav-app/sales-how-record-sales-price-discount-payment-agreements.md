@@ -9,62 +9,62 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2d6438108fb2c36bb6f0d44efddc053bd628d068
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 80a0ac1edc994f44795f7f907a647b269578bc47
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-record-sales-prices-and-discounts"></a>Procedimiento: Registrar precios y descuentos de ventas
-Es necesario definir los diferentes acuerdos de precios y descuentos que se aplican al vender a distintos clientes de modo que se apliquen las reglas y los valores acordados a los documentos de venta que se crean para los clientes.
+# <a name="how-to-record-sales-prices-and-discounts"></a><span data-ttu-id="0abc5-102">Procedimiento: Registrar precios y descuentos de ventas</span><span class="sxs-lookup"><span data-stu-id="0abc5-102">How to: Record Sales Prices and Discounts</span></span>
+<span data-ttu-id="0abc5-103">Es necesario definir los diferentes acuerdos de precios y descuentos que se aplican al vender a distintos clientes de modo que se apliquen las reglas y los valores acordados a los documentos de venta que se crean para los clientes.</span><span class="sxs-lookup"><span data-stu-id="0abc5-103">The different price and discount agreements that apply when selling to different customers must be defined so that the agreed rules and values are applied to sales documents that you create for the customers.</span></span>
 
-Respecto a los precios, puede tener una precio especial de venta insertado en las líneas de venta si existe una cierta combinación de cliente, producto, cantidad mínima, unidad de medida o fecha de inicio o de fin.
+<span data-ttu-id="0abc5-104">Respecto a los precios, puede tener una precio especial de venta insertado en las líneas de venta si existe una cierta combinación de cliente, producto, cantidad mínima, unidad de medida o fecha de inicio o de fin.</span><span class="sxs-lookup"><span data-stu-id="0abc5-104">Concerning prices, you can have a special sales price inserted on sales lines if a certain combination of customer, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span>
 
-Respecto a los descuentos, puede configurar y usar dos tipos de descuentos de ventas:
+<span data-ttu-id="0abc5-105">Respecto a los descuentos, puede configurar y usar dos tipos de descuentos de ventas:</span><span class="sxs-lookup"><span data-stu-id="0abc5-105">Concerning discounts, you can set up and use two types of sales discounts:</span></span>
 
-|Tipo de descuento |Descripción |
+|<span data-ttu-id="0abc5-106">Tipo de descuento</span><span class="sxs-lookup"><span data-stu-id="0abc5-106">Discount Type</span></span> |<span data-ttu-id="0abc5-107">Descripción</span><span class="sxs-lookup"><span data-stu-id="0abc5-107">Description</span></span> |
 |--------------|------------|
-|**Descuento línea venta**|Un importe de descuento que está insertado en las líneas de venta si existe una cierta combinación de cliente, producto, cantidad mínima, unidad de medida o fecha de inicio o de fin. Funciona igual que para los precios de venta.|
-|**Descuento en factura**|Un porcentaje de descuento que se resta del total del documento si el importe de todas las líneas de un documento de venta supera cierto límite.|
+|<span data-ttu-id="0abc5-108">**Descuento línea venta**</span><span class="sxs-lookup"><span data-stu-id="0abc5-108">**Sales Line Discount**</span></span>|<span data-ttu-id="0abc5-109">Un importe de descuento que está insertado en las líneas de venta si existe una cierta combinación de cliente, producto, cantidad mínima, unidad de medida o fecha de inicio o de fin.</span><span class="sxs-lookup"><span data-stu-id="0abc5-109">An amount discount that is inserted on sales lines if a certain combination of customer, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span> <span data-ttu-id="0abc5-110">Funciona igual que para los precios de venta.</span><span class="sxs-lookup"><span data-stu-id="0abc5-110">This works in the same way as for sales prices.</span></span>|
+|<span data-ttu-id="0abc5-111">**Descuento en factura**</span><span class="sxs-lookup"><span data-stu-id="0abc5-111">**Invoice Discount**</span></span>|<span data-ttu-id="0abc5-112">Un porcentaje de descuento que se resta del total del documento si el importe de todas las líneas de un documento de venta supera cierto límite.</span><span class="sxs-lookup"><span data-stu-id="0abc5-112">A percentage discount that is subtracted from the document total if the value amount of all lines on a sales document exceeds a certain minimum.</span></span>|
 
-Dado que los descuentos de línea de venta y los precios de venta se basan en una combinación de producto y cliente, también puede basar esta configuración en la ficha del producto al que se aplican las reglas y valores.
+<span data-ttu-id="0abc5-113">Dado que los descuentos de línea de venta y los precios de venta se basan en una combinación de producto y cliente, también puede basar esta configuración en la ficha del producto al que se aplican las reglas y valores.</span><span class="sxs-lookup"><span data-stu-id="0abc5-113">Because sales prices and sales line discounts are based on a combination of item and customer, you can also perform this configuration from the item card of the item where the rules and values apply.</span></span>
 
-## <a name="to-set-up-a-sales-price-for-a-customer"></a>Para configurar un precio de venta para un cliente
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Clientes** y, a continuación, seleccione el enlace relacionado.
-2. Abra la ficha de cliente correspondiente y, a continuación, elija la acción **Precios**.
+## <a name="to-set-up-a-sales-price-for-a-customer"></a><span data-ttu-id="0abc5-114">Para configurar un precio de venta para un cliente</span><span class="sxs-lookup"><span data-stu-id="0abc5-114">To set up a sales price for a customer</span></span>
+1. <span data-ttu-id="0abc5-115">En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Clientes** y, a continuación, seleccione el enlace relacionado.</span><span class="sxs-lookup"><span data-stu-id="0abc5-115">In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="0abc5-116">Abra la ficha de cliente correspondiente y, a continuación, elija la acción **Precios**.</span><span class="sxs-lookup"><span data-stu-id="0abc5-116">Open the relevant customer card, and then choose the **Prices** action.</span></span>
 
-    El campo **Tipo venta** se rellena con **Cliente**y el campo **Código ventas** se rellena con el número de cliente.
-3. Rellene los campos de la línea como sea necesario. Seleccione un campo para obtener una breve descripción del campo o el enlace a información adicional.
-4. Rellene una línea para cada combinación que aplicará un precio de venta especial al cliente.
+    <span data-ttu-id="0abc5-117">El campo **Tipo venta** se rellena con **Cliente**y el campo **Código ventas** se rellena con el número de cliente.</span><span class="sxs-lookup"><span data-stu-id="0abc5-117">The **Sales Type** field is prefilled with **Customer**, and the **Sales Code** field is prefilled with the customer number.</span></span>
+3. <span data-ttu-id="0abc5-118">Rellene los campos de la línea como sea necesario.</span><span class="sxs-lookup"><span data-stu-id="0abc5-118">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="0abc5-119">Seleccione un campo para obtener una breve descripción del campo o el enlace a información adicional.</span><span class="sxs-lookup"><span data-stu-id="0abc5-119">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="0abc5-120">Rellene una línea para cada combinación que aplicará un precio de venta especial al cliente.</span><span class="sxs-lookup"><span data-stu-id="0abc5-120">Fill a line for each combination that will grant a special sales price to the customer.</span></span>
 
-## <a name="to-set-up-a-sales-line-discount-for-a-customer"></a>Para configurar un descuento de línea de venta para un cliente
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Clientes** y, a continuación, seleccione el enlace relacionado.
-2. Abra la ficha de cliente correspondiente y, a continuación, elija la acción **Dto. línea**.
+## <a name="to-set-up-a-sales-line-discount-for-a-customer"></a><span data-ttu-id="0abc5-121">Para configurar un descuento de línea de venta para un cliente</span><span class="sxs-lookup"><span data-stu-id="0abc5-121">To set up a sales line discount for a customer</span></span>
+1. <span data-ttu-id="0abc5-122">En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Clientes** y, a continuación, seleccione el enlace relacionado.</span><span class="sxs-lookup"><span data-stu-id="0abc5-122">In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="0abc5-123">Abra la ficha de cliente correspondiente y, a continuación, elija la acción **Dto. línea**.</span><span class="sxs-lookup"><span data-stu-id="0abc5-123">Open the relevant customer card, and then choose the **Line Discounts** action.</span></span>
 
-    El campo **Tipo venta** se rellena con **Cliente**y el campo **Código ventas** se rellena con el número de cliente.
-3.  Rellene los campos de la línea como sea necesario. Seleccione un campo para obtener una breve descripción del campo o el enlace a información adicional.
-4. Rellene una línea para cada combinación que aplicará un descuento de línea de venta al cliente.
+    <span data-ttu-id="0abc5-124">El campo **Tipo venta** se rellena con **Cliente**y el campo **Código ventas** se rellena con el número de cliente.</span><span class="sxs-lookup"><span data-stu-id="0abc5-124">The **Sales Type** field is prefilled with **Customer**, and the **Sales Code** field is prefilled with the customer number.</span></span>
+3.  <span data-ttu-id="0abc5-125">Rellene los campos de la línea como sea necesario.</span><span class="sxs-lookup"><span data-stu-id="0abc5-125">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="0abc5-126">Seleccione un campo para obtener una breve descripción del campo o el enlace a información adicional.</span><span class="sxs-lookup"><span data-stu-id="0abc5-126">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="0abc5-127">Rellene una línea para cada combinación que aplicará un descuento de línea de venta al cliente.</span><span class="sxs-lookup"><span data-stu-id="0abc5-127">Fill a line for each combination that will grant a sales line discount to the customer.</span></span>
 
-## <a name="to-set-up-an-invoice-discount-for-a-customer"></a>Para configurar un descuento en factura para un cliente
-Una vez que haya determinado los clientes que pueden obtener descuentos en factura, introduzca el código de descuento en factura en las fichas de cliente y especifique los términos de cada código.
+## <a name="to-set-up-an-invoice-discount-for-a-customer"></a><span data-ttu-id="0abc5-128">Para configurar un descuento en factura para un cliente</span><span class="sxs-lookup"><span data-stu-id="0abc5-128">To set up an invoice discount for a customer</span></span>
+<span data-ttu-id="0abc5-129">Una vez que haya determinado los clientes que pueden obtener descuentos en factura, introduzca el código de descuento en factura en las fichas de cliente y especifique los términos de cada código.</span><span class="sxs-lookup"><span data-stu-id="0abc5-129">When you have decided which customers are eligible for invoice discounts, enter the invoice discount code on the customer cards and set up the terms for each code.</span></span>
 
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Clientes** y, a continuación, seleccione el enlace relacionado.
-2. Abra la ficha de un cliente que pueda obtener descuentos en factura.
-3. En el campo **Código descuento factura**, seleccione un código para los términos relevantes de la factura con descuentos que usará para calcular los descuentos en facturas para el cliente.
+1. <span data-ttu-id="0abc5-130">En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Clientes** y, a continuación, seleccione el enlace relacionado.</span><span class="sxs-lookup"><span data-stu-id="0abc5-130">In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="0abc5-131">Abra la ficha de un cliente que pueda obtener descuentos en factura.</span><span class="sxs-lookup"><span data-stu-id="0abc5-131">Open the customer card for a customer that will be eligible for invoice discounts.</span></span>
+3. <span data-ttu-id="0abc5-132">En el campo **Código descuento factura**, seleccione un código para los términos relevantes de la factura con descuentos que usará para calcular los descuentos en facturas para el cliente.</span><span class="sxs-lookup"><span data-stu-id="0abc5-132">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the customer.</span></span>
 
-    **Nota**: Los códigos de descuento en factura se representan por las fichas existentes del cliente. Lo que permite asignar rápidamente las condiciones de descuento en factura a clientes realizando el picking del nombre de otros clientes con los mismos términos.
+    <span data-ttu-id="0abc5-133">**Nota**: Los códigos de descuento en factura se representan por las fichas existentes del cliente.</span><span class="sxs-lookup"><span data-stu-id="0abc5-133">**Note**: Invoice discount codes are represented by existing customer cards.</span></span> <span data-ttu-id="0abc5-134">Lo que permite asignar rápidamente las condiciones de descuento en factura a clientes realizando el picking del nombre de otros clientes con los mismos términos.</span><span class="sxs-lookup"><span data-stu-id="0abc5-134">This enables you to quickly assign invoice discount terms to customers by picking the name of another customer who will have the same terms.</span></span>
 
-    Configure de nuevo los términos de descuento en factura para ventas.
-4. En la ventana **Ficha de cliente**, seleccione la acción **Descuento factura**. Aparecerá la ventana **Dtos. factura cliente**.
-5. En el campo **Código divisa**, introduzca el código de una divisa que se aplique a los términos de descuento en factura en la línea. Deje el campo en blanco para establecer condiciones de descuento de factura en USD.
-6. En el campo **Importe mínimo**, escriba el importe mínimo que deba tener una factura para optar al descuento.
-7. En el campo **% descuento**, introduzca el descuento en la factura como un porcentaje del importe de la factura.
-8. Repita los pasos del 5 al 7 para cada divisa que el cliente reciba un descuento diferente de factura.
+    <span data-ttu-id="0abc5-135">Configure de nuevo los términos de descuento en factura para ventas.</span><span class="sxs-lookup"><span data-stu-id="0abc5-135">Proceed to set up new the sales invoice discount terms.</span></span>
+4. <span data-ttu-id="0abc5-136">En la ventana **Ficha de cliente**, seleccione la acción **Descuento factura**.</span><span class="sxs-lookup"><span data-stu-id="0abc5-136">In the **Customer Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="0abc5-137">Aparecerá la ventana **Dtos. factura cliente**.</span><span class="sxs-lookup"><span data-stu-id="0abc5-137">The **Cust. Invoice Discounts** window opens.</span></span>
+5. <span data-ttu-id="0abc5-138">En el campo **Código divisa**, introduzca el código de una divisa que se aplique a los términos de descuento en factura en la línea.</span><span class="sxs-lookup"><span data-stu-id="0abc5-138">In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to.</span></span> <span data-ttu-id="0abc5-139">Deje el campo en blanco para establecer condiciones de descuento de factura en USD.</span><span class="sxs-lookup"><span data-stu-id="0abc5-139">Leave the field blank to set up invoice discount terms in USD.</span></span>
+6. <span data-ttu-id="0abc5-140">En el campo **Importe mínimo**, escriba el importe mínimo que deba tener una factura para optar al descuento.</span><span class="sxs-lookup"><span data-stu-id="0abc5-140">In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.</span></span>
+7. <span data-ttu-id="0abc5-141">En el campo **% descuento**, introduzca el descuento en la factura como un porcentaje del importe de la factura.</span><span class="sxs-lookup"><span data-stu-id="0abc5-141">In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.</span></span>
+8. <span data-ttu-id="0abc5-142">Repita los pasos del 5 al 7 para cada divisa que el cliente reciba un descuento diferente de factura.</span><span class="sxs-lookup"><span data-stu-id="0abc5-142">Repeat steps 5 through 7 for each currency that the customer will receive a different invoice discount for.</span></span>
 
-El descuento en factura ahora está configurado y asignado al cliente en cuestión. Al seleccionar el código del cliente en el campo **Cód. dto. factura** en otras fichas de cliente, se asigna el mismo descuento en factura a estos clientes.
+<span data-ttu-id="0abc5-143">El descuento en factura ahora está configurado y asignado al cliente en cuestión.</span><span class="sxs-lookup"><span data-stu-id="0abc5-143">The invoice discount is now set up and assigned to the customer in question.</span></span> <span data-ttu-id="0abc5-144">Al seleccionar el código del cliente en el campo **Cód. dto. factura** en otras fichas de cliente, se asigna el mismo descuento en factura a estos clientes.</span><span class="sxs-lookup"><span data-stu-id="0abc5-144">When you select the customer code in the **Invoice Disc. Code** field on other customer cards, the same invoice discount is assigned to those customers.</span></span>
 
-## <a name="see-also"></a>Consulte también  
-[Configurar ventas](sales-setup-sales.md)  
-[Gestionar ventas](sales-manage-sales.md)
+## <a name="see-also"></a><span data-ttu-id="0abc5-145">Consulte también</span><span class="sxs-lookup"><span data-stu-id="0abc5-145">See Also</span></span>  
+[<span data-ttu-id="0abc5-146">Configurar ventas</span><span class="sxs-lookup"><span data-stu-id="0abc5-146">Set Up Sales</span></span>](sales-setup-sales.md)  
+[<span data-ttu-id="0abc5-147">Gestionar ventas</span><span class="sxs-lookup"><span data-stu-id="0abc5-147">Manage Sales</span></span>](sales-manage-sales.md)
 

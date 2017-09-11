@@ -20,28 +20,28 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="welcome-to-includenavnowlongincludesnavnowlongmdmd"></a>[!INCLUDE[navnowlong](includes/navnowlong_md.md)]
-[!INCLUDE[navnow](includes/navnow_md.md)] es una solución de administración empresarial para pequeñas y medianas empresas que automatiza y optimiza los procesos empresariales y le ayuda a administrar su empresa. Registrarse es muy fácil y puede migrar los datos de la empresa existentes desde su sistema de herencia.
+# <a name="welcome-to-includenavnowlongincludesnavnowlongmdmd"></a><span data-ttu-id="9d404-103">[!INCLUDE[navnowlong](includes/navnowlong_md.md)]</span><span class="sxs-lookup"><span data-stu-id="9d404-103">Welcome to [!INCLUDE[navnowlong](includes/navnowlong_md.md)]</span></span>
+[!INCLUDE[navnow](includes/navnow_md.md)]<span data-ttu-id="9d404-104"> es una solución de administración empresarial para pequeñas y medianas empresas que automatiza y optimiza los procesos empresariales y le ayuda a administrar su empresa.</span><span class="sxs-lookup"><span data-stu-id="9d404-104"> is a business management solution for small and mid-sized organizations that automates and streamlines business processes and helps you manage your business.</span></span> <span data-ttu-id="9d404-105">Registrarse es muy fácil y puede migrar los datos de la empresa existentes desde su sistema de herencia.</span><span class="sxs-lookup"><span data-stu-id="9d404-105">Signing up is easy, and you can migrate existing business data from your legacy system.</span></span>
 
-## <a name="get-to-know-includenavnowincludesnavnowmdmd"></a>Familiarícese con [!INCLUDE[navnow](includes/navnow_md.md)]
-En [!INCLUDE[navnow](includes/navnow_md.md)], le serán familiares algunos aspectos, pero otros no.  
+## <a name="get-to-know-includenavnowincludesnavnowmdmd"></a><span data-ttu-id="9d404-106">Familiarícese con [!INCLUDE[navnow](includes/navnow_md.md)]</span><span class="sxs-lookup"><span data-stu-id="9d404-106">Get to know [!INCLUDE[navnow](includes/navnow_md.md)]</span></span>
+<span data-ttu-id="9d404-107">En [!INCLUDE[navnow](includes/navnow_md.md)], le serán familiares algunos aspectos, pero otros no.</span><span class="sxs-lookup"><span data-stu-id="9d404-107">In [!INCLUDE[navnow](includes/navnow_md.md)], some things will be familiar to you, and other things might be unfamiliar.</span></span>  
 
-Para algunos consejos rápidos y que debe conocer, vea:  
+<span data-ttu-id="9d404-108">Para algunos consejos rápidos y que debe conocer, vea:</span><span class="sxs-lookup"><span data-stu-id="9d404-108">For some quick, nice-to-know tricks, see:</span></span>  
 
-* [Buscar cosas](ui-search.md)  
-* [Configurar filtros](ui-enter-criteria-filters.md)  
-* [Ordenar datos de listas](ui-sorting.md)  
+* [<span data-ttu-id="9d404-109">Buscar cosas</span><span class="sxs-lookup"><span data-stu-id="9d404-109">Find things</span></span>](ui-search.md)  
+* [<span data-ttu-id="9d404-110">Configurar filtros</span><span class="sxs-lookup"><span data-stu-id="9d404-110">Set filters</span></span>](ui-enter-criteria-filters.md)  
+* [<span data-ttu-id="9d404-111">Ordenar datos de listas</span><span class="sxs-lookup"><span data-stu-id="9d404-111">Sort data in lists</span></span>](ui-sorting.md)  
 
-Para obtener más información, consulte [Trabajar con [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md).  
+<span data-ttu-id="9d404-112">Para obtener más información, consulte [Trabajar con [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md).</span><span class="sxs-lookup"><span data-stu-id="9d404-112">For more information, see [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md).</span></span>  
 
-## <a name="the-home-pages"></a>Páginas principales
-Las páginas principales utilizan un diseño basado en roles para ofrecerle acceso rápido a las herramientas de procesos e inteligencia empresariales que necesita para realizar su trabajo. Por ejemplo, un contable puede supervisar pagos y aprobaciones, y ver gráficos de rendimiento financiero.  
+## <a name="the-home-pages"></a><span data-ttu-id="9d404-113">Páginas principales</span><span class="sxs-lookup"><span data-stu-id="9d404-113">The Home pages</span></span>
+<span data-ttu-id="9d404-114">Las páginas principales utilizan un diseño basado en roles para ofrecerle acceso rápido a las herramientas de procesos e inteligencia empresariales que necesita para realizar su trabajo.</span><span class="sxs-lookup"><span data-stu-id="9d404-114">Home pages use a role-centric design to give you fast access to the business process and intelligence tools that you need to do your job.</span></span> <span data-ttu-id="9d404-115">Por ejemplo, un contable puede supervisar pagos y aprobaciones, y ver gráficos de rendimiento financiero.</span><span class="sxs-lookup"><span data-stu-id="9d404-115">For example, an accountant can monitor payments and approvals, and view finance performance charts.</span></span>  
 
-## <a name="see-also"></a>Consulte también
-[Trabajar con [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
-[Equipar [!INCLUDE[navnow](includes/navnow_md.md)]](setup.md)  
-[Finanzas](finance-setup.md)  
-[Personalizar [!INCLUDE[navnow](includes/navnow_md.md)] usando extensiones](ui-extensions.md)  
-[Usar [!INCLUDE[navnow](includes/navnow_md.md)] como mi bandeja de entrada de empresa en Outlook](across-outlook.md)  
-[Obtener [!INCLUDE[navnow](includes/navnow_md.md)] en el dispositivo móvil](install-mobile-app.md)  
+## <a name="see-also"></a><span data-ttu-id="9d404-116">Consulte también</span><span class="sxs-lookup"><span data-stu-id="9d404-116">See Also</span></span>
+<span data-ttu-id="9d404-117">[Trabajar con [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="9d404-117">[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)</span></span>  
+<span data-ttu-id="9d404-118">[Equipar [!INCLUDE[navnow](includes/navnow_md.md)]](setup.md)</span><span class="sxs-lookup"><span data-stu-id="9d404-118">[Setting Up [!INCLUDE[navnow](includes/navnow_md.md)]](setup.md)</span></span>  
+[<span data-ttu-id="9d404-119">Finanzas</span><span class="sxs-lookup"><span data-stu-id="9d404-119">Finance</span></span>](finance-setup.md)  
+<span data-ttu-id="9d404-120">[Personalizar [!INCLUDE[navnow](includes/navnow_md.md)] usando extensiones](ui-extensions.md)</span><span class="sxs-lookup"><span data-stu-id="9d404-120">[Customizing [!INCLUDE[navnow](includes/navnow_md.md)] Using Extensions](ui-extensions.md)</span></span>  
+<span data-ttu-id="9d404-121">[Usar [!INCLUDE[navnow](includes/navnow_md.md)] como mi bandeja de entrada de empresa en Outlook](across-outlook.md)</span><span class="sxs-lookup"><span data-stu-id="9d404-121">[Using [!INCLUDE[navnow](includes/navnow_md.md)] as my Business Inbox in Outlook](across-outlook.md)</span></span>  
+<span data-ttu-id="9d404-122">[Obtener [!INCLUDE[navnow](includes/navnow_md.md)] en el dispositivo móvil](install-mobile-app.md)</span><span class="sxs-lookup"><span data-stu-id="9d404-122">[Getting [!INCLUDE[navnow](includes/navnow_md.md)] on Your Mobile Device](install-mobile-app.md)</span></span>  
 

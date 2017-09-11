@@ -9,47 +9,47 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f34bef80c64cbad0a0b20d4d021cefbdc5a1cb64
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: aa36ff606cf832049e7f002af724a9185289a2b3
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-transfer-bank-funds"></a>Procedimiento: Transferir fondos bancarios
-En ocasiones es necesario transferir un importe desde una cuenta bancaria a otra. Para hacerlo, debe registrar una transacción en el diario general. La tarea varía en función de si los bancos usan la misma divisa o distintas divisas.
+# <a name="how-to-transfer-bank-funds"></a><span data-ttu-id="c161c-102">Procedimiento: Transferir fondos bancarios</span><span class="sxs-lookup"><span data-stu-id="c161c-102">How to: Transfer Bank Funds</span></span>
+<span data-ttu-id="c161c-103">En ocasiones es necesario transferir un importe desde una cuenta bancaria a otra.</span><span class="sxs-lookup"><span data-stu-id="c161c-103">You may sometimes need to transfer an amount from one bank account to another.</span></span> <span data-ttu-id="c161c-104">Para hacerlo, debe registrar una transacción en el diario general.</span><span class="sxs-lookup"><span data-stu-id="c161c-104">To do this, you must post the a transaction in the general journal.</span></span> <span data-ttu-id="c161c-105">La tarea varía en función de si los bancos usan la misma divisa o distintas divisas.</span><span class="sxs-lookup"><span data-stu-id="c161c-105">The task varies depending on whether the bank accounts use the same currency or different currencies.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a>Para registrar transferencias entre bancos con el mismo código de divisa
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Diario general** y, a continuación, seleccione el enlace relacionado.
-2. En una línea de diario, rellene **Fecha registro** y **N. º documento**. .
-3. En el campo **Tipo mov**, seleccione **Banco**.
-4. En el campo **N.º cuenta** seleccione la cuenta desde la que quiere transferir los fondos.
-5. En el campo **Importe**, introduzca el importe que quiere transferir.
-6. En el campo **Tipo contrapartida**, seleccione **Cuenta bancaria**.
-7. En el campo **N.º cuenta contrapartida**, seleccione la cuenta a la que quiere transferir los fondos.
-8. Registre el diario.
+## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a><span data-ttu-id="c161c-106">Para registrar transferencias entre bancos con el mismo código de divisa</span><span class="sxs-lookup"><span data-stu-id="c161c-106">To post a transfer between bank accounts with the same currency code</span></span>
+1. <span data-ttu-id="c161c-107">En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Diario general** y, a continuación, seleccione el enlace relacionado.</span><span class="sxs-lookup"><span data-stu-id="c161c-107">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="c161c-108">En una línea de diario, rellene **Fecha registro** y **N. º documento**.</span><span class="sxs-lookup"><span data-stu-id="c161c-108">On a journal line, fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="c161c-109">.</span><span class="sxs-lookup"><span data-stu-id="c161c-109">fields.</span></span>
+3. <span data-ttu-id="c161c-110">En el campo **Tipo mov**, seleccione **Banco**.</span><span class="sxs-lookup"><span data-stu-id="c161c-110">In the **Account Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="c161c-111">En el campo **N.º cuenta**</span><span class="sxs-lookup"><span data-stu-id="c161c-111">In the **Account No.**</span></span> <span data-ttu-id="c161c-112">seleccione la cuenta desde la que quiere transferir los fondos.</span><span class="sxs-lookup"><span data-stu-id="c161c-112">field, select the bank from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="c161c-113">En el campo **Importe**, introduzca el importe que quiere transferir.</span><span class="sxs-lookup"><span data-stu-id="c161c-113">In the **Amount** field, enter the amount to be transferred.</span></span>
+6. <span data-ttu-id="c161c-114">En el campo **Tipo contrapartida**, seleccione **Cuenta bancaria**.</span><span class="sxs-lookup"><span data-stu-id="c161c-114">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="c161c-115">En el campo **N.º cuenta contrapartida**,</span><span class="sxs-lookup"><span data-stu-id="c161c-115">In the **Bal. Account No.**</span></span> <span data-ttu-id="c161c-116">seleccione la cuenta a la que quiere transferir los fondos.</span><span class="sxs-lookup"><span data-stu-id="c161c-116">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="c161c-117">Registre el diario.</span><span class="sxs-lookup"><span data-stu-id="c161c-117">Post the journal.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a>Para registrar transferencias entre bancos con códigos de divisa distintos
-Para transferir fondos entre cuentas bancarias que usan distintas divisas, debe registrar dos líneas de diario general.
+## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a><span data-ttu-id="c161c-118">Para registrar transferencias entre bancos con códigos de divisa distintos</span><span class="sxs-lookup"><span data-stu-id="c161c-118">To post a transfer between bank accounts with different currency codes</span></span>
+<span data-ttu-id="c161c-119">Para transferir fondos entre cuentas bancarias que usan distintas divisas, debe registrar dos líneas de diario general.</span><span class="sxs-lookup"><span data-stu-id="c161c-119">To transfer funds between bank accounts that use different currencies, you must post two general journal lines.</span></span>
 
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Diario general** y, a continuación, seleccione el enlace relacionado.
-2. Cree dos líneas de diario y rellene los campos **Fecha de registro** y **N.º de documento**. .
-3. En la primera línea de diario, en el campo **Tipo**, seleccione **Cuenta bancaria**.
-4. En el campo **N.º cuenta** seleccione la cuenta desde la que quiere transferir los fondos.
-5. En el campo **Importe**, introduzca el importe en la divisa de la cuenta bancaria. Escriba los importes de crédito con un signo menos. Escriba los importes de débito sin el signo menos.
-6. En el campo **Tipo contrapartida**, seleccione **Cuenta bancaria**.
-7. En el campo **N.º cuenta contrapartida**, seleccione la cuenta a la que quiere transferir los fondos.
-8. En la segunda línea de diario, en el campo **Tipo**, seleccione **Cuenta bancaria**.
-9. En el campo **N.º cuenta** seleccione la cuenta a la que quiere transferir los fondos.
-10. En el campo **Importe**, introduzca el importe en la divisa de la cuenta bancaria. Escriba los importes de crédito con un signo menos. Escriba los importes de débito sin el signo menos.
-11. En el campo **Tipo contrapartida**, seleccione **Cuenta bancaria**.  
-12. En el campo **N.º cuenta contrapartida**, seleccione la cuenta desde la que quiere transferir los fondos.
+1. <span data-ttu-id="c161c-120">En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Diario general** y, a continuación, seleccione el enlace relacionado.</span><span class="sxs-lookup"><span data-stu-id="c161c-120">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="c161c-121">Cree dos líneas de diario y rellene los campos **Fecha de registro** y **N.º de documento**.</span><span class="sxs-lookup"><span data-stu-id="c161c-121">Create two journal lines, and fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="c161c-122">.</span><span class="sxs-lookup"><span data-stu-id="c161c-122">fields.</span></span>
+3. <span data-ttu-id="c161c-123">En la primera línea de diario, en el campo **Tipo**, seleccione **Cuenta bancaria**.</span><span class="sxs-lookup"><span data-stu-id="c161c-123">On the first journal line, in the **Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="c161c-124">En el campo **N.º cuenta**</span><span class="sxs-lookup"><span data-stu-id="c161c-124">In the **Account No.**</span></span> <span data-ttu-id="c161c-125">seleccione la cuenta desde la que quiere transferir los fondos.</span><span class="sxs-lookup"><span data-stu-id="c161c-125">field, select the bank account from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="c161c-126">En el campo **Importe**, introduzca el importe en la divisa de la cuenta bancaria.</span><span class="sxs-lookup"><span data-stu-id="c161c-126">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="c161c-127">Escriba los importes de crédito con un signo menos.</span><span class="sxs-lookup"><span data-stu-id="c161c-127">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="c161c-128">Escriba los importes de débito sin el signo menos.</span><span class="sxs-lookup"><span data-stu-id="c161c-128">Enter debit amounts without a minus sign.</span></span>
+6. <span data-ttu-id="c161c-129">En el campo **Tipo contrapartida**, seleccione **Cuenta bancaria**.</span><span class="sxs-lookup"><span data-stu-id="c161c-129">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="c161c-130">En el campo **N.º cuenta contrapartida**,</span><span class="sxs-lookup"><span data-stu-id="c161c-130">In the **Bal. Account No.**</span></span> <span data-ttu-id="c161c-131">seleccione la cuenta a la que quiere transferir los fondos.</span><span class="sxs-lookup"><span data-stu-id="c161c-131">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="c161c-132">En la segunda línea de diario, en el campo **Tipo**, seleccione **Cuenta bancaria**.</span><span class="sxs-lookup"><span data-stu-id="c161c-132">On the second journal line, in the **Type** field, select **Bank Account**.</span></span>
+9. <span data-ttu-id="c161c-133">En el campo **N.º cuenta**</span><span class="sxs-lookup"><span data-stu-id="c161c-133">In the **Account No.**</span></span> <span data-ttu-id="c161c-134">seleccione la cuenta a la que quiere transferir los fondos.</span><span class="sxs-lookup"><span data-stu-id="c161c-134">field, select the bank account to which you want to transfer the funds.</span></span>
+10. <span data-ttu-id="c161c-135">En el campo **Importe**, introduzca el importe en la divisa de la cuenta bancaria.</span><span class="sxs-lookup"><span data-stu-id="c161c-135">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="c161c-136">Escriba los importes de crédito con un signo menos.</span><span class="sxs-lookup"><span data-stu-id="c161c-136">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="c161c-137">Escriba los importes de débito sin el signo menos.</span><span class="sxs-lookup"><span data-stu-id="c161c-137">Enter debit amounts without a minus sign.</span></span>
+11. <span data-ttu-id="c161c-138">En el campo **Tipo contrapartida**, seleccione **Cuenta bancaria**.</span><span class="sxs-lookup"><span data-stu-id="c161c-138">In the **Bal. Account Type** field, select **Bank Account**.</span></span>  
+12. <span data-ttu-id="c161c-139">En el campo **N.º cuenta contrapartida**,</span><span class="sxs-lookup"><span data-stu-id="c161c-139">In the **Bal. Account No.**</span></span> <span data-ttu-id="c161c-140">seleccione la cuenta desde la que quiere transferir los fondos.</span><span class="sxs-lookup"><span data-stu-id="c161c-140">field, select the bank account from which you want to transfer the funds.</span></span>
 
-    **Nota**: Si los tipos de cambio usados en el diario son diferentes a los contenidos en la ventana **Tipos de cambio de divisa**, introduzca una tercera línea para las diferencias positivas o negativas del cambio. Especifique **Cuenta** en el campo **Tipo mov**. Especifique el número de cuenta para la pérdida o ganancia de tipo de campo en el campo **N.º cuenta**. . Introduzca la diferencia positiva o negativa del tipo de cambio en el campo **Importe** con o sin el signo menos para los créditos y los débitos respectivamente.
-13. Registre el diario.
+    <span data-ttu-id="c161c-141">**Nota**: Si los tipos de cambio usados en el diario son diferentes a los contenidos en la ventana **Tipos de cambio de divisa**, introduzca una tercera línea para las diferencias positivas o negativas del cambio.</span><span class="sxs-lookup"><span data-stu-id="c161c-141">**Note**: If the exchange rates used in the journal are different than the exchange rates in the **Currency Exchange Rates** window, enter a third line for the exchange rate gain or loss.</span></span> <span data-ttu-id="c161c-142">Especifique **Cuenta** en el campo **Tipo mov**.</span><span class="sxs-lookup"><span data-stu-id="c161c-142">Enter **G/L Account** in the **Account Type** field.</span></span> <span data-ttu-id="c161c-143">Especifique el número de cuenta para la pérdida o ganancia de tipo de campo en el campo **N.º cuenta**.</span><span class="sxs-lookup"><span data-stu-id="c161c-143">Enter the G/L account number for exchange rate gain or loss in the **Account No.**</span></span> <span data-ttu-id="c161c-144">.</span><span class="sxs-lookup"><span data-stu-id="c161c-144">field.</span></span> <span data-ttu-id="c161c-145">Introduzca la diferencia positiva o negativa del tipo de cambio en el campo **Importe** con o sin el signo menos para los créditos y los débitos respectivamente.</span><span class="sxs-lookup"><span data-stu-id="c161c-145">Enter the exchange rate gain or loss in the **Amount** field with or without a minus sign for credits and debits respectively.</span></span>
+13. <span data-ttu-id="c161c-146">Registre el diario.</span><span class="sxs-lookup"><span data-stu-id="c161c-146">Post the journal.</span></span>
 
-## <a name="see-also"></a>Consulte también  
-[Administrar cuentas bancarias](bank-manage-bank-accounts.md)  
-[Configurar la banca](bank-setup-banking.md)  
-[Trabajar con diarios generales](ui-work-general-journals.md)
+## <a name="see-also"></a><span data-ttu-id="c161c-147">Consulte también</span><span class="sxs-lookup"><span data-stu-id="c161c-147">See Also</span></span>  
+[<span data-ttu-id="c161c-148">Administrar cuentas bancarias</span><span class="sxs-lookup"><span data-stu-id="c161c-148">Manage Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+[<span data-ttu-id="c161c-149">Configurar la banca</span><span class="sxs-lookup"><span data-stu-id="c161c-149">Set Up Banking</span></span>](bank-setup-banking.md)  
+[<span data-ttu-id="c161c-150">Trabajar con diarios generales</span><span class="sxs-lookup"><span data-stu-id="c161c-150">Work with General Journals</span></span>](ui-work-general-journals.md)
 

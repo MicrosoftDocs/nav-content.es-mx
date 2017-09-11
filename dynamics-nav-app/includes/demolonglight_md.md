@@ -1,1 +1,1 @@
-Base de datos de demostración CRONUS
+<span data-ttu-id="2d5a6-101">Base de datos de demostración CRONUS</span><span class="sxs-lookup"><span data-stu-id="2d5a6-101">CRONUS demonstration database</span></span>

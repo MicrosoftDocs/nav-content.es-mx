@@ -16,23 +16,23 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="set-up-purchasing"></a>Configurar compra
-Para poder administrar procesos de compra, debe configurar las reglas y valores que definen las políticas de compra de la empresa.
+# <a name="set-up-purchasing"></a><span data-ttu-id="8dca7-102">Configurar compra</span><span class="sxs-lookup"><span data-stu-id="8dca7-102">Set Up Purchasing</span></span>
+<span data-ttu-id="8dca7-103">Para poder administrar procesos de compra, debe configurar las reglas y valores que definen las políticas de compra de la empresa.</span><span class="sxs-lookup"><span data-stu-id="8dca7-103">Before you can manage purchase processes, you must configure the rules and values that define the company's purchase policies.</span></span>
 
-En primer lugar, se debe definir la configuración general, como qué documentos son necesarios y cómo se registran sus valores. Normalmente, esta configuración general se realiza una vez durante la implementación inicial.
+<span data-ttu-id="8dca7-104">En primer lugar, se debe definir la configuración general, como qué documentos son necesarios y cómo se registran sus valores.</span><span class="sxs-lookup"><span data-stu-id="8dca7-104">First, you must define the general setup, such as which purchase documents are required and how their values are posted.</span></span> <span data-ttu-id="8dca7-105">Normalmente, esta configuración general se realiza una vez durante la implementación inicial.</span><span class="sxs-lookup"><span data-stu-id="8dca7-105">This general setup is typically performed once during the initial implementation.</span></span>
 
-Una serie de tareas aparte relacionadas con la creación de datos maestros de proveedor es el rgistro de acuerdos de precio y descuento del proveedor, en ventanas vinculadas a las fichas de proveedor.
+<span data-ttu-id="8dca7-106">Una serie de tareas aparte relacionadas con la creación de datos maestros de proveedor es el rgistro de acuerdos de precio y descuento del proveedor, en ventanas vinculadas a las fichas de proveedor.</span><span class="sxs-lookup"><span data-stu-id="8dca7-106">A separate series of tasks related to creating vendor master data is to record the vendors' discount and price agreements in windows linked to the vendor cards.</span></span>
 
-La actividad periódica de crear fichas de proveedor para los nuevos proveedores se describe en la sección Gestionar compras. Para obtener más información, vea [Procedimiento: Registrar nuevos proveedores](purchasing-how-register-new-vendors.md).
+<span data-ttu-id="8dca7-107">La actividad periódica de crear fichas de proveedor para los nuevos proveedores se describe en la sección Gestionar compras.</span><span class="sxs-lookup"><span data-stu-id="8dca7-107">The periodic activity of creating vendor cards for new vendors is covered in the Manage Purchasing section.</span></span> <span data-ttu-id="8dca7-108">Para obtener más información, vea [Procedimiento: Registrar nuevos proveedores](purchasing-how-register-new-vendors.md).</span><span class="sxs-lookup"><span data-stu-id="8dca7-108">For more information, see [How to: Register New Vendors](purchasing-how-register-new-vendors.md).</span></span>
 
-La configuración de compra relacionada con las finanzas, como las formas de pago o las divisas, se describe en la sección Configuración de finanzas. Para obtener más información, consulte [Configurar finanzas](finance-setup-setup-finance-setup.md).
+<span data-ttu-id="8dca7-109">La configuración de compra relacionada con las finanzas, como las formas de pago o las divisas, se describe en la sección Configuración de finanzas.</span><span class="sxs-lookup"><span data-stu-id="8dca7-109">Finance-related purchase setup, such as payment methods and currencies, are covered in the Finance Setup section.</span></span> <span data-ttu-id="8dca7-110">Para obtener más información, consulte [Configurar finanzas](finance-setup-setup-finance-setup.md).</span><span class="sxs-lookup"><span data-stu-id="8dca7-110">For more information, see [Set Up Finance](finance-setup-setup-finance-setup.md).</span></span>
 
-|Para |Vea |
+|<span data-ttu-id="8dca7-111">Para</span><span class="sxs-lookup"><span data-stu-id="8dca7-111">To</span></span> |<span data-ttu-id="8dca7-112">Vea</span><span class="sxs-lookup"><span data-stu-id="8dca7-112">See</span></span> |
 |---|----|
-|Introduzca los diferentes descuentos y precios alternativos que los proveedores garantizan en función del producto, la cantidad o la fecha.|[Registrar acuerdos de pago, descuentos y precios de venta](purchasing-how-record-purchase-price-discount-payment-agreements.md)|
-|De prioridad a los proveedores.|[Asignación de prioridad a proveedores](purchasing-how-prioritize-vendors.md)|
-|Configure los compradores.|[Configuración de compradores](purchasing-how-setup-purchasers.md)|
+|<span data-ttu-id="8dca7-113">Introduzca los diferentes descuentos y precios alternativos que los proveedores garantizan en función del producto, la cantidad o la fecha.</span><span class="sxs-lookup"><span data-stu-id="8dca7-113">Enter the different discounts and alternative prices that vendors grant you depending on item, quantities, and/or date.</span></span>|[<span data-ttu-id="8dca7-114">Registrar acuerdos de pago, descuentos y precios de venta</span><span class="sxs-lookup"><span data-stu-id="8dca7-114">Record Purchase Price, Discount, and Payment Agreements</span></span>](purchasing-how-record-purchase-price-discount-payment-agreements.md)|
+|<span data-ttu-id="8dca7-115">De prioridad a los proveedores.</span><span class="sxs-lookup"><span data-stu-id="8dca7-115">Prioritize vendors.</span></span>|[<span data-ttu-id="8dca7-116">Asignación de prioridad a proveedores</span><span class="sxs-lookup"><span data-stu-id="8dca7-116">How to: Prioritize Vendors</span></span>](purchasing-how-prioritize-vendors.md)|
+|<span data-ttu-id="8dca7-117">Configure los compradores.</span><span class="sxs-lookup"><span data-stu-id="8dca7-117">Set up purchasers.</span></span>|[<span data-ttu-id="8dca7-118">Configuración de compradores</span><span class="sxs-lookup"><span data-stu-id="8dca7-118">How to: Set Up Purchasers</span></span>](purchasing-how-setup-purchasers.md)|
 
-## <a name="see-also"></a>Consulte también
-[Gestionar compras](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="8dca7-119">Consulte también</span><span class="sxs-lookup"><span data-stu-id="8dca7-119">See Also</span></span>
+[<span data-ttu-id="8dca7-120">Gestionar compras</span><span class="sxs-lookup"><span data-stu-id="8dca7-120">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

@@ -1,1 +1,1 @@
-Cronus México S.A. base de datos de demostración
+<span data-ttu-id="debbf-101">Cronus México S.A.</span><span class="sxs-lookup"><span data-stu-id="debbf-101">CRONUS International Ltd.</span></span> <span data-ttu-id="debbf-102">base de datos de demostración</span><span class="sxs-lookup"><span data-stu-id="debbf-102">demonstration database</span></span>

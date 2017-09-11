@@ -16,10 +16,10 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="payment-methods"></a>Formas pago
-Las formas de pago definen cómo se pagarán las facturas. Puede establecer un número ilimitado de formas de pago. Algunos ejemplos de formas de pago pueden ser: DEPÓSITO BANCARIO, EFECTIVO, CHEQUE o CUENTA.
-Las formas de pago están vinculadas a los proveedores para especificar cómo se debe pagar una factura de un proveedor específico.
+# <a name="payment-methods"></a><span data-ttu-id="a62cc-102">Formas pago</span><span class="sxs-lookup"><span data-stu-id="a62cc-102">Payment Methods</span></span>
+<span data-ttu-id="a62cc-103">Las formas de pago definen cómo se pagarán las facturas.</span><span class="sxs-lookup"><span data-stu-id="a62cc-103">Payment methods define how an invoice will be paid.</span></span> <span data-ttu-id="a62cc-104">Puede establecer un número ilimitado de formas de pago.</span><span class="sxs-lookup"><span data-stu-id="a62cc-104">You can set up any number of payment methods.</span></span> <span data-ttu-id="a62cc-105">Algunos ejemplos de formas de pago pueden ser: DEPÓSITO BANCARIO, EFECTIVO, CHEQUE o CUENTA.</span><span class="sxs-lookup"><span data-stu-id="a62cc-105">Examples of payment methods can be BANK, CASH, CHECK, or ACCOUNT.</span></span>
+<span data-ttu-id="a62cc-106">Las formas de pago están vinculadas a los proveedores para especificar cómo se debe pagar una factura de un proveedor específico.</span><span class="sxs-lookup"><span data-stu-id="a62cc-106">Payment methods are linked to vendors in order to specify how an invoice from the specific vendor must be paid.</span></span>
 
-## <a name="see-also"></a>Consulte también
-[Finanzas](finance-setup.md)  
+## <a name="see-also"></a><span data-ttu-id="a62cc-107">Consulte también</span><span class="sxs-lookup"><span data-stu-id="a62cc-107">See Also</span></span>
+[<span data-ttu-id="a62cc-108">Finanzas</span><span class="sxs-lookup"><span data-stu-id="a62cc-108">Finance</span></span>](finance-setup.md)  
 

@@ -9,70 +9,70 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f657509fc2195674db81f47bc5ae31b7ba1aa40e
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 154fcaef89af0f6a131f4bcf0e9cf9a3f85f5903
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-make-predictive-cash-flow-forecasts"></a>Procedimiento: crear previsiones de flujo de caja predictivas
-Las previsiones de flujo de caja ayudan a garantizar que su empresa tenga suficiente efectivo disponible para cumplir con las obligaciones financieras y son útiles para identificar ajustes. Por ejemplo, si tiene un exceso de efectivo podría pagar algunas deudas, y apreciará una advertencia temprana si vienen tiempos difíciles. 
+# <a name="how-to-make-predictive-cash-flow-forecasts"></a><span data-ttu-id="8c374-102">Procedimiento: crear previsiones de flujo de caja predictivas</span><span class="sxs-lookup"><span data-stu-id="8c374-102">How to: Make predictive cash flow forecasts</span></span>
+<span data-ttu-id="8c374-103">Las previsiones de flujo de caja ayudan a garantizar que su empresa tenga suficiente efectivo disponible para cumplir con las obligaciones financieras y son útiles para identificar ajustes.</span><span class="sxs-lookup"><span data-stu-id="8c374-103">Cash flow forecasts help you ensure that your company has enough cash available to meet its financial obligations, and are useful for identifying adjustments.</span></span> <span data-ttu-id="8c374-104">Por ejemplo, si tiene un exceso de efectivo podría pagar algunas deudas, y apreciará una advertencia temprana si vienen tiempos difíciles.</span><span class="sxs-lookup"><span data-stu-id="8c374-104">For example, if you have a cash surplus you might pay off some debts, and you'll appreciate an early warning if times look tight.</span></span> 
 
-Cortana Intelligence usa el servicio Azure Machine Learning para realizar previsiones confiables y predictivas. Por ejemplo, las previsiones de Cortana Intelligence pueden ayudarle a predecir y evitar los déficits de efectivo. El servicio combina la información histórica con los registros actuales para pagos y cobros, incluidos los registros cuya fecha de vencimiento sea en el futuro. Se incluyen:
-* Pedidos de compra
-* Pedidos venta
-* Facturas de ventas y de compras registradas
-* s de Crédito
+<span data-ttu-id="8c374-105">Cortana Intelligence usa el servicio Azure Machine Learning para realizar previsiones confiables y predictivas.</span><span class="sxs-lookup"><span data-stu-id="8c374-105">Cortana Intelligence uses the Azure Machine Learning service to make reliable, predictive forecasts.</span></span> <span data-ttu-id="8c374-106">Por ejemplo, las previsiones de Cortana Intelligence pueden ayudarle a predecir y evitar los déficits de efectivo.</span><span class="sxs-lookup"><span data-stu-id="8c374-106">For example, forecasts from Cortana Intelligence can help you predict, and avoid, cash deficits.</span></span> <span data-ttu-id="8c374-107">El servicio combina la información histórica con los registros actuales para pagos y cobros, incluidos los registros cuya fecha de vencimiento sea en el futuro.</span><span class="sxs-lookup"><span data-stu-id="8c374-107">The service combines historical information with current postings for payables and receivables, including postings with due dates that are in the future.</span></span> <span data-ttu-id="8c374-108">Se incluyen:</span><span class="sxs-lookup"><span data-stu-id="8c374-108">These include:</span></span>
+* <span data-ttu-id="8c374-109">Pedidos de compra</span><span class="sxs-lookup"><span data-stu-id="8c374-109">Purchase orders</span></span>
+* <span data-ttu-id="8c374-110">Pedidos venta</span><span class="sxs-lookup"><span data-stu-id="8c374-110">Sales orders</span></span>
+* <span data-ttu-id="8c374-111">Facturas de ventas y de compras registradas</span><span class="sxs-lookup"><span data-stu-id="8c374-111">Posted sales and purchase invoices</span></span>
+* <span data-ttu-id="8c374-112">s de Crédito</span><span class="sxs-lookup"><span data-stu-id="8c374-112">Credit memos</span></span>
 
-## <a name="before-you-start"></a>Antes de comenzar  
-Para usar Cortana Intelligence para las previsiones de flujo de caja, es necesario tener en cuenta varios aspectos: 
-* Si todavía no usa las previsiones de flujo de caja, debe configurar:
-    * Una o más configuraciones en **Configuración flujos efectivo**. 
-    * Cuentas para pagos, cobros, pedidos de venta y pedidos de compra. Cortana Intelligence usa los registros en estas cuentas.
-    * Una o más previsiones de flujo de efectivo en **Previsión de flujo de efectivo**. Asegúrese de incluir pedidos de compra, los pedidos de venta, cobros y pagos como orígenes.  
-    Para obtener más información, busque _previsiones de flujo de efectivo_ en el sistema de Ayuda. 
-* Debe conocer la URL de API y la clave de API del servicio web de previsión que usará.  
-    Puede utilizar Azure Machine Learning u otro servicio, si lo tiene. Opcionalmente, hay disponible un modelo público denominado _modelo de previsión para Microsoft Dynamics NAV_ en la galería de Cortana Intelligence. Para usar el modelo, siga estos pasos:
+## <a name="before-you-start"></a><span data-ttu-id="8c374-113">Antes de comenzar</span><span class="sxs-lookup"><span data-stu-id="8c374-113">Before you start</span></span>  
+<span data-ttu-id="8c374-114">Para usar Cortana Intelligence para las previsiones de flujo de caja, es necesario tener en cuenta varios aspectos:</span><span class="sxs-lookup"><span data-stu-id="8c374-114">There are a few things to do before you can use Cortana Intelligence for cash flow forecasts:</span></span> 
+* <span data-ttu-id="8c374-115">Si todavía no usa las previsiones de flujo de caja, debe configurar:</span><span class="sxs-lookup"><span data-stu-id="8c374-115">If you aren't already using cash flow forecasts, you will need to set up:</span></span>
+    * <span data-ttu-id="8c374-116">Una o más configuraciones en **Configuración flujos efectivo**.</span><span class="sxs-lookup"><span data-stu-id="8c374-116">One or more setups in **Cash Flow Setups**.</span></span> 
+    * <span data-ttu-id="8c374-117">Cuentas para pagos, cobros, pedidos de venta y pedidos de compra.</span><span class="sxs-lookup"><span data-stu-id="8c374-117">Accounts for payables, receivables, sales orders, and purchase orders.</span></span> <span data-ttu-id="8c374-118">Cortana Intelligence usa los registros en estas cuentas.</span><span class="sxs-lookup"><span data-stu-id="8c374-118">Cortana Intelligence uses the postings in these accounts.</span></span>
+    * <span data-ttu-id="8c374-119">Una o más previsiones de flujo de efectivo en **Previsión de flujo de efectivo**.</span><span class="sxs-lookup"><span data-stu-id="8c374-119">One or more cash flow forecasts in **Cash Flow Forecast**.</span></span> <span data-ttu-id="8c374-120">Asegúrese de incluir pedidos de compra, los pedidos de venta, cobros y pagos como orígenes.</span><span class="sxs-lookup"><span data-stu-id="8c374-120">Be sure to include purchase orders, sales orders, receivables, and payables as sources.</span></span>  
+    <span data-ttu-id="8c374-121">Para obtener más información, busque _previsiones de flujo de efectivo_ en el sistema de Ayuda.</span><span class="sxs-lookup"><span data-stu-id="8c374-121">For more information, search for _cash flow forecasts_ in the Help system.</span></span> 
+* <span data-ttu-id="8c374-122">Debe conocer la URL de API y la clave de API del servicio web de previsión que usará.</span><span class="sxs-lookup"><span data-stu-id="8c374-122">Know the API URL and API key for the predictive web service to use.</span></span>  
+    <span data-ttu-id="8c374-123">Puede utilizar Azure Machine Learning u otro servicio, si lo tiene.</span><span class="sxs-lookup"><span data-stu-id="8c374-123">You can use Azure Machine Learning or another service, if you have one.</span></span> <span data-ttu-id="8c374-124">Opcionalmente, hay disponible un modelo público denominado _modelo de previsión para Microsoft Dynamics NAV_ en la galería de Cortana Intelligence.</span><span class="sxs-lookup"><span data-stu-id="8c374-124">Alternatively, a public model named _Forecasting model for Microsoft Dynamics NAV_ is available online in the Cortana Intelligence Gallery.</span></span> <span data-ttu-id="8c374-125">Para usar el modelo, siga estos pasos:</span><span class="sxs-lookup"><span data-stu-id="8c374-125">To use the model, follow these steps:</span></span>
 
-    1. En el explorador, vaya a la [Galería de Cortana Intelligence](https://go.microsoft.com/fwlink/?linkid=828352).
-    2. Busque _Modelo de previsión para Microsoft Dynamics NAV_ y, a continuación, abra el modelo en Azure Machine Learning Studio.
-    3. Use su cuenta de Microsoft para iniciar sesión en un espacio de trabajo y, a continuación, copie el modelo.
-    4. Ejecute el modelo y como publíquelo como un servicio web.
-    5. Anote la URL de API y la clave de API. Usará estas credenciales al configurar Cortana Intelligence en Microsoft Dynamics NAV.  
+    1. <span data-ttu-id="8c374-126">En el explorador, vaya a la [Galería de Cortana Intelligence](https://go.microsoft.com/fwlink/?linkid=828352).</span><span class="sxs-lookup"><span data-stu-id="8c374-126">In a browser, go to the [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352)</span></span>
+    2. <span data-ttu-id="8c374-127">Busque _Modelo de previsión para Microsoft Dynamics NAV_ y, a continuación, abra el modelo en Azure Machine Learning Studio.</span><span class="sxs-lookup"><span data-stu-id="8c374-127">Search for _Forecasting Model for Microsoft Dynamics NAV_, and then open the model in Azure Machine Learning Studio.</span></span>
+    3. <span data-ttu-id="8c374-128">Use su cuenta de Microsoft para iniciar sesión en un espacio de trabajo y, a continuación, copie el modelo.</span><span class="sxs-lookup"><span data-stu-id="8c374-128">Use your Microsoft account to sign up for a workspace, and then copy the model.</span></span>
+    4. <span data-ttu-id="8c374-129">Ejecute el modelo y como publíquelo como un servicio web.</span><span class="sxs-lookup"><span data-stu-id="8c374-129">Run the model, and publish it as a web service.</span></span>
+    5. <span data-ttu-id="8c374-130">Anote la URL de API y la clave de API.</span><span class="sxs-lookup"><span data-stu-id="8c374-130">Make a note of the API URL and API key.</span></span> <span data-ttu-id="8c374-131">Usará estas credenciales al configurar Cortana Intelligence en Microsoft Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="8c374-131">You will use these credentials when you set up Cortana Intelligence in Microsoft Dynamics NAV.</span></span>  
 
-* Considere la frecuencia con que se calculará la previsión. El servicio Azure Machine Learning tiene limitaciones en cuanto al uso. Por ejemplo, si tiene muchos productos, podría ser mejor calcular con menos frecuencia. 
-* Estar asignado al área de tareas Contador. 
+* <span data-ttu-id="8c374-132">Considere la frecuencia con que se calculará la previsión.</span><span class="sxs-lookup"><span data-stu-id="8c374-132">Consider how often to calculate the forecast.</span></span> <span data-ttu-id="8c374-133">El servicio Azure Machine Learning tiene limitaciones en cuanto al uso.</span><span class="sxs-lookup"><span data-stu-id="8c374-133">The Azure Machine Learning service has limitations regarding use.</span></span> <span data-ttu-id="8c374-134">Por ejemplo, si tiene muchos productos, podría ser mejor calcular con menos frecuencia.</span><span class="sxs-lookup"><span data-stu-id="8c374-134">For example, if you have a lot of items, it might be better to calculate less frequently.</span></span> 
+* <span data-ttu-id="8c374-135">Estar asignado al área de tareas Contador.</span><span class="sxs-lookup"><span data-stu-id="8c374-135">Be assigned to the Accountant role center.</span></span> 
 
-## <a name="set-up-cortana-intelligence"></a>Configurar Cortana Intelligence
-Puede usar una guía de configuración asistida para configurar las previsiones de flujo de caja. Esta guía le ayuda a especificar aspectos como la frecuencia con que se actualizará la previsión, las cuentas en las que se basará, la información acerca de cuándo se pagan impuestos y si se usa Cortana Intelligence.  
+## <a name="set-up-cortana-intelligence"></a><span data-ttu-id="8c374-136">Configurar Cortana Intelligence</span><span class="sxs-lookup"><span data-stu-id="8c374-136">Set up Cortana Intelligence</span></span>
+<span data-ttu-id="8c374-137">Puede usar una guía de configuración asistida para configurar las previsiones de flujo de caja.</span><span class="sxs-lookup"><span data-stu-id="8c374-137">You can use an assisted setup guide to set up cash flow forecasts.</span></span> <span data-ttu-id="8c374-138">Esta guía le ayuda a especificar aspectos como la frecuencia con que se actualizará la previsión, las cuentas en las que se basará, la información acerca de cuándo se pagan impuestos y si se usa Cortana Intelligence.</span><span class="sxs-lookup"><span data-stu-id="8c374-138">The guide helps you specify things like how often to update the forecast, the accounts to base it on, information about when you pay taxes, and whether to use Cortana Intelligence.</span></span>  
 
-Si ya usa previsiones de flujo de caja y solo desea activar Cortana Intelligence., también puede usar un proceso manual. Cuando inicie sesión, se mostrará una notificación en una barra azul en la parte superior del espacio de trabajo. Para configurar Cortana Intelligence inmediatamente, elija **Sí**. El mensaje solo se muestra una vez. Si lo cierra, use el proceso manual para configurar Cortana Intelligence.  
+<span data-ttu-id="8c374-139">Si ya usa previsiones de flujo de caja y solo desea activar Cortana Intelligence., también puede usar un proceso manual.</span><span class="sxs-lookup"><span data-stu-id="8c374-139">If you are already using cash flow forecasts and just want to turn on Cortana Intelligence, you can also use a manual process.</span></span> <span data-ttu-id="8c374-140">Cuando inicie sesión, se mostrará una notificación en una barra azul en la parte superior del espacio de trabajo.</span><span class="sxs-lookup"><span data-stu-id="8c374-140">When you sign in, a notification displays in a blue bar at the top of the workspace.</span></span> <span data-ttu-id="8c374-141">Para configurar Cortana Intelligence inmediatamente, elija **Sí**.</span><span class="sxs-lookup"><span data-stu-id="8c374-141">To set up Cortana Intelligence right away, choose **Yes please**.</span></span> <span data-ttu-id="8c374-142">El mensaje solo se muestra una vez.</span><span class="sxs-lookup"><span data-stu-id="8c374-142">The message displays only once.</span></span> <span data-ttu-id="8c374-143">Si lo cierra, use el proceso manual para configurar Cortana Intelligence.</span><span class="sxs-lookup"><span data-stu-id="8c374-143">If you close it, use the manual process to set up Cortana Intelligence.</span></span>  
 
-**Sugerencia:** considere la duración de los periodos que el servicio usará en los cálculos. Cuantos más datos proporcione, más precisas serán las predicciones. Asimismo, controle las variaciones grandes en los periodos. También afectarán a las predicciones. Si Cortana Intelligence no encuentra suficientes datos, o los datos varían mucho, el servicio no creará ninguna predicción. 
+<span data-ttu-id="8c374-144">**Sugerencia:** considere la duración de los periodos que el servicio usará en los cálculos.</span><span class="sxs-lookup"><span data-stu-id="8c374-144">**Tip:** Consider the length of the periods that the service will use in its calculations.</span></span> <span data-ttu-id="8c374-145">Cuantos más datos proporcione, más precisas serán las predicciones.</span><span class="sxs-lookup"><span data-stu-id="8c374-145">The more data you provide, the more accurate the predictions will be.</span></span> <span data-ttu-id="8c374-146">Asimismo, controle las variaciones grandes en los periodos.</span><span class="sxs-lookup"><span data-stu-id="8c374-146">Also, watch out for large variances in periods.</span></span> <span data-ttu-id="8c374-147">También afectarán a las predicciones.</span><span class="sxs-lookup"><span data-stu-id="8c374-147">They will also impact predictions.</span></span> <span data-ttu-id="8c374-148">Si Cortana Intelligence no encuentra suficientes datos, o los datos varían mucho, el servicio no creará ninguna predicción.</span><span class="sxs-lookup"><span data-stu-id="8c374-148">If Cortana Intelligence does not find enough data, or the data varies a lot, the service will not make a prediction.</span></span> 
 
-Para usar la guía de configuración asistida:
-1. En el área de trabajo Contable, en el gráfico **Previsión de flujo de efectivo**, elija la acción **Abrir Configuración asistida**.
-2. Rellene los campos según sea necesario en cada paso de la guía.
+<span data-ttu-id="8c374-149">Para usar la guía de configuración asistida:</span><span class="sxs-lookup"><span data-stu-id="8c374-149">To use the assisted setup guide:</span></span>
+1. <span data-ttu-id="8c374-150">En el área de trabajo Contable, en el gráfico **Previsión de flujo de efectivo**, elija la acción **Abrir Configuración asistida**.</span><span class="sxs-lookup"><span data-stu-id="8c374-150">In the Accountant role center, under the **Cash Flow Forecast** chart, choose the **Open Assisted Setup** action.</span></span>
+2. <span data-ttu-id="8c374-151">Rellene los campos según sea necesario en cada paso de la guía.</span><span class="sxs-lookup"><span data-stu-id="8c374-151">Fill in the fields as necessary in each step of the guide.</span></span>
 
-Para usar un proceso manual:
-1. Busque **Configuración flujos de efectivo** y, a continuación, elija el vínculo relacionado.
-2. Expanda la ficha desplegable **Cortana Intelligence** y, a continuación, rellene los campos según sea necesario.
+<span data-ttu-id="8c374-152">Para usar un proceso manual:</span><span class="sxs-lookup"><span data-stu-id="8c374-152">To use a manual process:</span></span>
+1. <span data-ttu-id="8c374-153">Busque **Configuración flujos de efectivo** y, a continuación, elija el vínculo relacionado.</span><span class="sxs-lookup"><span data-stu-id="8c374-153">Search for **Cash Flow Setup**, and then choose the related link.</span></span>
+2. <span data-ttu-id="8c374-154">Expanda la ficha desplegable **Cortana Intelligence** y, a continuación, rellene los campos según sea necesario.</span><span class="sxs-lookup"><span data-stu-id="8c374-154">Expand the **Cortana Intelligence** FastTab, and then fill in the fields as necessary.</span></span>
 
-## <a name="turn-on-cortana-intelligence-for-cash-flow-forecasts"></a>Activar Cortana Intelligence para las previsiones de flujo de caja
-1. Busque **Previsiones de flujo de efectivo** y, a continuación, elija el vínculo relacionado.
-2. Elija la acción **Hoja flujos efectivo**.
-3. En la página **Hoja flujos efectivo**, elija la acción **Proponer líneas de hoja de trabajo**.  
-4. En **Tipos de orígenes para incluir**, elija la casilla **Previsión de Cortana Intelligence**.
+## <a name="turn-on-cortana-intelligence-for-cash-flow-forecasts"></a><span data-ttu-id="8c374-155">Activar Cortana Intelligence para las previsiones de flujo de caja</span><span class="sxs-lookup"><span data-stu-id="8c374-155">Turn on Cortana Intelligence for cash flow forecasts</span></span>
+1. <span data-ttu-id="8c374-156">Busque **Previsiones de flujo de efectivo** y, a continuación, elija el vínculo relacionado.</span><span class="sxs-lookup"><span data-stu-id="8c374-156">Search for **Cash Flow Forecasts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="8c374-157">Elija la acción **Hoja flujos efectivo**.</span><span class="sxs-lookup"><span data-stu-id="8c374-157">Choose the **Cash Flow Worksheet** action.</span></span>
+3. <span data-ttu-id="8c374-158">En la página **Hoja flujos efectivo**, elija la acción **Proponer líneas de hoja de trabajo**.</span><span class="sxs-lookup"><span data-stu-id="8c374-158">On the **Cash Flow Worksheet** page, choose the **Suggest Worksheet Lines** action.</span></span>  
+4. <span data-ttu-id="8c374-159">En **Tipos de orígenes para incluir**, elija la casilla **Previsión de Cortana Intelligence**.</span><span class="sxs-lookup"><span data-stu-id="8c374-159">Under **Source Types to Include**, choose the **Cortana Intelligence Forecast** check box.</span></span>
 
-## <a name="investigate-a-cash-flow-forecast"></a>Investigar una previsión de flujo de caja
-Para examinar los datos subyacentes a la previsión, incluida la varianza, elija la columna **Cortana Intelligence**. La primera fila de la tabla muestra la varianza. Las demás filas están organizadas por el documento de origen.  
+## <a name="investigate-a-cash-flow-forecast"></a><span data-ttu-id="8c374-160">Investigar una previsión de flujo de caja</span><span class="sxs-lookup"><span data-stu-id="8c374-160">Investigate a cash flow forecast</span></span>
+<span data-ttu-id="8c374-161">Para examinar los datos subyacentes a la previsión, incluida la varianza, elija la columna **Cortana Intelligence**.</span><span class="sxs-lookup"><span data-stu-id="8c374-161">To take a good look at the data behind the forecast, including the variance, choose the **Cortana Intelligence** column.</span></span> <span data-ttu-id="8c374-162">La primera fila de la tabla muestra la varianza.</span><span class="sxs-lookup"><span data-stu-id="8c374-162">The first row in the table displays the variance.</span></span> <span data-ttu-id="8c374-163">Las demás filas están organizadas por el documento de origen.</span><span class="sxs-lookup"><span data-stu-id="8c374-163">The other rows are arranged by source document.</span></span>  
 
-Por ejemplo, puede ver cómo la previsión:    
-* Controla las ventas y las compras confirmadas 
-* Resta los pagos y suma los cobros
-* Omite los pedidos de venta y de compra duplicados
+<span data-ttu-id="8c374-164">Por ejemplo, puede ver cómo la previsión:</span><span class="sxs-lookup"><span data-stu-id="8c374-164">For example, you can see how the forecast:</span></span>    
+* <span data-ttu-id="8c374-165">Controla las ventas y las compras confirmadas</span><span class="sxs-lookup"><span data-stu-id="8c374-165">Handles confirmed sales and purchases</span></span> 
+* <span data-ttu-id="8c374-166">Resta los pagos y suma los cobros</span><span class="sxs-lookup"><span data-stu-id="8c374-166">Subtracts payables and adds receivables</span></span>
+* <span data-ttu-id="8c374-167">Omite los pedidos de venta y de compra duplicados</span><span class="sxs-lookup"><span data-stu-id="8c374-167">Skips duplicate sales orders and purchase orders</span></span>
 
-## <a name="see-also"></a>Consulte también  
-[Trabajar con Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="8c374-168">Consulte también</span><span class="sxs-lookup"><span data-stu-id="8c374-168">See Also</span></span>  
+[<span data-ttu-id="8c374-169">Trabajar con Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="8c374-169">Work With Dynamics NAV</span></span>](ui-work-product.md)
 

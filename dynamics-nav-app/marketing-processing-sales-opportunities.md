@@ -9,78 +9,78 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 00f316dd3032d41239a75c0f40e6db6dc54601fe
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 0b65de9444851e6d7812a68740b1b60d922fef8a
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="processing-sales-opportunities"></a>Procesar oportunidades de ventas
-Después de crear una oportunidad, existen numerosas funciones para gestionarla y avanzar hasta completarla.
+# <a name="processing-sales-opportunities"></a><span data-ttu-id="0ba2e-102">Procesar oportunidades de ventas</span><span class="sxs-lookup"><span data-stu-id="0ba2e-102">Processing Sales Opportunities</span></span>
+<span data-ttu-id="0ba2e-103">Después de crear una oportunidad, existen numerosas funciones para gestionarla y avanzar hasta completarla.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-103">After you create an opportunity, there are several features for managing the opportunity and moving it through to completion.</span></span>
 
-## <a name="view-opportunities"></a>Ver oportunidades
-Las oportunidades de venta existentes están disponibles en la ventana **Lista oportunidades**. Existen varias formas de acceder a esta ventana para procesar las oportunidades de ventas:
+## <a name="view-opportunities"></a><span data-ttu-id="0ba2e-104">Ver oportunidades</span><span class="sxs-lookup"><span data-stu-id="0ba2e-104">View opportunities</span></span>
+<span data-ttu-id="0ba2e-105">Las oportunidades de venta existentes están disponibles en la ventana **Lista oportunidades**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-105">The existing sale opportunities are available from the **Opportunity List** window.</span></span> <span data-ttu-id="0ba2e-106">Existen varias formas de acceder a esta ventana para procesar las oportunidades de ventas:</span><span class="sxs-lookup"><span data-stu-id="0ba2e-106">There are different ways to access this window for processing sales opportunities:</span></span>
 
-|Para ver las oportunidades |Entonces |
+|<span data-ttu-id="0ba2e-107">Para ver las oportunidades</span><span class="sxs-lookup"><span data-stu-id="0ba2e-107">To view opportunities for</span></span> |<span data-ttu-id="0ba2e-108">Entonces</span><span class="sxs-lookup"><span data-stu-id="0ba2e-108">Then</span></span> |
 |--------------------------|-----|
-|Todos los vendedores y contactos|En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Lista oportunidades** y, a continuación, seleccione el enlace relacionado.|
-|Un vendedor específico|En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Vendedor** y, a continuación, seleccione el enlace relacionado. Seleccione el vendedor, seleccione la acción **Oportunidades** y, a continuación, seleccione la acción **Lista**.|
-|Un contacto específico|En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Contactos** y, a continuación, seleccione el enlace relacionado. Seleccione el contacto de la lista y, a continuación, seleccione la acción **Oportunidades**.|
+|<span data-ttu-id="0ba2e-109">Todos los vendedores y contactos</span><span class="sxs-lookup"><span data-stu-id="0ba2e-109">All salespeople and contacts</span></span>|<span data-ttu-id="0ba2e-110">En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Lista oportunidades** y, a continuación, seleccione el enlace relacionado.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-110">In the top right corner, choose the **Search for Page or Report** icon, enter **Opportunity List**, and then choose the related link.</span></span>|
+|<span data-ttu-id="0ba2e-111">Un vendedor específico</span><span class="sxs-lookup"><span data-stu-id="0ba2e-111">A specific sales person</span></span>|<span data-ttu-id="0ba2e-112">En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Vendedor** y, a continuación, seleccione el enlace relacionado.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-112">In the top right corner, choose the **Search for Page or Report** icon, enter **Salespeople**, and then choose the related link.</span></span> <span data-ttu-id="0ba2e-113">Seleccione el vendedor, seleccione la acción **Oportunidades** y, a continuación, seleccione la acción **Lista**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-113">Select the salesperson, choose the **Opportunities** action, and then choose the **List** action.</span></span>|
+|<span data-ttu-id="0ba2e-114">Un contacto específico</span><span class="sxs-lookup"><span data-stu-id="0ba2e-114">A specific contact</span></span>|<span data-ttu-id="0ba2e-115">En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Contactos** y, a continuación, seleccione el enlace relacionado.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-115">In the top right corner, choose the **Search for Page or Report** icon, enter **Contacts**, and then choose the related link.</span></span> <span data-ttu-id="0ba2e-116">Seleccione el contacto de la lista y, a continuación, seleccione la acción **Oportunidades**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-116">Select the contact from the list, and then choose the **Opportunities** action.</span></span>|
 
-Todas estas tareas abren la ventana **Lista oportunidades**.
+<span data-ttu-id="0ba2e-117">Todas estas tareas abren la ventana **Lista oportunidades**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-117">Each of these tasks opens the **Opportunity List** window.</span></span>
 
-## <a name="close-opportunities"></a>Para cerrar oportunidades
-Puede cerrar oportunidades cuando terminen las negociaciones. Al cerrar una oportunidad, puede especificar tanto si las ha ganado como si las ha perdido y también las razones de su cierre. Para especificar una razón, debe configurar los cód. oportunidades cerradas.
+## <a name="close-opportunities"></a><span data-ttu-id="0ba2e-118">Para cerrar oportunidades</span><span class="sxs-lookup"><span data-stu-id="0ba2e-118">Close opportunities</span></span>
+<span data-ttu-id="0ba2e-119">Puede cerrar oportunidades cuando terminen las negociaciones.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-119">You can close opportunities when the negotiations are over.</span></span> <span data-ttu-id="0ba2e-120">Al cerrar una oportunidad, puede especificar tanto si las ha ganado como si las ha perdido y también las razones de su cierre.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-120">When closing an opportunity, you can specify whether it was won or lost, and the reasons for closing it.</span></span> <span data-ttu-id="0ba2e-121">Para especificar una razón, debe configurar los cód. oportunidades cerradas.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-121">To specify a reason, you must set up closed opportunity codes.</span></span>
 
-1. En la ventana **Lista oportunidad**, seleccione la oportunidad y, a continuación, seleccione la acción **Cerrar**. Se abre la ventana **Cerrar oportunidad**.
-2. Rellene los campos relevantes y, a continuación, haga clic en el botón **Aceptar**.
+1. <span data-ttu-id="0ba2e-122">En la ventana **Lista oportunidad**, seleccione la oportunidad y, a continuación, seleccione la acción **Cerrar**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-122">In the **Opportunity List** window, select the opportunity, and the choose the **Close** action.</span></span> <span data-ttu-id="0ba2e-123">Se abre la ventana **Cerrar oportunidad**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-123">The **Close Opportunity** window opens.</span></span>
+2. <span data-ttu-id="0ba2e-124">Rellene los campos relevantes y, a continuación, haga clic en el botón **Aceptar**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-124">Fill in the relevant fields, and then choose the **OK** button.</span></span>
 
-  Los campos **Cód. cierre oportunidad** y **Fecha cerrada** son obligatorios y deben rellenarse antes de hacer clic en **Aceptar**.
+  <span data-ttu-id="0ba2e-125">Los campos **Cód. cierre oportunidad** y **Fecha cerrada** son obligatorios y deben rellenarse antes de hacer clic en **Aceptar**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-125">The **Close Opportunity Code** and **Date Closed** fields are required fields and must be filled in before you can choose the **OK** button.</span></span>
 
-  En el campo **Cód. cierre oportunidad**, puede seleccionar entre uno de los códigos cierre oportunidad existentes o agregar uno nuevo. Para agregar un nuevo código, seleccione **Seleccionar de la lista completa** de la lista desplegable y, a continuación, seleccione **Nuevo**. En la nueva línea en blanco, rellene los campos **Código**, **Tipo** y **Descripción** y, a continuación, haga clic en **Aceptar**.
+  <span data-ttu-id="0ba2e-126">En el campo **Cód. cierre oportunidad**, puede seleccionar entre uno de los códigos cierre oportunidad existentes o agregar uno nuevo.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-126">In the **Close Opportunity Code** field, you can choose from one of the existing close opportunity codes or add a new code.</span></span> <span data-ttu-id="0ba2e-127">Para agregar un nuevo código, seleccione **Seleccionar de la lista completa** de la lista desplegable y, a continuación, seleccione **Nuevo**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-127">To add a new code, from the drop-down list, choose **Select from full list**, and then choose **new**.</span></span> <span data-ttu-id="0ba2e-128">En la nueva línea en blanco, rellene los campos **Código**, **Tipo** y **Descripción** y, a continuación, haga clic en **Aceptar**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-128">On the new blank line, fill in the **Code**, **Type**, and **Description** fields, and then choose the **OK** button.</span></span>
 
-## <a name="create-quotes-for-opportunities"></a>Crear cotizaciones para oportunidades
-Puede crear cotizaciones de venta para los contactos que no están registrados como clientes.
+## <a name="create-quotes-for-opportunities"></a><span data-ttu-id="0ba2e-129">Crear cotizaciones para oportunidades</span><span class="sxs-lookup"><span data-stu-id="0ba2e-129">Create quotes for opportunities</span></span>
+<span data-ttu-id="0ba2e-130">Puede crear cotizaciones de venta para los contactos que no están registrados como clientes.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-130">You can create sales quotes for contacts that are not recorded as customers.</span></span>
 
-1. En la ventana **Lista oportunidad**, seleccione la oportunidad y, a continuación, seleccione la acción **Asignar cotización venta**. Se abre la ventana **Cotización venta**.
-2. Rellene los campos pertinentes.
+1. <span data-ttu-id="0ba2e-131">En la ventana **Lista oportunidad**, seleccione la oportunidad y, a continuación, seleccione la acción **Asignar cotización venta**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-131">In the **Opportunity List** window, select the opportunity, and then choose the **Assign Sales Quote** action.</span></span> <span data-ttu-id="0ba2e-132">Se abre la ventana **Cotización venta**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-132">The **Sales Quote** window opens.</span></span>
+2. <span data-ttu-id="0ba2e-133">Rellene los campos pertinentes.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-133">Fill in the relevant fields.</span></span>
 
-## <a name="create-sales-orders-for-opportunities"></a>Crear órdenes de venta para oportunidades
-Puede hacer órdenes de venta a partir de las cotizaciones ventas creadas para las oportunidades. Antes de poder crear órdenes de venta para sus contactos, debe crear el contacto como cliente. Para obtener más información, consulte [Crear un cliente, proveedor o cuenta bancaria a partir de un contacto](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).
+## <a name="create-sales-orders-for-opportunities"></a><span data-ttu-id="0ba2e-134">Crear órdenes de venta para oportunidades</span><span class="sxs-lookup"><span data-stu-id="0ba2e-134">Create sales orders for opportunities</span></span>
+<span data-ttu-id="0ba2e-135">Puede hacer órdenes de venta a partir de las cotizaciones ventas creadas para las oportunidades.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-135">You can make sales orders from the sales quotes that you have created for your opportunities.</span></span> <span data-ttu-id="0ba2e-136">Antes de poder crear órdenes de venta para sus contactos, debe crear el contacto como cliente.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-136">Before you can create sales orders for your contacts, you must create the contact as a customer.</span></span> <span data-ttu-id="0ba2e-137">Para obtener más información, consulte [Crear un cliente, proveedor o cuenta bancaria a partir de un contacto](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).</span><span class="sxs-lookup"><span data-stu-id="0ba2e-137">For more information, see [Create a Customer, Vendor, or Bank Account From a Contact](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).</span></span>
 
-1. En la ventana **Lista oportunidad**, busque la oportunidad para la que creó la cotización de venta.
-2. Seleccione las acciones Asignar cotización venta. Aparece la ventana **Cotización venta** para mostrar la cotización de venta asignada a la oportunidad.
-3. Rellene los campos adicionales y, a continuación, seleccione la acción **Convertir en orden**.
+1. <span data-ttu-id="0ba2e-138">En la ventana **Lista oportunidad**, busque la oportunidad para la que creó la cotización de venta.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-138">In the **Opportunity List** window, find the opportunity that you have created a sales quote for.</span></span>
+2. <span data-ttu-id="0ba2e-139">Seleccione las acciones Asignar cotización venta.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-139">Choose the Assign Sales Quote actions.</span></span> <span data-ttu-id="0ba2e-140">Aparece la ventana **Cotización venta** para mostrar la cotización de venta asignada a la oportunidad.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-140">The **Sales Quote** window opens to show the sales quote that you have assigned to the opportunity.</span></span>
+3. <span data-ttu-id="0ba2e-141">Rellene los campos adicionales y, a continuación, seleccione la acción **Convertir en orden**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-141">Fill in the additional fields, and then choose the **Make Order** action.</span></span>
 
-Al manejar oportunidades de ventas puede ser necesario crear una cotización para el contacto con el que se relaciona la oportunidad.
+<span data-ttu-id="0ba2e-142">Al manejar oportunidades de ventas puede ser necesario crear una cotización para el contacto con el que se relaciona la oportunidad.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-142">When handling sales opportunities, you may need to create a quote for the contact that the opportunity is linked to.</span></span>
 
-## <a name="delete-opportunities"></a>Borrar oportunidades
-Puede borrar oportunidades, por ejemplo, después de terminar un acuerdo. Sin embargo, solo puede borrar las oportunidades cerradas. Hay dos formas de borrar oportunidades cerradas. Puede eliminar oportunidades cerradas individuales de la ventana **Lista oportunidad** o puede ejecutar el proceso **Eliminar oport. cerradas** para eliminar múltiples oportunidades basándose en los criterios especificados.
+## <a name="delete-opportunities"></a><span data-ttu-id="0ba2e-143">Borrar oportunidades</span><span class="sxs-lookup"><span data-stu-id="0ba2e-143">Delete opportunities</span></span>
+<span data-ttu-id="0ba2e-144">Puede borrar oportunidades, por ejemplo, después de terminar un acuerdo.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-144">You can delete opportunities, for example, after you have concluded a deal.</span></span> <span data-ttu-id="0ba2e-145">Sin embargo, solo puede borrar las oportunidades cerradas.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-145">However, you can only delete closed opportunities.</span></span> <span data-ttu-id="0ba2e-146">Hay dos formas de borrar oportunidades cerradas.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-146">There are two ways to delete closed opportunities.</span></span> <span data-ttu-id="0ba2e-147">Puede eliminar oportunidades cerradas individuales de la ventana **Lista oportunidad** o puede ejecutar el proceso **Eliminar oport. cerradas** para eliminar múltiples oportunidades basándose en los criterios especificados.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-147">You can delete individual closed opportunities from the **Opportunity List** window or you can run the **Delete Closed Opportunities** batch job to delete multiple opportunities based on a specified criteria.</span></span>
 
-Para eliminar oportunidades cerradas de la ventana **Lista oportunidad**, seleccione la oportunidad y, a continuación, seleccione la acción **Eliminar**.
+<span data-ttu-id="0ba2e-148">Para eliminar oportunidades cerradas de la ventana **Lista oportunidad**, seleccione la oportunidad y, a continuación, seleccione la acción **Eliminar**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-148">To delete closed opportunities from the **Opportunity List** window, select the opportunity, and then choose the **Delete** action.</span></span>
 
-Para borrar oportunidades cerradas usando el proceso **Eliminar oport. cerradas** siga estos pasos:
+<span data-ttu-id="0ba2e-149">Para borrar oportunidades cerradas usando el proceso **Eliminar oport. cerradas** siga estos pasos:</span><span class="sxs-lookup"><span data-stu-id="0ba2e-149">To delete closed opportunities by using the **Delete Closed Opportunities** batch job, follow these steps:</span></span>
 
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Borrar oportunidades** y, a continuación, seleccione el enlace relacionado.
-2. En la sección **Oportunidad** configure los filtros que especifican las oportunidades que se tienen que eliminar.
-3. Elija el botón **Aceptar**.
+1. <span data-ttu-id="0ba2e-150">En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Borrar oportunidades** y, a continuación, seleccione el enlace relacionado.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-150">In the top right corner, choose the **Search for Page or Report** icon, enter **Delete Opportunities**, and then choose the related link.</span></span>
+2. <span data-ttu-id="0ba2e-151">En la sección **Oportunidad** configure los filtros que especifican las oportunidades que se tienen que eliminar.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-151">In the **Opportunity** section, set up the filters that specify the closed opportunities to delete.</span></span>
+3. <span data-ttu-id="0ba2e-152">Elija el botón **Aceptar**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-152">Choose the **OK** button.</span></span>
 
-Después de borrar una oportunidad, se elimina de la ventana **Lista oportunidad**.
+<span data-ttu-id="0ba2e-153">Después de borrar una oportunidad, se elimina de la ventana **Lista oportunidad**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-153">After you have deleted an opportunity, it is removed it from the **Opportunity List** window.</span></span>
 
-## <a name="move-an-opportunity-through-sales-cycle-stages"></a>Mover una oportunidad a varias etapas del ciclo de ventas
-Si una oportunidad sigue un ciclo de ventas, puede moverla hacia adelante o hacia atrás en las diferentes etapas, por ejemplo, ir a una etapa anterior o posterior e incluso saltarla.
+## <a name="move-an-opportunity-through-sales-cycle-stages"></a><span data-ttu-id="0ba2e-154">Mover una oportunidad a varias etapas del ciclo de ventas</span><span class="sxs-lookup"><span data-stu-id="0ba2e-154">Move an opportunity through sales cycle stages</span></span>
+<span data-ttu-id="0ba2e-155">Si una oportunidad sigue un ciclo de ventas, puede moverla hacia adelante o hacia atrás en las diferentes etapas, por ejemplo, ir a una etapa anterior o posterior e incluso saltarla.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-155">If an opportunity follows a sales cycle, you can move it forward or back through the different stages, such as moving the the next or previous stage, and even skipping a stage.</span></span>
 
-1. En la ventana **Lista oportunidades**, seleccione la acción **Actualizar**. Aparecerá el asistente **Actualizar oportunidad**,
-2. Use el campo **Tipo acción** para mover la oportunidad a través de las etapas del ciclo de ventas:
-  * **Siguiente** mueve la oportunidad una etapa adelante.
-  * **Omitir** mueve la oportunidad hacia adelante una o varias etapas del ciclo de ventas, que usted especifica en el campo **Presentación**. Puede omitir solo las etapas que se han configurado para permitir la omisión.
-  * **Anterior** mueve la oportunidad una etapa hacia atrás.
-  * **Saltar** mueve la oportunidad hacia atrás una o varias etapas del ciclo de ventas, que usted especifica en el campo **Presentación**.
-  * **Actualizar** le permite cambiar la información (por ejemplo, modificar la evaluación de las posibilidades de éxito y valores estimados) sin moverse a otra etapa.
-3. Rellene los otros campos requeridos y, a continuación, haga clic en el botón **Aceptar**.
+1. <span data-ttu-id="0ba2e-156">En la ventana **Lista oportunidades**, seleccione la acción **Actualizar**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-156">In the **Opportunity List** window, choose the **Update** action.</span></span> <span data-ttu-id="0ba2e-157">Aparecerá el asistente **Actualizar oportunidad**,</span><span class="sxs-lookup"><span data-stu-id="0ba2e-157">The **Update Opportunity** opens,</span></span>
+2. <span data-ttu-id="0ba2e-158">Use el campo **Tipo acción** para mover la oportunidad a través de las etapas del ciclo de ventas:</span><span class="sxs-lookup"><span data-stu-id="0ba2e-158">Use the **Action Type** field to move the opportunity through the sales cycle stages:</span></span>
+  * <span data-ttu-id="0ba2e-159">**Siguiente** mueve la oportunidad una etapa adelante.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-159">**Next** moves the opportunity forward one stage.</span></span>
+  * <span data-ttu-id="0ba2e-160">**Omitir** mueve la oportunidad hacia adelante una o varias etapas del ciclo de ventas, que usted especifica en el campo **Presentación**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-160">**Skip** moves the opportunity forward one or several stages in the sales cycle, which you specify in the **Presentation** field.</span></span> <span data-ttu-id="0ba2e-161">Puede omitir solo las etapas que se han configurado para permitir la omisión.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-161">You can only skip stages that have been set up to allow skipping.</span></span>
+  * <span data-ttu-id="0ba2e-162">**Anterior** mueve la oportunidad una etapa hacia atrás.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-162">**Previous** moves the opportunity back one stage.</span></span>
+  * <span data-ttu-id="0ba2e-163">**Saltar** mueve la oportunidad hacia atrás una o varias etapas del ciclo de ventas, que usted especifica en el campo **Presentación**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-163">**Jump** moves the opportunity back one or several stages in the sales cycle, which you specify in the **Presentation** field.</span></span>
+  * <span data-ttu-id="0ba2e-164">**Actualizar** le permite cambiar la información (por ejemplo, modificar la evaluación de las posibilidades de éxito y valores estimados) sin moverse a otra etapa.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-164">**Update** enables you to change information (such as to modify your evaluation of their chances of success and estimated values) without moving to another stage.</span></span>
+3. <span data-ttu-id="0ba2e-165">Rellene los otros campos requeridos y, a continuación, haga clic en el botón **Aceptar**.</span><span class="sxs-lookup"><span data-stu-id="0ba2e-165">Fill in the other fields as needed, and then choose the **OK** button.</span></span>
 
-##<a name="see-also"></a>Consulte también  
-[Gestionar ventas](sales-manage-sales.md)  
-[Crear y gestionar contactos](marketing-contacts.md)  
-[Trabajar con Dynamics NAV](ui-work-product.md)
+##<a name="see-also"></a><span data-ttu-id="0ba2e-166">Consulte también</span><span class="sxs-lookup"><span data-stu-id="0ba2e-166">See Also</span></span>  
+[<span data-ttu-id="0ba2e-167">Gestionar ventas</span><span class="sxs-lookup"><span data-stu-id="0ba2e-167">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="0ba2e-168">Crear y gestionar contactos</span><span class="sxs-lookup"><span data-stu-id="0ba2e-168">Create and Manage Contacts</span></span>](marketing-contacts.md)  
+[<span data-ttu-id="0ba2e-169">Trabajar con Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="0ba2e-169">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

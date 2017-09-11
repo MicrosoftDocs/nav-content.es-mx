@@ -1,1 +1,1 @@
-Para ver los temas relacionados con las ventanas de esta sección, seleccione las subentradas correspondientes en la tabla de contenido.
+<span data-ttu-id="894aa-101">Para ver los temas relacionados con las ventanas de esta sección, seleccione las subentradas correspondientes en la tabla de contenido.</span><span class="sxs-lookup"><span data-stu-id="894aa-101">To see the window topics in this section, choose the subentries in the table of contents.</span></span>

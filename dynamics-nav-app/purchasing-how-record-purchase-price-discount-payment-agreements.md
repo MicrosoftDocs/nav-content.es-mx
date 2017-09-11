@@ -9,62 +9,62 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f99bb0aeef2c25048b0da3e0476ae2d612bff562
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: af5ba3a17412ba4c123c4d3cb337b8d5df36cace
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-#<a name="how-to-record-purchase-prices-and-discounts"></a>Procedimiento: Registrar precios y descuentos de compra
-Es necesario definir los diferentes acuerdos de precios y descuentos que se aplican al comprar a distintos proveedores de modo que se apliquen las reglas y los valores acordados a los documentos de compra que se crean para los proveedores.
+#<a name="how-to-record-purchase-prices-and-discounts"></a><span data-ttu-id="0ce14-102">Procedimiento: Registrar precios y descuentos de compra</span><span class="sxs-lookup"><span data-stu-id="0ce14-102">How to: Record Purchase Prices and Discounts</span></span>
+<span data-ttu-id="0ce14-103">Es necesario definir los diferentes acuerdos de precios y descuentos que se aplican al comprar a distintos proveedores de modo que se apliquen las reglas y los valores acordados a los documentos de compra que se crean para los proveedores.</span><span class="sxs-lookup"><span data-stu-id="0ce14-103">The different price and discount agreements that apply when you buy from different vendors must be defined so that the agreed rules and values are applied to purchase documents that you create for the vendors.</span></span>
 
-Respecto a los precios, puede tener una precio especial de compra insertado en las líneas de compra si existe una cierta combinación de proveedor, producto, cantidad mínima, unidad de medida o fecha de inicio o de fin.
+<span data-ttu-id="0ce14-104">Respecto a los precios, puede tener una precio especial de compra insertado en las líneas de compra si existe una cierta combinación de proveedor, producto, cantidad mínima, unidad de medida o fecha de inicio o de fin.</span><span class="sxs-lookup"><span data-stu-id="0ce14-104">Concerning prices, you can have a special purchase price inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span>
 
-Respecto a los descuentos, puede configurar y usar dos tipos de descuentos de compra:
+<span data-ttu-id="0ce14-105">Respecto a los descuentos, puede configurar y usar dos tipos de descuentos de compra:</span><span class="sxs-lookup"><span data-stu-id="0ce14-105">Concerning discounts, you can set up and use two types of purchase discounts:</span></span>
 
-|Tipo de descuento |Descripción |
+|<span data-ttu-id="0ce14-106">Tipo de descuento</span><span class="sxs-lookup"><span data-stu-id="0ce14-106">Discount Type</span></span> |<span data-ttu-id="0ce14-107">Descripción</span><span class="sxs-lookup"><span data-stu-id="0ce14-107">Description</span></span> |
 |--------------|------------|
-|**Descuento línea compra**|Un importe de descuento que está insertado en las líneas de compra si existe una cierta combinación de proveedor, producto, cantidad mínima, unidad de medida o fecha de inicio o de fin. Funciona igual que para los precios de compra.|
-|**Descuento en factura**|Un porcentaje de descuento que se resta del total del documento si el importe de todas las líneas de un documento de compra supera cierto límite.|
+|<span data-ttu-id="0ce14-108">**Descuento línea compra**</span><span class="sxs-lookup"><span data-stu-id="0ce14-108">**Purchase Line Discount**</span></span>|<span data-ttu-id="0ce14-109">Un importe de descuento que está insertado en las líneas de compra si existe una cierta combinación de proveedor, producto, cantidad mínima, unidad de medida o fecha de inicio o de fin.</span><span class="sxs-lookup"><span data-stu-id="0ce14-109">An amount discount that is inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span> <span data-ttu-id="0ce14-110">Funciona igual que para los precios de compra.</span><span class="sxs-lookup"><span data-stu-id="0ce14-110">This works in the same way as for purchase prices.</span></span>|
+|<span data-ttu-id="0ce14-111">**Descuento en factura**</span><span class="sxs-lookup"><span data-stu-id="0ce14-111">**Invoice Discount**</span></span>|<span data-ttu-id="0ce14-112">Un porcentaje de descuento que se resta del total del documento si el importe de todas las líneas de un documento de compra supera cierto límite.</span><span class="sxs-lookup"><span data-stu-id="0ce14-112">A percentage discount that is subtracted from the document total if the value amount of all lines on a purchase document exceeds a certain minimum.</span></span>|
 
-Puesto que los descuentos de línea y los precios de compra se basan en una combinación de producto y proveedor, también se puede introducir esta combinación desde la ficha de producto en la que se definen las reglas y los valores. Para obtener más información, vea [Procedimiento: Registrar nuevos productos](inventory-how-register-new-products.md).
+<span data-ttu-id="0ce14-113">Puesto que los descuentos de línea y los precios de compra se basan en una combinación de producto y proveedor, también se puede introducir esta combinación desde la ficha de producto en la que se definen las reglas y los valores.</span><span class="sxs-lookup"><span data-stu-id="0ce14-113">Because purchase line discounts and purchase prices are based on a combination of item and vendor, you can also enter this configuration from the item card, where the rules and values are defined.</span></span> <span data-ttu-id="0ce14-114">Para obtener más información, vea [Procedimiento: Registrar nuevos productos](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="0ce14-114">For more information, see [How to: Register New Products](inventory-how-register-new-products.md).</span></span>
 
-## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a>Para configurar un precio de compra especial para un proveedor
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Proveedores** y, a continuación, seleccione el enlace relacionado.
-2. Abra la ficha de proveedor correspondiente y, a continuación, elija la acción **Precios**.
+## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a><span data-ttu-id="0ce14-115">Para configurar un precio de compra especial para un proveedor</span><span class="sxs-lookup"><span data-stu-id="0ce14-115">To set up a special purchase price for a vendor</span></span>
+1. <span data-ttu-id="0ce14-116">En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Proveedores** y, a continuación, seleccione el enlace relacionado.</span><span class="sxs-lookup"><span data-stu-id="0ce14-116">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="0ce14-117">Abra la ficha de proveedor correspondiente y, a continuación, elija la acción **Precios**.</span><span class="sxs-lookup"><span data-stu-id="0ce14-117">Open the relevant vendor card, and then choose the **Prices** action.</span></span>
 
-    El campo **Tipo de compras** se rellena previamente con el campo **Proveedor** y el campo **Código de compre** se rellena con el número del proveedor.
-3. Rellene los campos de la línea como sea necesario. Seleccione un campo para obtener una breve descripción del campo o el enlace a información adicional.
-4. Rellene una línea para cada combinación por la que el proveedor le garantiza un descuento de compra.
+    <span data-ttu-id="0ce14-118">El campo **Tipo de compras** se rellena previamente con el campo **Proveedor** y el campo **Código de compre** se rellena con el número del proveedor.</span><span class="sxs-lookup"><span data-stu-id="0ce14-118">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="0ce14-119">Rellene los campos de la línea como sea necesario.</span><span class="sxs-lookup"><span data-stu-id="0ce14-119">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="0ce14-120">Seleccione un campo para obtener una breve descripción del campo o el enlace a información adicional.</span><span class="sxs-lookup"><span data-stu-id="0ce14-120">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="0ce14-121">Rellene una línea para cada combinación por la que el proveedor le garantiza un descuento de compra.</span><span class="sxs-lookup"><span data-stu-id="0ce14-121">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-a-line-discount-for-a-vendor"></a>Para configurar un descuento de línea para un proveedor
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Proveedores** y, a continuación, seleccione el enlace relacionado.
-2. Abra la ficha de proveedor correspondiente y, a continuación, elija la acción **Dto. línea**.
+## <a name="to-set-up-a-line-discount-for-a-vendor"></a><span data-ttu-id="0ce14-122">Para configurar un descuento de línea para un proveedor</span><span class="sxs-lookup"><span data-stu-id="0ce14-122">To set up a line discount for a vendor</span></span>
+1. <span data-ttu-id="0ce14-123">En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Proveedores** y, a continuación, seleccione el enlace relacionado.</span><span class="sxs-lookup"><span data-stu-id="0ce14-123">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="0ce14-124">Abra la ficha de proveedor correspondiente y, a continuación, elija la acción **Dto. línea**.</span><span class="sxs-lookup"><span data-stu-id="0ce14-124">Open the relevant vendor card, and then choose the **Line Discounts** action.</span></span>
 
-    El campo **Tipo de compras** se rellena previamente con el campo **Proveedor** y el campo **Código de compre** se rellena con el número del proveedor.
-3. Rellene los campos de la línea como sea necesario. Seleccione un campo para obtener una breve descripción del campo o el enlace a información adicional.
-4. Rellene una línea para cada combinación por la que el proveedor le garantiza un descuento de compra.
+    <span data-ttu-id="0ce14-125">El campo **Tipo de compras** se rellena previamente con el campo **Proveedor** y el campo **Código de compre** se rellena con el número del proveedor.</span><span class="sxs-lookup"><span data-stu-id="0ce14-125">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="0ce14-126">Rellene los campos de la línea como sea necesario.</span><span class="sxs-lookup"><span data-stu-id="0ce14-126">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="0ce14-127">Seleccione un campo para obtener una breve descripción del campo o el enlace a información adicional.</span><span class="sxs-lookup"><span data-stu-id="0ce14-127">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="0ce14-128">Rellene una línea para cada combinación por la que el proveedor le garantiza un descuento de compra.</span><span class="sxs-lookup"><span data-stu-id="0ce14-128">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a>Para configurar términos de descuento en factura para un proveedor:
-Una vez su proveedor le haya informado de que descuentos en factura garantizan, introduzca el código de descuento en las fichas de cliente y especifique los términos de cada código.
+## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a><span data-ttu-id="0ce14-129">Para configurar términos de descuento en factura para un proveedor:</span><span class="sxs-lookup"><span data-stu-id="0ce14-129">To set up an invoice discount for a vendor</span></span>
+<span data-ttu-id="0ce14-130">Una vez su proveedor le haya informado de que descuentos en factura garantizan, introduzca el código de descuento en las fichas de cliente y especifique los términos de cada código.</span><span class="sxs-lookup"><span data-stu-id="0ce14-130">When your vendors have informed you which invoice discounts they grant, enter the invoice discount code on the vendor cards and set up the terms for each code.</span></span>
 
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Proveedores** y, a continuación, seleccione el enlace relacionado.
-2. Abra la ficha de un proveedor que pueda obtener descuentos en factura.
-3. En el campo **Código descuento factura**, seleccione un código para los términos relevantes de la factura con descuentos que usará para calcular los descuentos en facturas para el proveedor.
+1. <span data-ttu-id="0ce14-131">En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Proveedores** y, a continuación, seleccione el enlace relacionado.</span><span class="sxs-lookup"><span data-stu-id="0ce14-131">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="0ce14-132">Abra la ficha de un proveedor que pueda obtener descuentos en factura.</span><span class="sxs-lookup"><span data-stu-id="0ce14-132">Open the vendor card for a vendor that will be eligible for invoice discounts.</span></span>
+3. <span data-ttu-id="0ce14-133">En el campo **Código descuento factura**, seleccione un código para los términos relevantes de la factura con descuentos que usará para calcular los descuentos en facturas para el proveedor.</span><span class="sxs-lookup"><span data-stu-id="0ce14-133">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.</span></span>
 
-    **Nota**: Los códigos de descuento en factura se representan por las fichas existentes del proveedor. Lo que permite asignar rápidamente las condiciones de descuento en factura a proveedores realizando el picking del nombre de otros proveedores con los mismos términos.
+    <span data-ttu-id="0ce14-134">**Nota**: Los códigos de descuento en factura se representan por las fichas existentes del proveedor.</span><span class="sxs-lookup"><span data-stu-id="0ce14-134">**Note**: Invoice discount codes are represented by existing vendor cards.</span></span> <span data-ttu-id="0ce14-135">Lo que permite asignar rápidamente las condiciones de descuento en factura a proveedores realizando el picking del nombre de otros proveedores con los mismos términos.</span><span class="sxs-lookup"><span data-stu-id="0ce14-135">This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</span></span>
 
-    Configure de nuevo los términos de descuento en factura para compras.
-4. En la ventana **Ficha de proveedor**, seleccione la acción **Descuento factura**. Aparecerá la ventana **Dtos. factura proveedor**.
-5. En el campo **Código divisa**, introduzca el código de una divisa que se aplique a los términos de descuento en factura en la línea. Deje el campo en blanco para establecer condiciones de descuento de factura en USD.
-6. En el campo **Importe mínimo**, escriba el importe mínimo que deba tener una factura para optar al descuento.
-7. En el campo **% descuento**, introduzca el descuento en la factura como un porcentaje del importe de la factura.
-8. Repita los pasos 5 a 7 para cada divisa para la que el proveedor va a recibir un descuento diferente de factura.
+    <span data-ttu-id="0ce14-136">Configure de nuevo los términos de descuento en factura para compras.</span><span class="sxs-lookup"><span data-stu-id="0ce14-136">Proceed to set up new the purchase invoice discount terms.</span></span>
+4. <span data-ttu-id="0ce14-137">En la ventana **Ficha de proveedor**, seleccione la acción **Descuento factura**.</span><span class="sxs-lookup"><span data-stu-id="0ce14-137">In the **Vendor Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="0ce14-138">Aparecerá la ventana **Dtos. factura proveedor**.</span><span class="sxs-lookup"><span data-stu-id="0ce14-138">The **Vend. Invoice Discounts** window opens.</span></span>
+5. <span data-ttu-id="0ce14-139">En el campo **Código divisa**, introduzca el código de una divisa que se aplique a los términos de descuento en factura en la línea.</span><span class="sxs-lookup"><span data-stu-id="0ce14-139">In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to.</span></span> <span data-ttu-id="0ce14-140">Deje el campo en blanco para establecer condiciones de descuento de factura en USD.</span><span class="sxs-lookup"><span data-stu-id="0ce14-140">Leave the field blank to set up invoice discount terms in USD.</span></span>
+6. <span data-ttu-id="0ce14-141">En el campo **Importe mínimo**, escriba el importe mínimo que deba tener una factura para optar al descuento.</span><span class="sxs-lookup"><span data-stu-id="0ce14-141">In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.</span></span>
+7. <span data-ttu-id="0ce14-142">En el campo **% descuento**, introduzca el descuento en la factura como un porcentaje del importe de la factura.</span><span class="sxs-lookup"><span data-stu-id="0ce14-142">In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.</span></span>
+8. <span data-ttu-id="0ce14-143">Repita los pasos 5 a 7 para cada divisa para la que el proveedor va a recibir un descuento diferente de factura.</span><span class="sxs-lookup"><span data-stu-id="0ce14-143">Repeat steps 5 through 7 for each currency that the vendor will receive a different invoice discount for.</span></span>
 
-El descuento en factura está configurado y asignado el proveedor en cuestión. En el momento que selecciona el código de proveedor en el campo **Código de descuento de factura** en las fichas de proveedores, se asigna el mismo descuento en factura a ese proveedor.
+<span data-ttu-id="0ce14-144">El descuento en factura está configurado y asignado el proveedor en cuestión.</span><span class="sxs-lookup"><span data-stu-id="0ce14-144">The invoice discount is now set up and assigned to the vendor in question.</span></span> <span data-ttu-id="0ce14-145">En el momento que selecciona el código de proveedor en el campo **Código de descuento de factura** en las fichas de proveedores, se asigna el mismo descuento en factura a ese proveedor.</span><span class="sxs-lookup"><span data-stu-id="0ce14-145">When you select the vendor code in the **Invoice Disc. Code** field on other vendor cards, the same invoice discount is assigned to those vendor.</span></span>
 
-## <a name="see-also"></a>Consulte también  
-[Configurar compra](purchasing-setup-purchasing.md)  
-[Gestionar compras](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="0ce14-146">Consulte también</span><span class="sxs-lookup"><span data-stu-id="0ce14-146">See Also</span></span>  
+[<span data-ttu-id="0ce14-147">Configurar compra</span><span class="sxs-lookup"><span data-stu-id="0ce14-147">Set Up Purchasing</span></span>](purchasing-setup-purchasing.md)  
+[<span data-ttu-id="0ce14-148">Gestionar compras</span><span class="sxs-lookup"><span data-stu-id="0ce14-148">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 
