@@ -1,1 +1,1 @@
-<span data-ttu-id="12770-101">Cliente Web para Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="12770-101">Microsoft Dynamics NAV Web client</span></span>
+<span data-ttu-id="31646-101">Cliente web Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="31646-101">Microsoft Dynamics NAV Web client</span></span>

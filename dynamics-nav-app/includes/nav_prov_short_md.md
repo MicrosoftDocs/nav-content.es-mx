@@ -1,1 +1,1 @@
-<span data-ttu-id="ed5db-101">herramientas del aprovisionamiento</span><span class="sxs-lookup"><span data-stu-id="ed5db-101">provisioning tools</span></span>
+<span data-ttu-id="b5118-101">herramientas del aprovisionamiento</span><span class="sxs-lookup"><span data-stu-id="b5118-101">provisioning tools</span></span>

@@ -1,28 +1,40 @@
 ---
-title: Notificaciones inteligentes
-author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
+title: "Trabajo con notificaciones inteligentes y especificar cuándo aparecen"
+description: Puede recibir notificaciones que le informen sobre los cambios de estado o los eventos, por ejemplo, un saldo pendiente o inventario bajo.
+documentationcenter: 
+author: bholtorf
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 292a91beb44ce3cea088e791319c285bf65e5eaf
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.date: 08/17/2017
+ms.author: bholtorf
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 53d780ec3b0bff2802244d3f69e79de790067c9f
 ms.contentlocale: es-mx
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="smart-notifications"></a><span data-ttu-id="c6361-103">Notificaciones inteligentes</span><span class="sxs-lookup"><span data-stu-id="c6361-103">Smart Notifications</span></span>
+[!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="c6361-104"> le puede ayudar a trabajar de una forma más inteligente con las notificaciones que le envía sobre determinados eventos o cambios de estado, cuando va a facturar a un cliente que tiene un saldo vencido o cuando el inventario disponible es inferior a la cantidad que va a vender, por ejemplo.</span><span class="sxs-lookup"><span data-stu-id="c6361-104"> can help you work smarter by notifying you about certain events or changes in status, such as when you are about to invoice a customer who has an overdue balance, or the available inventory is lower than the quantity you are about to sell, for example.</span></span> <span data-ttu-id="c6361-105">Estas notificaciones se muestran como sugerencias discretas en el contexto de la tarea que está llevando acabo, y puede elegir si las ignora o lee más detalles acerca del problema.</span><span class="sxs-lookup"><span data-stu-id="c6361-105">These notifications are shown as discreet tips in the context of the task you are doing, and you can choose to ignore the notification or to see details about the issue.</span></span>  
 
-# <a name="smart-notifications"></a><span data-ttu-id="433eb-102">Notificaciones inteligentes</span><span class="sxs-lookup"><span data-stu-id="433eb-102">Smart Notifications</span></span>
-<span data-ttu-id="433eb-103">Dynamics NAV lo ayuda a trabajar de una forma más inteligente con las notificaciones que le envía cuando va a facturar a un cliente que tiene un saldo vencido o cuando las existencias disponibles son inferiores a la cantidad que va a vender, por ejemplo.</span><span class="sxs-lookup"><span data-stu-id="433eb-103">Dynamics NAV can help you work smarter by notifying you when you are about to invoice a customer who has an overdue balance, or the available inventory is lower than the quantity you are about to sell, for example.</span></span> <span data-ttu-id="433eb-104">Estas notificaciones se muestran como sugerencias discretas en el contexto de la tarea que está llevando acabo, y puede elegir si las ignora o lee más detalles acerca del problema.</span><span class="sxs-lookup"><span data-stu-id="433eb-104">These notifications are shown as discreet tips in the context of the task you are doing, and you can choose to ignore the notification or to see details about the issue.</span></span>  
+<span data-ttu-id="c6361-106">Si elige ver los detalles de una notificación, puede intentar resolver el problema como, por ejemplo, poniéndose en contacto con el cliente, comprando más artículos para el inventario, etc.</span><span class="sxs-lookup"><span data-stu-id="c6361-106">If you choose to see details for a notification, you can take action to resolve the issue, such as contacting the customer, buying more inventory, and so on.</span></span> <span data-ttu-id="c6361-107">Puede decidir qué hacer y [!INCLUDE[d365fin](includes/d365fin_md.md)] le proporciona consejos y recomendaciones.</span><span class="sxs-lookup"><span data-stu-id="c6361-107">It's your choice what to do, and [!INCLUDE[d365fin](includes/d365fin_md.md)] gives you advice and recommendations.</span></span>  
 
-<span data-ttu-id="433eb-105">Si elige ver los detalles de una notificación, puede intentar resolver el problema como, por ejemplo, poniéndose en contacto con el cliente, comprando más artículos para el inventario, etc.</span><span class="sxs-lookup"><span data-stu-id="433eb-105">If you choose to see details for a notification, you can take action to resolve the issue, such as contacting the customer, buying more inventory, and so on.</span></span> <span data-ttu-id="433eb-106">Puede decidir qué hacer y Dynamics NAV le proporciona consejos y recomendaciones.</span><span class="sxs-lookup"><span data-stu-id="433eb-106">It's your choice what to do, and Dynamics NAV gives you advice and recommendations.</span></span>  
+<span data-ttu-id="c6361-108">Las notificaciones pueden ayudar a los usuarios no experimentados a completar tareas que les resultan difíciles y a los más experimentados, a no reducir la productividad.</span><span class="sxs-lookup"><span data-stu-id="c6361-108">Notifications can help untrained users complete unfamiliar tasks, and do not reduce productivity for the more trained user.</span></span>  
 
-<span data-ttu-id="433eb-107">Esas notificaciones sutiles ayudan a los usuarios no experimentados a completar tareas que les resultan difíciles y a los más experimentados, a no reducir la productividad.</span><span class="sxs-lookup"><span data-stu-id="433eb-107">The subtle notifications help untrained users complete unfamiliar tasks and do not reduce productivity for the more trained user.</span></span>
+## <a name="turn-on-or-turn-off-notifications-and-control-when-they-are-sent"></a><span data-ttu-id="c6361-109">Active o desactive las notificaciones y controle cuándo se envían</span><span class="sxs-lookup"><span data-stu-id="c6361-109">Turn on or turn off notifications, and control when they are sent</span></span>
+<span data-ttu-id="c6361-110">Al empezar por primera vez con [!INCLUDE[d365fin](includes/d365fin_md.md)] todas las notificaciones están activadas, pero las puede activar o desactivar, por ejemplo, si no le interesa un determinado evento o estado.</span><span class="sxs-lookup"><span data-stu-id="c6361-110">When you first start with [!INCLUDE[d365fin](includes/d365fin_md.md)] all notifications are turned on, but you can turn them on or off, for example, if you aren't interested in a certain event or status.</span></span>  
+  
+<span data-ttu-id="c6361-111">Además, algunas notificaciones le permiten especificar las condiciones en las que se envían.</span><span class="sxs-lookup"><span data-stu-id="c6361-111">Additionally, some notifications let you specify the conditions under which they are sent.</span></span> <span data-ttu-id="c6361-112">Por ejemplo, si desea recibir una notificación cuando quede poco inventario, pero solo de los productos que compra a un determinado proveedor.</span><span class="sxs-lookup"><span data-stu-id="c6361-112">For example, if you want to be notified when inventory is running low, but only for items you buy from a certain vendor.</span></span>  
+  
+<span data-ttu-id="c6361-113">La activación o la desactivación de las notificaciones, y la especificación de las condiciones, solo se aplican a su caso.</span><span class="sxs-lookup"><span data-stu-id="c6361-113">Turning notifications on or off, and specifying conditions, applies only to you.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="433eb-108">Consulte también</span><span class="sxs-lookup"><span data-stu-id="433eb-108">See Also</span></span>
-[<span data-ttu-id="433eb-109">Trabajar con Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="433eb-109">Work with Dynamics NAV</span></span>](ui-work-product.md)
+1. <span data-ttu-id="c6361-114">Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), especifique **Mis notificaciones** y elija el vínculo relacionado.</span><span class="sxs-lookup"><span data-stu-id="c6361-114">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **My Notifications**, and then choose the related link.</span></span>
+2. <span data-ttu-id="c6361-115">Para activar o desactivar una notificación, marque o desmarque la casilla **Activado**.</span><span class="sxs-lookup"><span data-stu-id="c6361-115">To turn on or turn off a notification, select or clear the **Enabled** check box.</span></span>
+3. <span data-ttu-id="c6361-116">Para especificar las condiciones que activan una notificación, seleccione el vínculo **Ver detalles de filtro** y rellene los campos.</span><span class="sxs-lookup"><span data-stu-id="c6361-116">To specify conditions that trigger a notification, choose the **View filter details** link, and then fill in the fields.</span></span>  
+
+## <a name="see-also"></a><span data-ttu-id="c6361-117">Consulte también</span><span class="sxs-lookup"><span data-stu-id="c6361-117">See Also</span></span>
+<span data-ttu-id="c6361-118">[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="c6361-118">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

@@ -1,37 +1,42 @@
 ---
-title: Preparar estados de cuenta cerrados
+title: Resumen de informes para preparar los estados de cuenta de cierre
+description: "Proporciona un resumen de los informes que puede utilizar para recopilar la información necesaria para preparar los extractos de cierre de su empresa cuando cierre el ejercicio."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 96f5cd1dd34803b10402fb547793ff6e8ad174c0
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments, assets, liabilities, equity, analysis, reporting, financial report, business intelligence, BI, Power Bi, KPI
+ms.date: 06/02/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 240fd8eb76a430ab3163ab4326c3c077df838cba
 ms.contentlocale: es-mx
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="prepare-closing-statements"></a><span data-ttu-id="f50ae-102">Preparar estados de cuenta cerrados</span><span class="sxs-lookup"><span data-stu-id="f50ae-102">Prepare Closing Statements</span></span>
-<span data-ttu-id="f50ae-103">Existen numerosos informes estándar que puede utilizar para recopilar la información necesaria para preparar las declaraciones de cierre de su empresa.</span><span class="sxs-lookup"><span data-stu-id="f50ae-103">There are a number of standard reports that you can use to gather the information that you need to prepare your company's closing statements.</span></span>
+# <a name="preparing-closing-statements"></a><span data-ttu-id="326a8-103">Preparación de extractos de cierre</span><span class="sxs-lookup"><span data-stu-id="326a8-103">Preparing Closing Statements</span></span>
+<span data-ttu-id="326a8-104">Existen numerosos informes estándar que puede utilizar para recopilar la información necesaria para preparar las declaraciones de cierre de su empresa.</span><span class="sxs-lookup"><span data-stu-id="326a8-104">There are a number of standard reports that you can use to gather the information that you need to prepare your company's closing statements.</span></span>
 
-<span data-ttu-id="f50ae-104">La tabla siguiente describe diversos informes que pueden ayudar en este proceso, con vínculos a los temas que las describen.</span><span class="sxs-lookup"><span data-stu-id="f50ae-104">The following table describes a number of reports that may be useful in this process, with links to the topics that describe them.</span></span>
+<span data-ttu-id="326a8-105">La tabla siguiente describe diversos informes que pueden ayudar en este proceso, con vínculos a los temas que las describen.</span><span class="sxs-lookup"><span data-stu-id="326a8-105">The following table describes a number of reports that may be useful in this process, with links to the topics that describe them.</span></span>
 
-|<span data-ttu-id="f50ae-105">Para</span><span class="sxs-lookup"><span data-stu-id="f50ae-105">To</span></span>     |<span data-ttu-id="f50ae-106">Ver este informe</span><span class="sxs-lookup"><span data-stu-id="f50ae-106">See this report</span></span>                  |
-|-------|---------------------------------|
-|<span data-ttu-id="f50ae-107">Imprimir un informe de balance de comprobación con saldos y cambios netos para cuentas de contabilidad.</span><span class="sxs-lookup"><span data-stu-id="f50ae-107">Print a trial balance report with balances and net changes for general ledger accounts.</span></span>|<span data-ttu-id="f50ae-108">Balance de comprobación</span><span class="sxs-lookup"><span data-stu-id="f50ae-108">Trial Balance</span></span>|
-|<span data-ttu-id="f50ae-109">Obtenga un resumen de cobros, con la antigüedad de los importes por cobrar calculada a partir de la fecha de vencimiento, la fecha de registro o la fecha del documento.</span><span class="sxs-lookup"><span data-stu-id="f50ae-109">Get an overview of accounts receivable, with the age of amounts receivable calculated from the due date, posting date, or document date.</span></span>|<span data-ttu-id="f50ae-110">Antigüedad cobros</span><span class="sxs-lookup"><span data-stu-id="f50ae-110">Aged Accounts Receivable</span></span>|
-|<span data-ttu-id="f50ae-111">Obtenga un resumen de pagos, con la antigüedad de los importes por pagar calculada a partir de la fecha de vencimiento, la fecha de registro o la fecha del documento.</span><span class="sxs-lookup"><span data-stu-id="f50ae-111">Get an overview of accounts payable, with the age of amounts payable calculated from the due date, posting date or document date.</span></span>|<span data-ttu-id="f50ae-112">Antigüedad pagos</span><span class="sxs-lookup"><span data-stu-id="f50ae-112">Aged Accounts Payable</span></span>|
-|<span data-ttu-id="f50ae-113">Comparar el balance de sumas y saldos con un presupuesto.</span><span class="sxs-lookup"><span data-stu-id="f50ae-113">Compare the trial balance with a budget.</span></span>|<span data-ttu-id="f50ae-114">Balance sumas y saldos/Ppto.</span><span class="sxs-lookup"><span data-stu-id="f50ae-114">Trial Balance/Budget</span></span>|
-|<span data-ttu-id="f50ae-115">Imprimir un informe de balance de sumas y saldos con saldos y cambios netos para cuentas de contabilidad calculado para una serie de periodos.</span><span class="sxs-lookup"><span data-stu-id="f50ae-115">Print a trial balance report with balances and net changes for general ledger accounts calculated for a series of periods.</span></span>|<span data-ttu-id="f50ae-116">Bal. comprobación/periodo</span><span class="sxs-lookup"><span data-stu-id="f50ae-116">Trial Balance by Period</span></span>|
-|<span data-ttu-id="f50ae-117">Imprimir una estructura de cuentas para analizar cifras en cuentas de contabilidad o comparar los movimientos de contabilidad reales con los presupuestados.</span><span class="sxs-lookup"><span data-stu-id="f50ae-117">Print an account schedule to analyze figures in general ledger accounts or compare actual general ledger entries with general ledger budget entries.</span></span>|<span data-ttu-id="f50ae-118">Estructura cuentas</span><span class="sxs-lookup"><span data-stu-id="f50ae-118">Account Schedule</span></span>|
-|<span data-ttu-id="f50ae-119">Comprobar si los movimientos de clientes y proveedores cuadran con los movimientos correspondientes de la contabilidad.</span><span class="sxs-lookup"><span data-stu-id="f50ae-119">Check whether customer and vendor ledger entries balance with corresponding general ledger entries.</span></span>|<span data-ttu-id="f50ae-120">Reconc. ctas.</span><span class="sxs-lookup"><span data-stu-id="f50ae-120">Reconcile Cust.</span></span> <span data-ttu-id="f50ae-121">client./</span><span class="sxs-lookup"><span data-stu-id="f50ae-121">and Vend.</span></span> <span data-ttu-id="f50ae-122">prov.</span><span class="sxs-lookup"><span data-stu-id="f50ae-122">Accs</span></span>|
+| <span data-ttu-id="326a8-106">Para</span><span class="sxs-lookup"><span data-stu-id="326a8-106">To</span></span> | <span data-ttu-id="326a8-107">Ver este informe</span><span class="sxs-lookup"><span data-stu-id="326a8-107">See this report</span></span> |
+| --- | --- |
+| <span data-ttu-id="326a8-108">Imprimir un informe de balance de comprobación con saldos y cambios netos para cuentas de contabilidad.</span><span class="sxs-lookup"><span data-stu-id="326a8-108">Print a trial balance report with balances and net changes for general ledger accounts.</span></span> |<span data-ttu-id="326a8-109">Balance de comprobación</span><span class="sxs-lookup"><span data-stu-id="326a8-109">Trial Balance</span></span> |
+| <span data-ttu-id="326a8-110">Obtenga un resumen de cobros, con la antigüedad de los importes por cobrar calculada a partir de la fecha de vencimiento, la fecha de registro o la fecha del documento.</span><span class="sxs-lookup"><span data-stu-id="326a8-110">Get an overview of accounts receivable, with the age of amounts receivable calculated from the due date, posting date, or document date.</span></span> |<span data-ttu-id="326a8-111">Antigüedad cobros</span><span class="sxs-lookup"><span data-stu-id="326a8-111">Aged Accounts Receivable</span></span> |
+| <span data-ttu-id="326a8-112">Obtenga un resumen de pagos, con la antigüedad de los importes por pagar calculada a partir de la fecha de vencimiento, la fecha de registro o la fecha del documento.</span><span class="sxs-lookup"><span data-stu-id="326a8-112">Get an overview of accounts payable, with the age of amounts payable calculated from the due date, posting date or document date.</span></span> |<span data-ttu-id="326a8-113">Antigüedad pagos</span><span class="sxs-lookup"><span data-stu-id="326a8-113">Aged Accounts Payable</span></span> |
+| <span data-ttu-id="326a8-114">Comparar el balance de sumas y saldos con un presupuesto.</span><span class="sxs-lookup"><span data-stu-id="326a8-114">Compare the trial balance with a budget.</span></span> |<span data-ttu-id="326a8-115">Balance sumas y saldos/Ppto.</span><span class="sxs-lookup"><span data-stu-id="326a8-115">Trial Balance/Budget</span></span> |
+| <span data-ttu-id="326a8-116">Imprimir un informe de balance de sumas y saldos con saldos y cambios netos para cuentas de contabilidad calculado para una serie de periodos.</span><span class="sxs-lookup"><span data-stu-id="326a8-116">Print a trial balance report with balances and net changes for general ledger accounts calculated for a series of periods.</span></span> |<span data-ttu-id="326a8-117">Bal. comprobación/periodo</span><span class="sxs-lookup"><span data-stu-id="326a8-117">Trial Balance by Period</span></span> |
+| <span data-ttu-id="326a8-118">Imprimir una estructura de cuentas para analizar cifras en cuentas de contabilidad o comparar los movimientos de contabilidad reales con los presupuestados.</span><span class="sxs-lookup"><span data-stu-id="326a8-118">Print an account schedule to analyze figures in general ledger accounts or compare actual general ledger entries with general ledger budget entries.</span></span> |<span data-ttu-id="326a8-119">Estructura cuentas</span><span class="sxs-lookup"><span data-stu-id="326a8-119">Account Schedule</span></span> |
+| <span data-ttu-id="326a8-120">Comprobar si los movimientos de clientes y proveedores cuadran con los movimientos correspondientes de la contabilidad.</span><span class="sxs-lookup"><span data-stu-id="326a8-120">Check whether customer and vendor ledger entries balance with corresponding general ledger entries.</span></span> |<span data-ttu-id="326a8-121">Reconc. ctas. client./prov.</span><span class="sxs-lookup"><span data-stu-id="326a8-121">Reconcile Cust. and Vend. Accs</span></span> |
 
-<span data-ttu-id="f50ae-123">Para ver un informe, en la esquina superior derecha, elija el icono **Buscar página o informe**, escriba el nombre como aparece en la tabla y, a continuación, elija el vínculo relacionado.</span><span class="sxs-lookup"><span data-stu-id="f50ae-123">To see a report, in the top right corner, choose the **Search for Page or Report** icon, type the name as it appears in the table, and then choose the related link.</span></span>
+<span data-ttu-id="326a8-122">Para ver un informe, en la esquina superior derecha, elija el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba el nombre como aparece en la tabla y, a continuación, elija el vínculo relacionado.</span><span class="sxs-lookup"><span data-stu-id="326a8-122">To see a report, choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, type the name as it appears in the table, and then choose the related link.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="f50ae-124">Consulte también</span><span class="sxs-lookup"><span data-stu-id="f50ae-124">See Also</span></span>
-[<span data-ttu-id="f50ae-125">Cerrar años y periodos</span><span class="sxs-lookup"><span data-stu-id="f50ae-125">Close Years and Periods</span></span>](year-close-years-periods.md)
+## <a name="see-also"></a><span data-ttu-id="326a8-123">Consulte también</span><span class="sxs-lookup"><span data-stu-id="326a8-123">See Also</span></span>
+[<span data-ttu-id="326a8-124">Cerrar años y periodos</span><span class="sxs-lookup"><span data-stu-id="326a8-124">Closing Years and Periods</span></span>](year-close-years-periods.md)  
+<span data-ttu-id="326a8-125">[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="326a8-125">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="326a8-126">Inteligencia empresarial</span><span class="sxs-lookup"><span data-stu-id="326a8-126">Business Intelligence</span></span>](bi.md)
 
