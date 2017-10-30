@@ -1,38 +1,40 @@
 ---
-title: Configurar compra
+title: Resumen de tareas para configurar las compras
+description: Describe las tareas para definir las directivas de aprovisionamiento de su empresa y configurar sus procesos de compra.
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b70e775b4fb5fe716279e5f475f7be214f49f65e
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: procurement, supply, vendor order
+ms.date: 03/29/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 46de426a91eb46ec40ce95592ae12e4adda3f9f6
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="set-up-purchasing"></a>Configurar compra
+# <a name="setting-up-purchasing"></a>Configurar compras
 Para poder administrar procesos de compra, debe configurar las reglas y valores que definen las políticas de compra de la empresa.
 
-En primer lugar, se debe definir la configuración general, como qué documentos son necesarios y cómo se registran sus valores. Normalmente, esta configuración general se realiza una vez durante la implementación inicial.
+Debe definir la configuración general, por ejemplo, qué documentos son necesarios y cómo se registran sus valores. Normalmente, esta configuración general se realiza una vez durante la implementación inicial.
 
-Una serie de tareas aparte relacionadas con la creación de datos maestros de proveedor es el rgistro de acuerdos de precio y descuento del proveedor, en ventanas vinculadas a las fichas de proveedor.
+Una serie de tareas independientes relacionadas con el registro de nuevos proveedores es registrar acuerdos de precios especiales o descuentos que tenga con cada proveedor.
 
-La actividad periódica de crear fichas de proveedor para los nuevos proveedores se describe en la sección Gestionar compras. Para obtener más información, vea [Procedimiento: Registrar nuevos proveedores](purchasing-how-register-new-vendors.md).
+La configuración de compra relacionada con las finanzas, como las formas de pago o las divisas, se describe en la sección Configuración de finanzas. Para obtener más información, consulte [Configurar finanzas](finance-setup-finance.md).
 
-La configuración de compra relacionada con las finanzas, como las formas de pago o las divisas, se describe en la sección Configuración de finanzas. Para obtener más información, consulte [Configurar finanzas](finance-setup-setup-finance-setup.md).
-
-|Para |Vea |
-|---|----|
-|Introduzca los diferentes descuentos y precios alternativos que los proveedores garantizan en función del producto, la cantidad o la fecha.|[Registrar acuerdos de pago, descuentos y precios de venta](purchasing-how-record-purchase-price-discount-payment-agreements.md)|
-|De prioridad a los proveedores.|[Asignación de prioridad a proveedores](purchasing-how-prioritize-vendors.md)|
-|Configure los compradores.|[Configuración de compradores](purchasing-how-setup-purchasers.md)|
+| Para | Vea |
+| --- | --- |
+| Cree una ficha de proveedor para cada proveedor al que compre.|[Registro de proveedores nuevos](purchasing-how-register-new-vendors.md) |
+| Introduzca los diferentes descuentos y precios especiales que los proveedores le ofrecen en función del producto, la cantidad y/o la fecha. |[Registrar acuerdos de precios de compra, descuentos y pagos](purchasing-how-record-purchase-price-discount-payment-agreements.md) |
+| De prioridad a los proveedores |[Asignación de prioridad a proveedores](purchasing-how-prioritize-vendors.md) |
+| Configure los compradores |[Configuración de compradores](purchasing-how-setup-purchasers.md) |
 
 ## <a name="see-also"></a>Consulte también
-[Gestionar compras](purchasing-manage-purchasing.md)
+[Compras](purchasing-manage-purchasing.md)  
+[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

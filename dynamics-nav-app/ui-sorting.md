@@ -1,30 +1,31 @@
 ---
-title: "Ordenación"
+title: "Organizar los datos mediante la función de clasificación"
+description: "Puede usar la función de clasificación para obtener un resumen de sus datos. Por ejemplo, puede ordenar los clientes por código de divisa para obtener una muestra seleccionada de clientes."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 18c7932a4916140238c34e05086fa995fcdea1f4
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.date: 02/07/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d73f17a026046ecaae0bd451b412d2d58460f74b
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
 # <a name="sorting"></a>Ordenación
-Esta función permite obtener fácil y rápidamente un panorama de los datos. Se puede guardar una lista ordenada mediante la funcionalidad **Guardar vista como** que se encuentra al elegir el título de la página. Si hay varios clientes, por ejemplo, puede elegir ordenarlos por **N.º de cliente**, **Grupo contable cliente**, **Cód. divisa**, **Cód. país/región** o **N.º de registro de impuesto sobre las ventas** para obtener el resumen que necesita.
+Esta función permite obtener fácil y rápidamente un panorama de los datos. Si hay varios clientes, por ejemplo, puede elegir ordenarlos por **N.º de cliente**, **Grupo contable cliente**, **Cód. divisa**, **Cód. país/región** o **N.º de registro de impuesto sobre las ventas** para disponer de la vista general que desea.
 
 Seleccione un cabecera de columna y use la flecha pequeña para ordenar de forma ascendente o descendente.  
 
-**Nota**: El ordenamiento no se admite en imágenes, campos BLOB, FlowFilters ni campos que no pertenecen a una tabla.
+> [!NOTE]  
+>   La ordenación no se admite en imágenes, campos BLOB, FlowFilters ni campos que no pertenezcan a una tabla.
 
 ## <a name="see-also"></a>Consulte también
-[Trabajar con Dynamics NAV](ui-work-product.md)  
+[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Introducir criterios en los filtros](ui-enter-criteria-filters.md)
-
 

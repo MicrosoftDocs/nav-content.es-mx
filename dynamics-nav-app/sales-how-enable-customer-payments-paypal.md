@@ -8,11 +8,11 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a2268d8454af761c40b11d89b01778a3f92090fb
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 15f30a03c3e7ccc865ef527a707794c2c6428b2f
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -26,7 +26,7 @@ Para activar los pagos del cliente con PayPal, deberá seguir los pasos siguient
 1. Configure Estándar de pagos de PayPal como un servicio de pago en la ventana **Servicios de pago**.
 2. Seleccione Estándar de pagos de PayPal en el campo **Servicio de pago** en el documento de ventas en cuestión.
 
-El servicio Estándar de pagos de PayPal se instala como una extensión de Dynamics NAV y ya está listo para usarse. Para obtener más información, vea [Personalización de Dynamics NAV usando extensiones](ui-extensions.md).
+El servicio Estándar de pagos de PayPal se instala como una extensión de Dynamics NAV y ya está lista para usar. Para obtener más información, consulte [Personalizar Dynamics NAV mediante extensiones](ui-extensions.md).
 
 ## <a name="to-enable-the-paypal-payments-standard-service"></a>Para habilitar el servicio Estándar de pagos de PayPal
 1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Servicios de pago** y, a continuación, seleccione el enlace relacionado.  

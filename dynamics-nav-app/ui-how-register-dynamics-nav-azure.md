@@ -10,11 +10,11 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 225773f7f686dd6e9a79f759d520d66f7e7b9d0a
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: d41b96ab5807402a342991d5c5bc2d672db09e2f
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-register-dynamics-nav-in-the-azure-management-portal"></a>Procedimiento: Registrar Dynamics NAV en el portal de administración de Azure
@@ -24,9 +24,8 @@ Puede utilizar la guía **Configurar el portal de administración de Azure** par
 
 El punto del registro es que Dynamics NAV y el servicio al que desea conectarse deben conocer los detalles de Azure Active Directory (Azure AD) de cada uno.
 
-## <a name="to-register-dynamics-nav-in-the-azure-management-portal"></a>Para registrar Dynamics NAV en el portal de administración de Azure
-1. Inicie sesión en el portal de administración de Azure en [https://portal.azure.com](https://portal.azure.com).
-    Si no está familiarizado con el portal de administración de Azure, puede encontrar indicaciones en la [biblioteca de documentación de Azure](https://azure.microsoft.com/en-us/documentation/articles).
+## <a name="to-register-dynamics-nav-in-the-azure-management-portal"></a>Registrar Dynamics NAV en el portal de administración de Azure
+1. Inicie sesión en el portal de administración de Azure en [https://portal.azure.com](https://portal.azure.com). Si no está familiarizado con el portal de administración de Azure, puede encontrar indicaciones en la [biblioteca de documentación de Azure](https://azure.microsoft.com/en-us/documentation/articles).
 2. En el panel de navegación izquierdo, elija **Más servicios** y, a continuación, elija **Registros de aplicación**.
 3. En el menú superior, elija **Agregar** y, a continuación, en **Crear panel**, rellene los campos con la siguiente información:
     - **Nombre**: especifique un nombre para la solución de Dynamics NAV, como *Dynamics NAV*.
@@ -57,6 +56,6 @@ Ya ha registrado Dynamics NAV en el portal de administración de Azure, se le ha
 Su Dynamics NAV está registrado y listo para conectarse a servicios como Cortana Intelligence y Power BI.
 
 ## <a name="see-also"></a>Consulte también
-[Previsión de inventario y ventas](ui-extensions-sales-forecast.md)  
+[Previsión de ventas e inventario](ui-extensions-sales-forecast.md)  
 [Configurar Dynamics NAV](setup.md)  
 

@@ -1,40 +1,51 @@
 ---
-title: "Especificar selección de impresora para informes"
+title: "Configuración informes para imprimir en impresoras específicas"
+description: "Obtenga información sobre cómo especificar una impresora para un informe y usar la ventana Selección impresoras."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 55b48aef2bc108ced7f581f0ff6c11263ee467df
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: online printing
+ms.date: 03/29/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4c31738da8ca833c06d976d26b9cb170a05fd46e
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
 # <a name="specify-printer-selection-for-reports"></a>Especificar selección de impresora para informes
-Puede configurar los informes para que se deban imprimir en una impresora específica. A continuación, se indican algunos usos de la selección de la impresora: 
+Esta página está vacía porque no puede configurar impresoras específicas para informes específicos. Estamos trabajando para resolver este problema.
 
-- Puede imprimir informes en papel con membrete especial de la empresa.
-- Puede imprimir informes en distintos tamaños en papel.
-- Puede imprimir informes en la impresora predeterminada de un empleado especificado.
+Mientras tanto, si desea imprimir un informe, tiene que descargarlo como documento PDF primero, eligiendo el botón **Enviar**. A continuación, seleccione el tipo de archivo como se descargará el informe; debe elegir **Documento PDF**. Ahora puede abrir el documento de PDF inmediatamente e imprimirlo, o guardarlo e imprimirlo más adelante.
 
-Puede usar la ventana **Selección de impresoras** para establecer valores diferentes para obtener una salida distinta. Si establece una selección de impresora específica, tendrá preferencia sobre una selección de impresora más general. Por ejemplo, puede definir una selección de impresora que tenga valores en los campos **Id. usuario**, **Id. informe** y **Nombre impresora**. Esta selección de impresora tiene preferencia sobre una selección de impresora que tenga entradas en blanco en los campos **Id. usuario** o **Id. informe**. 
+<!--
 
-La tabla siguiente describe la combinación de valores que especificar al configurar selecciones de impresora para un informe.
+You can set up reports so that they must be printed on a specific printer. The following are some uses of printer selection:
 
-|Para                                                 |Establecer los valores siguientes                                             |
+- You can print reports on special company letterhead.
+- You can print reports on different paper sizes.
+- You can print reports on the default printer of a specified employee.
+
+You use the **Printer Selections** window to set different values to obtain different output. If you set a specific printer selection, then it takes precedence over a more general printer selection. For example, you can set a printer selection that has values in the **User ID**, **Report ID**, and **Printer Name** fields. This printer selection takes precedence over a printer selection that has blank entries in the **User ID** or **Report ID** fields.
+
+The following table describes the combination of values to specify when you set up printer selections for a report.
+
+|To                                                 |Set the following values                                             |
 |---------------------------------------------------|---------------------------------------------------------------------|
-|Imprimir un informe en una impresora específica para todos los usuarios |Especifique los valores de los campos **Id. informe** y **Nombre impresora** y deje en blanco el campo **Id. usuario**.|
-|Imprimir todos los informes en una impresora específica para un usuario específico|Especifique los valores de los campos **Id. usuario** y **Nombre impresora** y deje en blanco el campo **Id. informe**.|
-|Establecer la impresora predeterminada para todos los informes|Especifique un valor en el campo **Nombre impresora** y deje en blanco los campos **Id. usuario** e **Id. informe**.|
-|Imprimir un informe específico en la impresora predeterminada del usuario|Especifique un valor en el campo **Id. informe** y deje en blanco los campos **Id. usuario** y **Nombre impresora**.|
-|Imprimir un informe específico en una impresora concreta para un usuario específico|Especifique los valores de los tres campos.|
+|Print a report to a specific printer for all users |Specify values in the **Report ID** and **Printer Name** fields and leave the **User ID** field blank.|
+|Print all reports to a specific printer for a specific user|Specify values in the **User ID** and **Printer Name** fields and leave the **Report ID** field blank.|
+|Set the default printer for all reports|Specify a value in the **Printer Name** field and leave the **User ID** and **Report ID** fields blank.|
+|Print a specific report to the user’s default printer|Specify a value in the **Report ID** field and leave the **Printer Name** and **User ID** fields blank.|
+|Print a specific report to a specific printer for a specific user|Specify values in all three fields.|
+-->
 
 ## <a name="see-also"></a>Consulte también
-[Trabajar con Dynamics NAV](ui-work-product.md)
+[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Ejecución de trabajos por lotes](ui-how-run-batch-jobs.md)  
+[Enviar documentos por correo electrónico.](ui-how-send-documents-email.md)  
 

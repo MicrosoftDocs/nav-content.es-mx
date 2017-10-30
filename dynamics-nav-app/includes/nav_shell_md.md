@@ -1,1 +1,1 @@
-Shell de administración de Microsoft Dynamics NAV 2017
+Shell de administración para Microsoft Dynamics NAV 2017

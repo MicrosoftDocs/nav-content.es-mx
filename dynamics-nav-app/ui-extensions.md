@@ -1,47 +1,75 @@
 ---
-title: Personalizar Dynamics NAV usando extensiones
+title: "Instalación de extensiones para personalizar Dynamics NAV"
+description: "Obtenga información sobre cómo agregar funcionalidad y personalizar Dynamics NAV mediante la instalación de extensiones."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/23/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7088b821a48f3d1ef6161c03cd485472c97f9f22
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: app, add-in, manifest, customize
+ms.date: 07/07/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: eebf2005d6317e4e2bf328b5a4b13584e3c96c5f
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="customizing-dynamics-nav-using-extensions"></a>Personalizar Dynamics NAV usando extensiones
-Puede cambiar Dynamics NAV instalando extensiones que agregan funciones, cambian el comportamiento o proporcionan acceso a nuevos servicios en línea, por ejemplo.
-Cuando inicia Dynamics NAV por primera vez, ya están instaladas algunas extensiones. Con el tiempo, podrás tener disponibles más extensiones y puede elegir si desea usar la extensión o no.
+# <a name="customizing-dynamics-nav-using-extensions"></a>Personalizar Dynamics NAV con extensiones
+Puede cambiar [!INCLUDE[d365fin](includes/d365fin_md.md)] instalando extensiones que agregan funciones, cambian el comportamiento o proporcionan acceso a nuevos servicios en línea, por ejemplo.
+Cuando inicia [!INCLUDE[d365fin](includes/d365fin_md.md)] por primera vez, ya están instaladas algunas extensiones. Con el tiempo, tendrá disponibles más extensiones y puede elegir si desea usar la extensión o no.
 
 Por ejemplo, Microsoft ofrece una extensión que proporciona integración con Estándar de pagos de PayPal. Esta extensión se instala por omisión.
 Pero si está disponible otra extensión que ofrece integración con otro servicio de pago, puede instalar la nueva extensión y seleccionar cuál de los dos servicios quiere usar.  
 
-Puede administrar las extensiones en la ventana **Administración de extensiones**. Puede acceder a esta ventana desde la página Inicio. De forma alternativa, seleccione el icono **Buscar página o informe** en la esquina superior derecha, escriba **Extensión** y, a continuación, seleccione el enlace relacionado.   
+Puede administrar las extensiones en la ventana **Administración de extensiones**. Puede acceder a esta ventana desde la página Inicio. También puede elegir el icono **Buscar página o informe** ![Buscar página o informe](media/ui-search/search_small.png "Icono Buscar página o informe") en la esquina superior derecha, especificar **Tablas amortización** y elegir el vínculo relacionado.  
+
+> [!NOTE]  
+>   Si cree que debería tener acceso a una extensión pero no encuentra la funcionalidad, consulte la ventana **Administración de extensiones**; si la extensión no aparece, puede instalarla tal como se describe en la sección siguiente.  
 
 ## <a name="installing-an-extension"></a>Instalar una extensión
-Si las nuevas extensiones están a su disposición porque se han publicado en su servidor, se mostrarán en la ventana **Administración de extensiones**. En ella, puede elegir instalar y desinstalar extensiones.  
+Puede obtener extensiones nuevas en mercado en [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1). Aquí, puede ver todos los extensiones disponibles para [!INCLUDE[d365fin](includes/d365fin_md.md)], y puede obtener aplicaciones, extensiones, y paquetes de contenido para otros productos de Microsoft. Configure los filtros relevantes, revise la información para cada extensión y consiga una para [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+> [!NOTE]  
+>   Inicie sesión en [AppSource.microsoft.com](https://appsource.microsoft.com/) con la cuenta de correo electrónico que usa para [!INCLUDE[d365fin](includes/d365fin_md.md)]. Use la misma cuenta de correo para otros servicios y productos para disfrutar de una experiencia agilizada.  
 
-Si selecciona una extensión, puede consultar las funciones de la extensión y acceder al sitio de ayuda de la extensión para obtener más información. Cuando elige obtener una extensión, debe aceptar las condiciones de uso.  
+También puede ir al mercado de aplicaciones desde [!INCLUDE[d365fin](includes/d365fin_md.md)]. En la ventana **Gestión de extensiones**, puede ver las extensiones que están instaladas actualmente y puede abrir la página del **Mercado de extensiones** que muestra todas las extensiones para [!INCLUDE[d365fin](includes/d365fin_md.md)] que están disponibles actualmente en AppSource. Si elige el vínculo *Más aplicaciones* se le redireccionará a [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).  
 
-Al instalar una extensión, es posible que tenga que configurarla, por ejemplo, especificar una cuenta para usar con la extensión **Estándar de pagos de PayPal para Dynamics NAV**.
+Si selecciona una extensión, puede consultar las funciones de la extensión y acceder al sitio de ayuda de la extensión para obtener más información. Cuando elige obtener una extensión debe aceptar las condiciones de uso. Si obtiene la extensión del sitio web de AppSource, se requerirá el inicio de sesión en [!INCLUDE[d365fin](includes/d365fin_md.md)] para completar la instalación.  
+
+Al instalar una extensión, es posible que tenga que configurarla, por ejemplo, especificar una cuenta para usar con la extensión **Estándar de pagos de PayPal para [!INCLUDE[d365fin](includes/d365fin_md.md)]**.
 Otras extensiones simplemente agregan campos a una página existente o agregan una página nueva, por ejemplo.   
 
 Si desinstala una extensión y cambia de idea, puede volver a instalarla. Al desinstalar una extensión que ha estado usando, los datos se guardan para que se vuelve a instalar la extensión estén disponibles.  
 
+Algunas de las extensiones las proporciona Microsoft y otras las proporcionan [otras empresas](ui-extensions-other.md). Se prueban todas las extensiones antes de que estén disponibles, pero le recomendamos que acceda a los vínculos que se proporcionan con cada extensión para obtener más información sobre la extensión antes de optar por instalarla.  
+
 Microsoft proporciona las extensiones siguientes:  
-- [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
-- [Previsión de inventario y ventas](ui-extensions-sales-forecast.md)  
 
-También están disponibles otras extensiones de forma predeterminada, según su país o región.
+* [Migración de datos de Dynamics GP](ui-extensions-dynamicsgp-data-migration.md)  
+* [Microsoft Pay](ui-extensions-microsoft-pay-payments.md)
+* [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
+* [Migración de datos de QuickBooks](ui-extensions-quickbooks-data-migration.md)  
+* [Previsión de ventas e inventario](ui-extensions-sales-forecast.md)  
+* [Nóminas de Ceridian](ui-extensions-ceridian-payroll.md)  
+* [Importación del archivo de nómina de QuickBooks](ui-extensions-quickbooks-payroll.md)  
+* [Estándar de pagos de WorldPay](ui-extensions-worldpay-payments-standard.md)
+* [Códigos postales de Reino Unido de GetAddress.io](ui-extensions-getaddressio.md)
+* [Migración de datos de QuickBooks Online](ui-extensions-quickbooks-online-data-migration.md)
+* [Portal para contables](ui-extensions-accountant-portal.md)  
+* [Analizador de imágenes](ui-extensions-image-analyzer.md)
 
-## <a name="see-also"></a>Consulte también  
-[Procedimiento: Permitir el pago de clientes mediante PayPal](sales-how-enable-customer-payments-paypal.md)  
-[Este es Dynamics NAV](across-get-started.md)  
+> [!NOTE]  
+>  Las nuevas extensiones no están disponibles en AppSource inmediatamente después anunciar una actualización. Puede estar atento a las extensiones en [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).
+
+## <a name="see-also"></a>Consulte también
+[Permitir el pago de clientes mediante PayPal](sales-how-enable-payment-service-extensions.md)  
+[Migrar datos de empresa de otros sistemas financieros](upload-data.md)  
+[Configurar la extensión Códigos postales de Reino Unido de GetAddress.io](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)  
+[[!INCLUDE[d365fin](includes/d365fin_md.md)] Extensiones de otros proveedores](ui-extensions-other.md)  
+[[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+
+##
 

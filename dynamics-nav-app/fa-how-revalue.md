@@ -1,21 +1,22 @@
 ---
-title: 'Procedimiento: Revalorizar activos fijos'
+title: Revalorizar activos fijos
+description: "Obtenga información sobre cómo ajustar el valor de los activos fijos, registrar nuevos importes como amortización o apreciación, y registrar costes de adquisición adicionales."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ce4176db221d309df63ad8e2bc89263b2464021b
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.date: 06/02/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 09c3babe38e1ec20f5d695f97df37104a9cc4d35
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-revalue-fixed-assets"></a>Procedimiento: Revalorizar activos fijos
 La revalorización de activos fijos está formada por apreciaciones, depreciaciones o ajustes de valor general.
 
@@ -25,41 +26,43 @@ Cuando haya disminuido el valor de un activo fijo, registre una línea de diario
 
 El ajuste de valores se utiliza para ajustar los diversos valores de los activos fijos como, por ejemplo, los cambios generales de precio. El proceso **Ajustar valores activos** puede utilizarse para cambiar diversos importes como, por ejemplo, importes de apreciación y depreciación.
 
-## <a name="to-post-an-appreciation-from-the-fixed-asset-gl-journal"></a>Para registrar una apreciación desde el diario general de activos fijos  
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Diarios generales A/F** y, a continuación, seleccione el vínculo relacionado.  
+## <a name="to-post-an-appreciation-from-the-fixed-asset-gl-journal"></a>Para registrar una apreciación desde el diario general de activos fijos
+1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Diarios generales A/F** y, a continuación, seleccione el vínculo relacionado.  
 2. Cree una línea inicial de diario y rellene los campos según sea necesario.
-3. En el campo **A/F Tipo registro**, seleccione **Apreciación**.
+3. En el campo **A/F Tipo registro**, seleccione **Reevaluación**.
 4. Elija la acción **Introducir saldo AF**. Se crea una segunda línea de diario para la cuenta contrapartida que se ha configurado para el registro de apreciaciones.
 
-    **Nota**: El paso 4 solo funciona si ha configurado lo siguiente: en la ventana **A/F Ficha grupo contable** del grupo contable del activo fijo, el campo **Cta. apreciación** contiene la cuenta de cargo y el campo **Cta. contrap. apreciación** contiene la cuenta contable en la que desea registrar los movimientos de contrapartida para apreciación. Para obtener más información, vea la sección "Para configurar grupos contables de activos fijos" en [Procedimiento: Configurar información general del activo fijo](fa-how-setup-general.md).
+    > [!NOTE]  
+>   El paso 4 solo funciona si ha configurado lo siguiente: en la ventana **A/F Ficha grupo contable** del grupo contable del activo fijo, el campo **Cta. apreciación** contiene la cuenta de cargo y el campo **Cta. contrap. apreciación** contiene la cuenta contable en la que desea registrar los movimientos de contrapartida para apreciación. Para obtener más información, vea la sección "Para configurar grupos contables de activos fijos" en [Procedimiento: Configurar información general del activo fijo](fa-how-setup-general.md).  
 5. Seleccione la acción **Registrar**.
 
-## <a name="to-post-a-write-down-from-the-fixed-asset-gl-journal"></a>Para registrar una depreciación desde el diario general de activos fijos  
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Diarios generales A/F** y, a continuación, seleccione el vínculo relacionado.  
+## <a name="to-post-a-write-down-from-the-fixed-asset-gl-journal"></a>Para registrar una depreciación desde el diario general de activos fijos
+1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Diarios generales A/F** y, a continuación, seleccione el vínculo relacionado.  
 2. Cree una línea inicial de diario y rellene los campos según sea necesario.
 3. En el campo **A/F Tipo registro**, seleccione **Depreciación**.
 4. Elija la acción **Introducir saldo AF**. Se crea una segunda línea de diario para la cuenta contrapartida que se ha configurado para el registro de depreciaciones.
 
-    **Nota**: El paso 4 solo funciona si ha configurado lo siguiente: en la ventana **A/F Ficha grupo contable** del grupo contable del activo fijo, el campo **Cta. depreciación** contiene la cuenta de abono y el campo **Cta. gastos depreciación** contiene la cuenta contable en la que desea registrar los movimientos de contrapartida para las depreciaciones. Para obtener más información, vea la sección "Para configurar grupos contables de activos fijos" en [Procedimiento: Configurar información general del activo fijo](fa-how-setup-general.md).
+    > [!NOTE]  
+>   El paso 4 solo funciona si ha configurado lo siguiente: en la ventana **A/F Ficha grupo contable** del grupo contable del activo fijo, el campo **Cta. depreciación** contiene la cuenta de abono y el campo **Cta. gastos depreciación** contiene la cuenta contable en la que desea registrar los movimientos de contrapartida para las depreciaciones. Para obtener más información, vea la sección "Para configurar grupos contables de activos fijos" en [Procedimiento: Configurar información general del activo fijo](fa-how-setup-general.md).
 5. Seleccione la acción **Registrar**.
 
-## <a name="to-perform-general-revaluation-of-fixed-assets"></a>Para realizar una revalorización general de activos fijos  
+## <a name="to-perform-general-revaluation-of-fixed-assets"></a>Para realizar una revalorización general de activos fijos
 El ajuste de valores se utiliza para ajustar los diversos valores de los activos fijos como, por ejemplo, los cambios generales de precio. El proceso **Ajustar valores activos** puede utilizarse para cambiar diversos importes como, por ejemplo, importes de apreciación y depreciación. La casilla **Permite ajuste valores** de la ventana **Libro amortización** debe estar seleccionada.
 
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Ajustar valores activos fijos** y, a continuación, seleccione el vínculo relacionado.  
+1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Ajustar valores activos fijos** y, a continuación, seleccione el vínculo relacionado.  
 2. Rellene los campos según sea necesario.
-3. Elija el botón **Aceptar**.  
+3. Elija el botón **Aceptar**.
 
     Las líneas de revalorización se crean según su configuración en el paso 2. Las líneas se crean en el diario de activos fijos o en el diario general de activos fijos dependiendo de su configuración de plantilla y sección en la ventana **Configuración del diario A/F**. Para obtener más información, consulte [Procedimiento: Configurar información general del activo fijo](fa-how-setup-general.md).
-
-4. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Diarios generales A/F** y, a continuación, seleccione el vínculo relacionado.  
+4. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Diarios generales A/F** y, a continuación, seleccione el vínculo relacionado.  
 5. Seleccione el diario con los activos fijos que desea revalorizar y, a continuación, elija la acción **Movimientos**.  
 6. Compruebe los movimientos creados y, a continuación, seleccione la acción **Registrar** para registrarlos en el diario.
 
-**Sugerencia**: Si los números de ajuste son solo para fines de simulación, puede crear un libro de amortización especial que los guarde. Así estos movimientos no afectarán a ninguno de los libros de amortización.
+    > [!TIP]  
+>   Si los números de ajuste son solo para fines de simulación, puede crear un libro de amortización especial que los guarde. Así estos movimientos no afectarán a ninguno de los libros de amortización.
 
-## <a name="to-post-additional-acquisition-costs"></a>Para registrar costos de adquisición adicionales
-Puede registrar costos de adquisición adicionales de un activo fijo de la misma forma que registra el costo de adquisición original: desde una factura de compra o desde un diario de activos fijos. Para obtener más información, vea [Procedimiento: Activos fijos adquiridos](fa-how-acquire.md).  
+   ## <a name="to-post-additional-acquisition-costs"></a>Para registrar costos de adquisición adicionales
+   Puede registrar costos de adquisición adicionales de un activo fijo de la misma forma que registra el costo de adquisición original: desde una factura de compra o desde un diario de activos fijos. Para obtener más información, vea [Procedimiento: Activos fijos adquiridos](fa-how-acquire.md).  
 
 Si ya ha calculado la amortización para el activo fijo, active la casilla **Depr. de costo de adquisición** para que el costo de adquisición adicional sea menor que el valor residual amortizado, en proporción al importe con el que se amortizó anteriormente el activo fijo. Esto asegura que el periodo de amortización no cambia.  
 
@@ -113,8 +116,9 @@ Si no seleccionó la casilla **A/F Amort. hasta fecha reg.**, el activo perderí
 *Total de amortización = 100 +15 + 55,54 = 170,54*
 
 ## <a name="see-also"></a>Consulte también
-[Gestión de activos fijos](fa-manage.md)  
-[Configuración de activos fijos](fa-setup.md)  
-[Finanzas](finance-setup.md)  
-[Este es Dynamics NAV](across-get-started.md)
+[Activos fijos](fa-manage.md)  
+[Configurar activos fijos](fa-setup.md)  
+[Finanzas](finance.md)  
+[[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

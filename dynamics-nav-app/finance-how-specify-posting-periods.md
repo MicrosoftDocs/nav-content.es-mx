@@ -1,35 +1,37 @@
 ---
-title: Procedimiento para especificar periodos de registro
+title: Para especificar periodos de registro
+description: "Puede especificar las fechas inicial y final de registro para configurar cuándo pueden los usuarios hacer registros en la contabilidad."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+manager: edupont
+editor: 
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7a332fa1e463b0c5c44c256d5d57803d6d1f48fe
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: user setup
+ms.date: 06/02/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f5b0f52ecf52329471f33a7533165cb86a54267f
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-specify-posting-periods"></a>Procedimiento para especificar periodos de registro
-La especificación de periodos de registro limita el periodo en el que se permite el registro.
+Utilice los periodos de registro para especificar cuándo los usuarios pueden registrar en el libro mayor.  
 
 ## <a name="to-specify-posting-periods"></a>Para especificar periodos de registro
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Configuración de contabilidad** y, a continuación, seleccione el enlace relacionado.
-2. En la ventana **Configuración de contabilidad**, escriba una fecha en el campo **Permitir registro desde** para especificar el inicio del periodo.
-3. Para especificar el final del periodo, escriba una fecha en el campo **Permitir registro hasta**.
+1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), introduzca **Configuración contabilidad** y, a continuación, elija el vínculo relacionado.  
+2. En la ventana **Configuración de contabilidad**, defina el periodo introduciendo las fechas en los campos **Permitir registro desde** y **Permitir registro hasta**.  
 
-Las fechas que defina aquí se aplicarán a toda la empresa, es decir a todos los usuarios.
-
-**Nota**: Si desea definir periodos de registro diferentes para usuarios distintos, puede configurarlos para cada usuario en la ventana **Configuración de usuarios**. Si escribe fechas en la ventana **Configuración de usuarios**, las fechas especificadas en la ventana **Configuración de contabilidad** no se aplicarán a estos usuarios.
-
+> [!NOTE]  
+>   Estos periodos de registro se aplicarán a toda la empresa y todos los usuarios. Para permitir excepciones, puede definir periodos de registro diferentes para usuarios específicos en la ventana **Configuración usuarios**. Estos periodos de registro anulan los especificados en la ventana **Configuración de contabilidad**. Para obtener más información, consulte la sección "Para configurar restricciones de tiempo de usuarios" en [Administrar usuarios y permisos](ui-how-users-permissions.md).
 
 ## <a name="see-also"></a>Consulte también
-[Finanzas](finance-setup.md)  
-[Completar procesos de fin de periodo](year-how-complete-period-end-processes.md)
+[Finanzas](finance.md)  
+[Completar procesos de fin de periodo](year-how-complete-period-end-processes.md)  
+[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

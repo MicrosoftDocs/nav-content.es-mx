@@ -1,21 +1,24 @@
 ---
-title: Cerrar libros
+title: Resumen de las tareas para cerrar los libros
+description: "Obtenga información sobre el proceso de cerrar los libros de un ejercicio o periodo, y qué sucede después de cerrar al final de un ejercicio."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ad75bfd18936df07e0fe9dcc5ed6bb94360ea965
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
+ms.date: 03/29/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d709f8bfb5da3a0ebf5b44f3246fa3ccaa69c77f
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="close-books"></a>Cerrar libros
+# <a name="closing-the-books"></a>Cerrar los libros
 Una vez que se haya asegurado de que todas sus cuentas estén actualizadas, y que asigne costos e ingresos, puede cerrar los libros para un ejercicio o periodo.
 
 El cierre del año no es obligatorio, pero haciéndolo le resultará más fácil trabajar en el sistema, porque podrá utilizar las opciones de filtrado disponibles. Tampoco tendrá que temer la pérdida de datos de las transacciones al realizar el cierre, porque todos los datos se conservan, incluso después de cerrar el año.
@@ -25,14 +28,12 @@ El proceso de cerrar el libro incluye estas tareas principales:
 
 1. Cerrar el periodo contable.
 
-    Un ejercicio se define como uno o varios periodos abiertos como se define en la página **Periodos contables**. Un ejercicio normal contiene 12 periodos de un mes cada uno, pero también puede elegir otro método para definir un ejercicio.
+    Un ejercicio se define como uno o varios periodos abiertos tal como se definen en la ventana **Periodos contables**. Un ejercicio normal contiene 12 periodos de un mes cada uno, pero también puede elegir otro método para definir un ejercicio.
 
     Para obtener más información, vea [Procedimiento: Cerrar periodos contables](year-close-account-periods.md).
-
 2. Registrar asientos post-cierre.
 
     Cuando cierre un ejercicio, debe introducir diversas transacciones administrativas (como productos prepagados y acumulados). Estas transacciones se denominan movimientos de ajuste. No existen reglas especiales para registrar estos movimientos y contienen (al igual que otros movimientos) una marca de verificación en el campo **Asiento post-cierre** si se registran en una fecha de un ejercicio cerrado. Incluso aunque un ejercicio se haya cerrado, todavía podrá registrar en él movimientos de contabilidad.
-
 3. Transferir saldos de las cuentas de resultado al balance de situación.
 
     Una vez cerrado un ejercicio y registrados todos asientos post-cierre, las cuentas de resultados deben cerrarse y los ingresos netos para el año deben transferirse a una cuenta bajo los fondos propios de los propietarios en el balance. Utilice el proceso Cerrar cuenta de resultado con este fin. El proceso procesa todas las cuentas de contabilidad del tipo Resultado y crea movimientos que revierten sus saldos. Estos movimientos se colocan en un diario, desde donde se pueden registrar. El proceso no los registra automáticamente, salvo si se utiliza una divisa de informes adicional. En este caso, el proceso registra directamente en la contabilidad.
@@ -52,5 +53,6 @@ El sistema genera un movimiento de cierre, pero no lo registra automáticamente.
 Puede realizar registros en un ejercicio anterior, después de se hayan cerrado las cuentas de resultados, si vuelve a ejecutar el proceso Asiento regularización.
 
 ## <a name="see-also"></a>Consulte también
-[Procedimiento para abrir un nuevo ejercicio](finance-setup-how-open-new-fiscal-year.md)
+[Abrir un nuevo ejercicio](finance-how-open-new-fiscal-year.md)  
+[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

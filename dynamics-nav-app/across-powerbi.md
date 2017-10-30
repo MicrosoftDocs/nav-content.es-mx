@@ -8,18 +8,18 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 6351e4819a2f3665cc561b5b1f868eea5d435f75
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: ad9519b8ce9c244480308ccc99c05e78e4926b06
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
 # <a name="using-the-dynamics-nav-content-pack-for-power-bi"></a>Usar el paquete de contenido de Dynamics NAV para Power BI
 Obtener información de los datos de Dynamics NAV resulta muy sencillo con Power BI y el paquete de contenido de Dynamics NAV. Power BI extrae los datos y, a continuación, genera un panel original e informes en función de los datos.  
 
-El paquete de contenido está configurado previamente para trabajar con los datos de ventas y los datos financieros de la empresa de demostración que aparecerá al registrarse para la vista previa de Dynamics NAV.  
+El paquete de contenido está preconfigurado para trabajar con los datos de ventas y los datos financieros de la empresa de demostración que aparecerá al registrarse para la versión preliminar de Dynamics NAV.  
 
 - Seleccione cualquier representación visual del panel para traer uno de los siete informes subyacentes.  
 - Filtre el informe o agregue los campos que desee supervisar.  
@@ -29,7 +29,7 @@ El panel y los informes subyacentes se actualizan diariamente. Puede comprobar l
 ## <a name="accessing-dynamics-nav-in-power-bi"></a>Acceder a Dynamics NAV en Power BI
 Para visualizar los datos de Dynamics NAV en Power BI, deberá tener lo siguiente:  
 
-- Acceso a Dynamics NAV. Para obtener más información, consulte [Dynamics NAV](http://go.microsoft.com/fwlink/?LinkID=759714).  
+- Acceso a Dynamics NAV. Consulte [Dynamics NAV](http://go.microsoft.com/fwlink/?LinkID=759714) para obtener más información.  
 - Acceder a Power BI. Para obtener más información, consulte [Power BI](https://powerbi.microsoft.com).
 
 En el sitio de Power BI, podrá encontrar información adicional sobre [cómo agregar el paquete de contenido de Dynamics NAV a Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
@@ -51,7 +51,7 @@ Cuando agregue Dynamics NAV a Power BI, deberá especificar una URL para que Pow
 En este ejemplo, *mybusiness* es el nombre del servicio de Dynamics NAV y *CRONUS US* el de la empresa de demostración con *%20* que representa el espacio del nombre.   
 Para obtener la URL, en Dynamics NAV, busque y abra la ventana **Servicios web**. En esta ventana se muestra la lista de servicios web que están disponibles actualmente y puede copiar el enlace desde el campo **URL de OData** para uno de los servicios web de OData predeterminados.  
 **Obtener la clave de acceso al servicio web**  
-Para usar los datos de Dynamics NAV, en Power BI, en la ventana **Conectar a Dynamics NAV**, deberá especificar su nombre de usuario, que es la cuenta de correo electrónico, y una contraseña. La contraseña es la clave de acceso al servicio web que se ha configurado para su cuenta de usuario de Dynamics NAV.  
+Para usar los datos de Dynamics NAV, en Power BI, en la ventana **Conectar a Dynamics NAV**, deberá especificar su nombre de usuario, que es su la cuenta de correo electrónico, y una contraseña. La contraseña es la clave de acceso al servicio web que se ha configurado para su cuenta de usuario de Dynamics NAV.  
 Para obtener una clave de acceso al servicio web, en Dynamics NAV, busque la ventana **Usuarios** y, a continuación, abra la ficha de su cuenta de usuario. En la ficha desplegable **Acceso al servicio web**, copie el contenido del campo **Clave de acceso al servicio web**. Si el campo está en blanco, en la cinta, seleccione **Cambiar la clave de acceso al servicio web**, el campo **La clave nunca caduca** y, a continuación, seleccione el botón Aceptar. A continuación, podrá copiar la clave.  
 
 ## <a name="getting-data-from-dynamics-nav"></a>Obtener datos de Dynamics NAV
@@ -83,7 +83,7 @@ Si se muestra este error al introducir la URL de Dynamics NAV, asegúrese de que
 
 
 **"Error de inicio de sesión"**  
-Si se produce un "error de inicio de sesión" al iniciar sesión en el panel con sus credenciales de Dynamics NAV, la causa puede ser uno de los problemas siguientes:
+Si se produce un "error de inicio de sesión" al iniciar sesión en el panel con sus credenciales de Dynamics NAV, la causa puede ser una de los problemas siguientes:
 
 * La cuenta que usa no tiene permisos para leer los datos de Dynamics NAV de su cuenta.
 
@@ -108,5 +108,5 @@ Si se muestra un diálogo de error del tipo "¡Vaya!" después de pasar el diál
 
 
 ## <a name="see-also"></a>Consulte también
-[Este es Dynamics NAV](across-get-started.md)  
+[Dynamics NAV](across-get-started.md)  
 

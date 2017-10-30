@@ -1,46 +1,49 @@
 ---
-title: Gestionar cobros
+title: Resumen de tareas para administrar los cobros
+description: Describe tareas para administrar los cobros y liquidar los pagos en los movimientos de cliente o proveedor.
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 3f2be627dfda9720e9f31fd227164d1c27116d2c
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: customer payment, debtor, balance due, AR
+ms.date: 08/10/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 1ca12468c643af6d942aa5ef4b6b6b54cb830b11
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="managing-receivables"></a>Administrar cobros
+Un paso normal en el ritmo financiero es conciliar las cuentas bancarias, lo que requiere liquidar pagos en las movimientos de cliente o propiedad para cerrar las facturas de venta y los abonos de compra.  
 
-# <a name="manage-receivables"></a>Gestionar cobros#
-Una tarea principal en la gestión de los cobros es liquidar pagos entrantes a sus movimientos de proveedor o cliente relacionados y cerrar las facturas de ventas relacionadas o los abonos de compra como pagados. Cuando se liquidan todos los pagos, puede conciliar la cuenta bancaria.  
+En [!INCLUDE[d365fin](includes/d365fin_md.md)], una de las formas más rápidas de registrar pagos desde la ventana **Diario de conciliación de pagos** mediante la importación de un archivo de extracto bancario o una fuente. Los pagos se liquidan en los movimientos de cliente o proveedor abiertos en función de las coincidencias de datos entre el texto de pago y la información de movimiento. Puede revisar y modificar las coincidencias antes de registrar el diario, y cerrar los movimientos de banco para los movimientos al registrar el diario. La cuenta bancaria se concilia cuando se liquidan todos los pagos.
 
-Puede realizar esta tarea en la ventana **Diario de conciliación de pagos** importando una fuente o archivo de extracto bancario para registrar rápidamente los pagos en Dynamics NAV. Una función de liquidación automática liquida los pagos a sus movimientos de cliente o proveedor abiertos relacionados en función de las coincidencias de datos entre el texto de pago y la información de movimiento. Puede revisar y cambiar las liquidaciones automáticas entes de registrar el diario. Puede elegir cerrar los movimientos de banco pendientes relacionados con los movimientos liquidados cuando registra el diario. Significa que la cuenta bancaria se concilia automáticamente cuando se liquidan todos los pagos.
+No obstante, existen otros lugares prácticos para liquidar los pagos y para conciliar las cuentas bancarias:  
 
-**Nota**: Concilie cuentas bancarias como una tarea independiente en la ventana **Conciliación de cuentas bancarias**, que también admite movimientos de cheque. Para obtener más información, vea [Procedimiento: Conciliar cuentas bancarias por separado](bank-how-reconcile-bank-accounts-separately.md).
+* La ventana **Conciliación banco**, que también le permite comprobar los movimientos contables. Para obtener más información, vea [Procedimiento: Conciliar cuentas bancarias por separado](bank-how-reconcile-bank-accounts-separately.md).  
+* La ventana **Registro de pagos**, donde puede liquidar y comprobar manualmente los pagos recibidos como efectivo, cheque o transacción bancaria frente a una lista de documentos de ventas sin pagar. Tenga en cuenta que esta funcionalidad solo está disponible para documentos de ventas.  
+* La ventana **Diario de recibos de efectivo**, donde puede registrar manualmente los albaranes en el libro mayor, cliente u otra cuenta pertinente introduciendo una línea de pago. Puede liquidar la recepción o el reembolso a uno o varios movimientos abiertos antes de registrar la recepción de efectivo o desde movimientos de cliente.  
 
-De forma alternativa, puede liquidar pagos en la ventana **Registro de pagos** comprobando manualmente los pagos recibidos como efectivo, cheque o transacción bancaria frente a una lista de documentos de ventas sin pagar. Tenga en cuenta que esta funcionalidad solo esta disponible para documentos de ventas.
+Otra parte de la gestión de cobros es recopilar saldos pendientes, incluidos intereses, y emitir recordatorios. [!INCLUDE[d365fin](includes/d365fin_md.md)] también ofrece formas de realizar estas acciones. Para obtener más información, vea [Cobrar saldos pendientes](receivables-collect-outstanding-balances.md).  
 
-Como cualquier otra conciliación de pagos manual, puede registrar cada recepción en la cuenta de contabilidad, cliente u otra cuenta pertinente al especificar una línea de pago en la ventana **Diario de recepciones de efectivo**. En ese caso, puede liquidar la recepción o el reembolso en uno o varios movimientos pendientes antes de registrar el diario de recepciones de efectivo o puede liquidarlos desde movimientos de cliente creados.
+En la tabla siguiente se describe una secuencia de tareas, con vínculos a temas que las describen.  
 
-Otra tarea de la gestión de cobros es recopilar saldos pendientes, incluso para gestionar la configuración de los intereses y emitir recordatorios.
-
-En la tabla siguiente se describe una secuencia de tareas, con vínculos a temas que las describen.
-
-|Para |Vea |
-|---|----|
-|Liquide pagos en los movimientos pendientes de cliente o proveedor en función de un archivo o una fuente de estado de cuenta bancario importado y concilie la cuenta bancaria una vez liquidados todos los pagos.|[Liquidar pagos automáticamente y conciliar cuentas bancarias](receivables-apply-payments-auto-reconcile-bank-accounts.md)|
-|Liquide pagos para abrir movimientos de cliente basados en una introducción manual de datos en una lista de documentos de ventas sin pagar. | [Conciliar pagos manualmente de una lista de documentos de venta sin abonar](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md)|
-|Registre reembolsos o recepciones de efectivo de clientes en el diario de cobros y aplíquelos a movimientos de cliente, ya sea desde el diario o desde movimientos registrados. | [Conciliar pagos de cliente manualmente](receivables-how-apply-sales-transactions-manually.md) |
-|Recordar a los clientes los importes vencidos, calcular intereses y administrar los cobros. | [Cobrar saldos pendientes](receivables-collect-outstanding-balances.md) |
-
+| Para | Vea |
+| --- | --- |
+| Liquide pagos en los movimientos pendientes de cliente o proveedor en función de un archivo o una fuente de estado de cuenta bancario importado y concilie la cuenta bancaria una vez liquidados todos los pagos. |[Liquidar pagos automáticamente y conciliar cuentas bancarias](receivables-apply-payments-auto-reconcile-bank-accounts.md) |
+| Liquide pagos para abrir movimientos de cliente basados en una introducción manual de datos en una lista de documentos de ventas sin pagar. |[Conciliar pagos manualmente de una lista de documentos de venta sin abonar](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md) |
+| Registre reembolsos o recepciones de efectivo de clientes en el diario de cobros y aplíquelos a movimientos de cliente, ya sea desde el diario o desde movimientos registrados. |[Conciliar pagos de cliente manualmente](receivables-how-apply-sales-transactions-manually.md) |
+| Recordar a los clientes los importes vencidos, calcular intereses y administrar los cobros. |[Cobrar saldos pendientes](receivables-collect-outstanding-balances.md) |
+|Asegúrese de conocer el costo de los productos enviados. Para ello, asigne los costos de producto adicionales, tales como fletes, manipulación física, seguros y transporte, en los que incurra después de la venta.|[Utilizar los cargos de producto a cuenta para los costes comerciales adicionales](payables-how-assign-item-charges.md)|
+|Configure una tolerancia por la que el sistema cierre una factura aunque el pago, incluido el descuento, no cubra totalmente el importe de la factura.|[Trabajar con tolerancias de pago y tolerancias de descuento de pago](finance-payment-tolerance-and-payment-discount-tolerance.md)|
 ## <a name="see-also"></a>Consulte también
-[Gestionar ventas](sales-manage-sales.md)  
-[Gestionar pagos](payables-manage-payables.md)  
-[Trabajar con Dynamics NAV](ui-work-product.md)  
-[Con varias áreas de negocio](ui-across-business-areas.md)
+[Ccial](sales-manage-sales.md)  
+[Administrar pagos](payables-manage-payables.md)  
+[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Funciones empresariales generales](ui-across-business-areas.md)
 

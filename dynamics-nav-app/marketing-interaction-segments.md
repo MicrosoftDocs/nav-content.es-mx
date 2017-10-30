@@ -1,21 +1,24 @@
 ---
-title: interacciones y segmentos
+title: Realizar un seguimiento de los segmentos y las interacciones relacionadas
+description: "Obtenga información sobre cómo crear segmentos para definir grupos de contactos y especificar interacciones para los segmentos."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: c66dff69fa31458e94f7de5fa4b524656141a5f6
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: b4fb4abfdfe69856d0e26e20d30f3adcaf2fd665
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="interactions-and-segments"></a>interacciones y segmentos
+# <a name="managing-interactions-for-segments"></a>Administrar interacciones para segmentos
 La ventana **Segmento** es un tipo de hoja de cálculo con la que puede:
 
 * Crear segmentos.
@@ -40,12 +43,12 @@ En la ventana **Segmento**, si elige **Registrar**, la aplicación registra las 
 
 En la ventana **Segmentos archivados**, puede decidir crear un segmento de seguimiento que contenga los mismos contactos que el segmento que ha archivado.
 
-
-##<a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Consulte también
 [Crear segmentos](marketing-how-create-segment.md)  
-[Procedimiento para crear interacciones de segmentos](marketing-how-create-interactions.md)  
-[Gestionar los segmentos](marketing-segments.md)  
+[Crear interacciones de segmentos](marketing-how-create-interactions.md)  
+[Administrar segmentos](marketing-segments.md)  
 [Registrar interacciones con contactos](marketing-interactions.md)  
-[Gestionar oportunidades de venta](marketing-manage-sales-opportunities.md)  
-[Crear y gestionar contactos](marketing-contacts.md)
+[Administrar oportunidades de venta](marketing-manage-sales-opportunities.md)  
+[Creación y administración de contactos](marketing-contacts.md)  
+[Trabajar con Dynamics NAV](ui-work-product.md)
 

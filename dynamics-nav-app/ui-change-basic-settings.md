@@ -1,23 +1,25 @@
 ---
-title: "Cambiar la configuración básica"
+title: "Ver y editar la configuración básica en Dynamics NAV"
+description: "Obtenga información sobre cómo cambiar algunos de los valores básicos en Dynamics NAV, por ejemplo, el área de tareas, la empresa o la fecha de trabajo."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/23/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ef0204fca3d139c64a0277b4e1d6d15fd0873248
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: change Role Center, notification, change company, change work date
+ms.date: 03/29/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 1fd559bd0bf213a745f0c567c2b2d5721071c553
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="changing-basic-settings"></a>Cambiar la configuración básica
-En la ventana **Mi configuración**, puede ver y cambiar la configuración básica del cliente web de Dynamics NAV.  
+En la ventana **Mi configuración**, puede ver y cambiar la configuración básica de [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="role-center"></a>Área de tareas
 El área de tareas representa la página principal, una página de inicio que está designada para las necesidades del rol. En la página Inicio, tiene una vista general del negocio. A la izquierda puede ver una barra de navegación que le da un acceso sencillo a los clientes, proveedores, productos, etc.
@@ -26,27 +28,33 @@ En el centro se encuentra el mosaico Actividades. Actividades muestra los datos 
 
 También puede crear una lista de Clientes favoritos en la página Inicio para las cuentas con las que hace negocios a menudo o a las que necesita prestar especial atención. Use las flechas para contraer parte de la página y haga más espacio para mostrar datos específicos. En la parte superior de la página principal encontrará todas las acciones que se pueden aplicar al contenido actual. Todo esto también se puede contraer y solo necesita hacer clic o pinchar en el área contraída para volverlo a ver.
 
-El Área de trabajo predeterminada es **Procesador de pedidos de ventas**, pero puede seleccionar otra Área de trabajo que se adapte mejor a sus necesidades. Para obtener más información, vea [Procedimiento: Cambiar el Área de tareas](ui-change-role.md)
+El Área de tareas predeterminada es **Administrador empresarial**, pero puede seleccionar otra área de tareas que se adapte mejor a sus necesidades. Para obtener más información, vea [Procedimiento: Cambiar el Área de tareas](change-role.md)
 
 ## <a name="company"></a>Compañía
-Una empresa funciona como un contenedor de datos en Dynamics NAV. Puede haber múltiples empresas en una base de datos, pero solo se puede seleccionar una a la vez.
+Una empresa funciona como un contenedor de datos en [!INCLUDE[d365fin](includes/d365fin_md.md)]. Puede haber múltiples empresas en una base de datos, pero solo se puede seleccionar una a la vez.
 
-La empresa CRONUS US es la predeterminada. Solamente contiene los datos de demostración.   
+La empresa predeterminada se llama CRONUS y solo contiene datos de demostración.
+
+> [!TIP]  
+>   Si desea que se muestre un nombre distinto para la empresa en la aplicación (por ejemplo, como en la página principal), establezca el campo **Nombre** en la página **Información empresa** o el campo **Nombre para mostrar** en la página **Empresas**.  
 
 ## <a name="work-date"></a>Fecha de trabajo
 La fecha predeterminada de trabajo será normalmente la fecha actual. Es posible que tenga que cambiar temporalmente la fecha de trabajo para realizar tareas como la finalización de las transacciones de una fecha que no sea la fecha actual.
 
-Escriba **Sugerencia**: Tipo **w** para introducir rápidamente la fecha de trabajo en un campo de fecha. Escriba **t** para introducir rápidamente la fecha actual en el campo de fecha.
+> [!TIP]  
+>   Escriba **w** para introducir rápidamente la fecha de trabajo en un campo de fecha. Escriba **t** para introducir rápidamente la fecha actual en el campo de fecha.
 
-**Importante**: La fecha de trabajo se cambia solo hasta que cierre la empresa o hasta que la fecha cambie. Si abre una empresa diferente o la misma al día siguiente y debe utilizar una fecha de trabajo diferente, tendrá que volver a definirla.
+> [!IMPORTANT]  
+>   La fecha de trabajo se cambia solo hasta que cierre la empresa o hasta que la fecha cambie. Si abre una empresa diferente o la misma al día siguiente y debe utilizar una fecha de trabajo diferente, tendrá que volver a definirla.
 
-## <a name="region-and-language"></a>Región e idioma
-Aquí puede modificar la región, el idioma y la zona horaria. La configuración regional determina el formato de datos como fechas, horas, números, divisa, etc. La zona horaria especifica la zona horaria que se aplica a los datos de fecha y hora que se muestran o se especifican en Dynamics NAV. Tienes que cerrar sesión y volver a iniciar sesión para que el cambio surta efecto.
+## <a name="region"></a>Región
+El valor **Región** determina cómo se muestran o se forman las fechas, los tiempos, los números, y divisas.   
 
-## <a name="confirmation-dialogs"></a>Cuadros de diálogo de confirmación
-Use las opciones de esta sección si desea especificar comprobaciones adicionales para los documentos de registro. Estas opciones se activan de forma estándar, pero puede desactivar las casillas para evitar recibir advertencias o mensajes específicos.
+## <a name="change-when-i-receive-notifications"></a>Cambiar cuándo recibo notificaciones
+Seleccione este vínculo para ver o cambiar las notificaciones que recibe sobre determinados eventos o cambios de estado, cuando va a facturar a un cliente que tiene un saldo vencido o cuando las existencias disponibles son inferiore a la cantidad que va a vender, por ejemplo. Para obtener más información, consulte [Notificaciones inteligentes](ui-smart-notifications.md).
 
 ## <a name="see-also"></a>Consulte también
-[Trabajar con Dynamics NAV](ui-work-product.md)  
-[Procedimiento: Cambiar el área de trabajo](ui-change-role.md)  
+[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Procedimiento: Cambiar el área de tareas](change-role.md)  
+[Personalización de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)  
 

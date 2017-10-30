@@ -1,26 +1,29 @@
 ---
-title: Cerrar cuenta de resultado
+title: Cerrar cuentas de balance de ingresos
+description: En el cierre del ejercicio, debe ejecutar el proceso Cerrar resultados para cerrar los periodos contables que componen el ejercicio.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 83dfa0db1345aa18d6900470c93ccdc00bd1b403
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
+ms.date: 06/02/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 5f004a835ce5b7b55326bdb08a78cb36d430fd45
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="close-income-statement"></a>Cerrar cuenta de resultado
+# <a name="how-to-close-income-statement-accounts"></a>Procedimiento: Cerrar cuentas de resultados
 Cuando finaliza un ejercicio, debe cerrar los periodos que lo forman. Para ello, puede ejecutar el proceso **Asiento regularización**. Esta tarea transfiere el resultado anual a una cuenta en la hoja de balance y cierra las cuentas del balance de ingresos. Se realiza creando líneas en un diario, que después puede registrar.
 
 ## <a name="to-run-the-close-income-statement-batch-job"></a>Para ejecutar el proceso Cerrar cuenta de resultado
 1. Cierre el ejercicio fiscal. Antes de ejecutar el proceso se debe cerrar el ejercicio fiscal. Para obtener más información, vea [Procedimiento: Cerrar periodos contables](year-close-account-periods.md).
-2. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Asiento regularización** y, a continuación, seleccione el enlace relacionado.
+2. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Cerrar asiento de regularización** y, a continuación, seleccione el vínculo relacionado.
 3. Elija el botón **Aceptar** para iniciar el trabajo por lotes.
 
 ## <a name="about-the-close-income-statement-batch-job"></a>Acerca del proceso Cerrar cuenta de resultado
@@ -33,7 +36,8 @@ La fecha de las líneas que inserta el trabajo por lotes en el diario siempre es
 El proceso **Asiento regularización** se puede usar varias veces. Puede registrar en un ejercicio anterior, incluso después de que haya cerrado las cuentas de resultado (siempre que vuelva a ejecutar nuevamente este proceso).
 
 ## <a name="see-also"></a>Consulte también
-[Cerrar libros](year-close-books.md)  
+[Cierre de libros](year-close-books.md)  
 [Procedimiento: registrar movimiento de cierre del ejercicio](year-how-post-year-end-close-entry.md)  
-[Procedimiento para abrir un nuevo ejercicio](finance-setup-how-open-new-fiscal-year.md)
+[Abrir un nuevo ejercicio](finance-how-open-new-fiscal-year.md)  
+[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

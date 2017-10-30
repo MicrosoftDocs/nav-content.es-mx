@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Provisioning Tools for Microsoft Azure
+Herramientas de aprovisionamiento de Microsoft Dynamics NAV para Microsoft Azure

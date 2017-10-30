@@ -1,31 +1,35 @@
 ---
-title: 'Procedimiento: Configurar vendedores'
+title: Configurar un vendedor
+description: Puede configurar un identificador para cada uno de sus vendedores, de modo que pueda hacer un seguimiento del rendimiento de una persona o asignar un vendedor a un contacto.
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2697a5f0d68b7ce6cb2fc873468583c64adb183b
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: sales rep
+ms.date: 09/08/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 3c2dab0512c8e8965d7751bfda50559844ebcf69
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-set-up-salespeople"></a>Procedimiento: Configurar vendedores
-Muchas empresas quieren realizar un seguimiento del rendimiento personal de sus empleados como base para calcular la comisión o prima por ventas. Vea, por ejemplo, el informe de Comisiones del vendedor. Ciertas empresas puede preferir asignar un vendedor a cada uno de sus contactos.
+Muchas empresas quieren realizar un seguimiento del rendimiento personal de sus empleados como base para calcular la comisión o prima por ventas. Vea, por ejemplo, el informe de **Comisiones del vendedor**. Ciertas empresas puede preferir asignar un vendedor a cada uno de sus contactos.
 
-Cuando debe configurar un vendedor en la ventana **Vendedor**, puede seleccionarlo en el campo **Cód. vendedor** de todos los registros correspondientes, como cuenta de contabilidad, clientes, proveedor, contactos y fichas de campañas. Cuando registra o configura facturas, abonos, líneas de diario, configuración de intereses, etc., el código de vendedor se transfiere a los movimientos resultantes.
+Cuando debe configurar un vendedor en la ventana **Vendedor**, puede seleccionarlo en el campo **Cód. vendedor** de todos los registros correspondientes, como cuenta de contabilidad, clientes, proveedor, contactos y fichas de campañas. Cuando registra o configura facturas, abonos, líneas de diario, intereses, etc., el código de vendedor se transfiere a los movimientos resultantes.
 
 ## <a name="to-set-up-a-salesperson-code"></a>Para configurar un código de vendedor
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Vendedor** y, a continuación, seleccione el enlace relacionado.
+1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Vendedores** y, a continuación, seleccione el vínculo relacionado.
 2. En la ventana **Vendedor**, elija la acción **Nuevo**.
 
-## <a name="see-also"></a>Consulte también  
-[Configurar ventas](sales-setup-sales.md)  
-[Gestionar ventas](sales-manage-sales.md)
+Puede utilizar vendedores en diferentes tareas de gestión de relaciones y de marketing. Por ejemplo, puede asignar tareas a un vendedor, de modo que las tareas se incorporen en las oportunidades de ventas que tiene asignadas el vendedor. Para obtener más información, vea [Procedimiento: Configurar ciclos y etapas de ciclos de venta de oportunidades](marketing-how-setup-opportunity-sales-cycles-stages.md).
+
+## <a name="see-also"></a>Consulte también
+[Configuración de ventas](sales-setup-sales.md)  
+[Ventas](sales-manage-sales.md)  
+[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

@@ -8,11 +8,11 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 59815db9c7b435ff585e1174b570029a360dea6e
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 34eec596392e9316e807d3c073c3b8e59dbc12e9
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -43,7 +43,7 @@ Si se produce un error en la configuración de dimensión durante el registro de
 
 Para ver una lista con los errores antes de ejecutar el proceso de registro, puede ejecutar el informe **Reg. var. ex. en cont. - Test**. El informe de test muestra un listado con todos los errores encontrados durante un proceso de registro de prueba. A continuación, puede solucionar dichos errores y ejecutar el proceso de registro de costos sin que se omita ningún movimiento.
 
-Si simplemente desea obtener una visión general acerca de qué valores se podrán registrar en el módulo de contabilidad sin que realmente se registren, puede ejecutar el proceso Reg. var. inventario en cont. sin que se registren los valores en el módulo de contabilidad. Para ello, deberá quitar la marca de verificación del campo Registrar en la página de solicitud. De esta forma, cuando ejecute el trabajo por lotes, se genera un informe que muestra los valores que están preparados para ser registrados en el módulo de contabilidad, pero no se registran.
+Si simplemente desea obtener una visión general acerca de qué valores se podrán registrar en el módulo de contabilidad sin que realmente se registren, puede ejecutar el proceso Regis. variación inventario en Cont. sin que se registren los valores en el módulo de contabilidad. Para ello, deberá quitar la marca de verificación del campo Registrar en la página de solicitud. De esta forma, cuando ejecute el trabajo por lotes, se genera un informe que muestra los valores que están preparados para ser registrados en el módulo de contabilidad, pero no se registran.
 
 ## <a name="see-also"></a>Consulte también
 [Gestionar inventario](inventory-manage-inventory.md)    

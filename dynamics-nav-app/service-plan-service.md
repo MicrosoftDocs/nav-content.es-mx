@@ -1,0 +1,43 @@
+---
+title: Planificar procesos de servicio
+description: Describe las tareas para configurar reglas y valores para definir las directivas y los procesos de servicios.
+documentationcenter: 
+author: bholtorf
+ms.prod: dynamics-nav-2017
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: service, work hours, configure, price, pricing
+ms.date: 08/23/2017
+ms.author: bholtorf
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4be055ca1959f730544355a0af2a468e0ce55953
+ms.contentlocale: es-mx
+ms.lasthandoff: 10/16/2017
+
+---
+# <a name="planning-services"></a>Servicio de planificación
+Con [!INCLUDE[d365fin](includes/d365fin_md.md)], puede configurar las tareas estándar que necesite para satisfacer las necesidades de servicio de su cliente. Para realizarlo, debe determinar qué ofertas de productos de servicio admite su organización de servicios y a qué precio.   
+
+[!INCLUDE[d365fin](includes/d365fin_md.md)] también proporciona algunas herramientas de estadísticas que puede utilizar para determinar como de bien van las cosas e identificar las áreas donde podría mejorar.
+  
+En la tabla siguiente se describe una secuencia de tareas, con vínculos a temas que las describen.   
+  
+|**Para**|**Vea**|  
+|------------|-------------|  
+|Establecer precios para los servicios que proporciona.|[Gestión de precios de servicios](service-service-price-management.md)|
+|Configurar y personalizar productos de servicio y grupos de servicio. Esto incluye establecer las habilidades que requiere un servicio y una guía de solución de problemas.| [Cómo crear productos de servicio](service-how-to-create-service-items.md)|  
+|Saber manejar el estado de las reparaciones en órdenes de servicio, y cómo identificar su prioridad.|[Descripción del estado de pedido de servicio y de reparación](service-service-order-status-and-repair-status.md)|  
+|Comprender la relación entre el estado de una reparación y el efecto que tienen sobre los recursos asignados, y viceversa.|[Descripción del estado de asignación y estado de reparación](service-allocation-status-and-repair-status.md)|  
+|Utilice estadísticas para analizar los procesos de servicio. | [Visualización de estadísticas de servicio](service-service-statistics.md) |
+
+## <a name="see-also"></a>Consulte también
+[Cumplimiento de contratos de servicio](service-fulfill-service-contracts.md)  
+[Prestación del servicio](service-deliver-service.md)  
+[Configurar precios y costos adicionales de servicios](service-how-setup-service-costs-pricing.md)  
+[Cómo configurar componentes de servicio y de productos](service-how-setup-service-items.md)  
+[Configuración de estados para órdenes y reparaciones de servicio](service-order-repair-status.md)  
+[Configurar la gestión de servicios](service-setup-service.md)  
+

@@ -1,29 +1,30 @@
 ---
-title: Registrar compras
+title: "Descripción de cómo registrar documentos de compra"
+description: "Obtenga información sobre las diversas funciones de registro para registrar documentos de compra."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: c03d031e951bc185b18bedaf428d414c1fe2e7d1
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.date: 05/12/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 9f9320495accdd08700b67e68edb1d5692990179
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="posting-purchases"></a>Registrar compras
 En **Grupo contable** en un documento de compra, puede elegir entre las funciones de registro siguientes:
 
-- **Registrar**
-- **Vista previa de registro**
-- **Registrar e imprimir**
-- **Informe de prueba**
-- **Registrar por lotes**
+* **Registrar**
+* **Vista previa de registro**
+* **Registrar e imprimir**
+* **Informe de prueba**
+* **Registrar por lotes**
 
 Una vez completadas todas las líneas e introducida la información en la orden de compra, podrá registrarla; es decir, crear una recepción y una factura.
 
@@ -35,12 +36,16 @@ Por cada línea de orden de compra, se creará un movimiento de producto en la t
 
 Antes de comenzar a registrar, podrá imprimir un informe que contenga toda la información de la orden de compra y que indique cualquier error que pueda existir allí. Para imprimir este informe, elija **Registro** y, a continuación, **Informe de prueba**.
 
-**Importante**: Cuando registre una orden, podrá crear tanto una recepción como una factura. Esto se puede hacer simultánea o independientemente. También puede crear una recepción y una factura parciales completando los campos **Cantidad a recibir** o **Cantidad a facturar** en las líneas individuales de la orden de compra antes de registrar. Tenga en cuenta que no puede crear una factura de algo no se ha recibido. Es decir, antes de poder facturar debe haber registrado una recepción o haber elegido recibir y facturar al mismo tiempo.
+> [!IMPORTANT]  
+>   Cuando registre un pedido, podrá crear tanto una remisión de compra como una factura. Esto se puede hacer simultánea o independientemente. También puede crear una recepción y una factura parciales completando los campos **Cantidad a recibir** o **Cantidad a facturar** en las líneas individuales de la orden de compra antes de registrar. Tenga en cuenta que no puede crear una factura de algo no se ha recibido. Es decir, antes de poder facturar debe haber registrado una recepción o haber elegido recibir y facturar al mismo tiempo.
 
 Puede registrar o registrar e imprimir. Si elije registrar e imprimir, un informe se imprime cuando se registre la orden. También puede elegir la función **Registrar por lotes**, que permite registrar varias órdenes a la vez.
 
 Una vez finalizado el registro, las líneas de compra registradas se quitan de la orden. Al terminar el registro aparece un mensaje de aviso. Después de esto, podrá ver los movimientos registrados en las diferentes ventanas que los contienen, como **Movs. proveedores**, **Movs, contabilidad**, **Movs. productos**, **Albaranes compra** y **Histórico facturas compra**.
 
 ## <a name="see-also"></a>Consulte también
-[Registrar documentos y diarios](ui-post-documents-journals.md)
+[Compras](purchasing-manage-purchasing.md)  
+[Registrar documentos y diarios](ui-post-documents-journals.md)  
+[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+
 

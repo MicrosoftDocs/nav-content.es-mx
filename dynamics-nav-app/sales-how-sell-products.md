@@ -1,25 +1,28 @@
 ---
-title: 'Procedimiento: Vender productos'
+title: Crear un pedido de venta y vender productos
+description: "Describe cómo crear un pedido de venta para registrar el acuerdo con un cliente para vender o comerciar productos con condiciones específicas."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 11/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: e45d67005364f7d45817d917ccaeab219b6f8446
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: trade
+ms.date: 03/29/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 1371f7a1d1e5b5c9bd0add845d37e194db86218d
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-sell-products"></a>Procedimiento: Vender productos
 Puede crear una orden o una factura de venta para registrar el contrato con un cliente para vender determinados productos según los términos de entrega y pago establecidos.
 
-**Nota**: Use órdenes de venta si el proceso de venta requiere que pueda enviar parte de una cantidad de la orden, por ejemplo, porque la cantidad total no está disponible a la vez. Si vende productos que se entregan directamente desde el proveedor al cliente, como remisión directa, deberá usar también órdenes de venta. Para obtener más información, vea [Procedimiento: Realizar envíos directos](sales-how-drop-shipment.md). En todos los demás aspectos, las órdenes de venta funcionan de la misma forma que las facturas de venta. Para obtener más información, vea [Procedimiento: Facturar ventas](sales-how-invoice-sales.md).
+> [!NOTE]  
+>   Use pedidos de venta si el proceso de venta requiere que pueda enviar parte de una cantidad del pedido, por ejemplo, porque la cantidad total no está disponible a la vez. Si vende productos que se entregan directamente desde el proveedor al cliente, como remisión directa, deberá usar también órdenes de venta. Para obtener más información, vea [Procedimiento: Realizar envíos directos](sales-how-drop-shipment.md). En todos los demás aspectos, las órdenes de venta funcionan de la misma forma que las facturas de venta. Para obtener más información, vea [Procedimiento: Facturar ventas](sales-how-invoice-sales.md).
 
 Puede negociar con el cliente creando primero una cotización venta que podrá convertir en una orden cuando acuerde la venta. Para obtener más información, vea [Procedimiento: Realización de cotizaciones](sales-how-make-offers.md).
 
@@ -29,22 +32,17 @@ Cuando entregue los productos, ya sea total o parcialmente, registre la orden de
 
 En entornos de negocio donde el cliente debe pagar antes de que los productos se entreguen, por ejemplo en la venta minorista, debe esperar la recepción del pago antes de entregar los productos. En la mayoría de casos, puede procesar los pagos entrantes algunas semanas después de la salida liquidando los pagos a las facturas relacionadas, registradas como facturas de ventas no pagadas . Para obtener más información, vea [Procedimiento: Conciliar pagos con liquidación automática](receivables-how-reconcile-payments-auto-application.md).
 
-Si la factura de venta registrada se ha pagado, deberá crear una nota de crédito de ventas para revertir la venta. Para obtener más información, vea [Procedimiento: Procesar devoluciones de ventas o cancelaciones](sales-how-process-sales-returns-cancellations.md).
+Puede corregir o cancelar fácilmente una factura de venta registrada derivada de una orden de venta antes de que se haya realizado el pago. Esto es útil si se desea corregir un error de escritura o si el cliente solicita un cambio temprano en el proceso de orden. Para obtener más información, vea [Procedimiento: Corregir o cancelar las facturas de venta sin abonar](sales-how-correct-cancel-sales-invoice.md) Si la factura de venta registrada se ha pagado, deberá crear una nota de crédito de ventas para revertir la venta. Para obtener más información, vea [Procedimiento: Procesar devoluciones de ventas o cancelaciones](sales-how-process-sales-returns-cancellations.md).
 
-Los productos pueden ser productos de inventario y servicios. Para obtener más información, vea [Procedimiento: Registrar nuevos productos](inventory-how-register-new-products.md). El proceso dela orden de venta es el mismo para ambos tipos de producto.
-
-**Nota**: En Dynamics NAV, se usa el término "producto" para denominar los artículos.
-
-Puede rellenar los campos de cliente en la orden de venta de dos formas en función de si el cliente ya está registrado.
+Puede rellenar los campos de cliente en la orden de venta de dos formas en función de si el cliente ya está registrado. Consulte los pasos 2 y 3 del siguiente procedimiento.
 
 ## <a name="to-create-a-sales-order"></a>Para crear una orden de venta
-1. En la página Inicio, seleccione la acción **Orden de venta**.  
+1. En la página principal, seleccione la acción **Pedido de venta**.  
 2. En el campo **Cliente**, escriba el nombre de un cliente existente.
 
     Otros campos de la ventana **Orden de venta** se rellenarán con la información estándar del cliente seleccionado. Si el cliente no está registrado, realice los pasos siguientes:
-
 3. En el campo **Cliente**, escriba el nombre del cliente nuevo.
-4. En el cuadro de diálogo de registro de nuevos clientes, haga clic en el botón **Sí**.  
+4. En el cuadro de diálogo de registro de nuevos clientes, haga clic en el botón **Sí**.
 5. En la ventana **Seleccionar una plantilla para un cliente nuevo**, seleccione una plantilla en la que se basará la nueva ficha de cliente y, a continuación, haga clic en el botón **Aceptar**.
 
     Una nueva ficha de cliente se abre, prellenada con información sobre la plantilla de cliente seleccionada. El campo **Nombre** se rellena previamente con el nombre del nuevo cliente que especificó en la orden de venta.
@@ -52,15 +50,13 @@ Puede rellenar los campos de cliente en la orden de venta de dos formas en funci
 7. Cuando haya completado la ficha cliente, haga clic en el botón **Aceptar** para volver a la ventana **Orden de venta**.
 
     Muchos campos dela orden de venta se rellenan con la información especificada en la nueva ficha de cliente.
-8. Rellene los campos restantes de la ventana **Orden de venta** según sea necesario. Seleccione un campo para obtener una breve descripción del campo o el enlace a información adicional.
+8. Rellene los campos restantes de la ventana **Orden de venta** según sea necesario. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-    Ya puede rellenar las líneas de la orden de venta con los productos de inventario o los servicios que quiera vender al cliente.
+    Ya puede rellenar las líneas del pedido de venta con los productos de inventario o los servicios que quiera vender al cliente.
 
     Si ha configurado líneas de venta periódicas para el cliente, por ejemplo, una orden de reabastecimiento mensual, puede insertar estas líneas en la orden al elegir la acción **Obtener líneas de venta periódicas**.
 9. En la ficha desplegable **Líneas**, en el campo **Producto**, especifique el número de un producto o un servicio de inventario.  
 10. En el campo **Cantidad**, escriba el número de productos que se van a vender.
-
-    **Nota**: Para los producto de tipo Servicio la cantidad es una unidad de tiempo, por ejemplo horas, según se indica en el campo **Cód. unidad medida** en la línea.
 
     El campo **Importe línea** se actualiza para mostrar el valor del campo **Precio unitario** multiplicado por el valor del campo **Cantidad**.
 
@@ -72,22 +68,50 @@ Puede rellenar los campos de cliente en la orden de venta de dos formas en funci
 13. Repita los pasos 10 a 13 para cada producto que desee ofertar al cliente.
 
     Los totales por debajo de las líneas se calculan automáticamente cuando se crean o modifican las líneas.
+6. Una nueva ficha de cliente muestra la información sobre la plantilla de cliente seleccionada. Rellene el resto de campos. Para obtener más información, vea [Procedimiento: Registrar nuevos clientes](sales-how-register-new-customers.md).  
+7. Cuando haya completado la ficha cliente, haga clic en el botón **Aceptar** para volver a la ventana **Orden de venta**.
+
+   Muchos campos del pedido de venta se rellenan con la información especificada en la nueva ficha de cliente.  
+8. Rellene los campos restantes de la ventana **Orden de venta** según sea necesario. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+
+   Ahora podrá rellenar las líneas de la factura de pedido de los productos que vende al cliente o para cualquier transacción con el cliente que desee registrar en una cuenta de contabilidad.   
+
+   Si ha configurado líneas de venta periódicas para el cliente, por ejemplo, una orden de reabastecimiento mensual, puede insertar estas líneas en la orden al elegir la acción **Obtener líneas de venta periódicas**.  
+9. En la ficha desplegable **Líneas** del campo **Tipo**, seleccione qué tipo de producto, cargo o transacción registrará para el cliente en la línea de venta.
+10. En el campo **N.º**, seleccione un registro para registrar según el valor del campo **Tipo**.
+
+    Deje el campo **N.º** vacío en los casos siguientes: - Si la línea es de un comentario. Escriba el comentario en el campo **Descripción**.
+    - Si la línea es de un producto no inventariable. Elija la acción **Seleccionar artículos sin stock**. Para obtener más información, consulte [Trabajar con productos sin stock](inventory-how-work-nonstock-items.md).
+
+11. En el campo **Cantidad**, especifique cuántas unidades de producto, cargo o transacción registrará la línea para el cliente.  
+
+    > [!NOTE]  
+>   Si el producto es de tipo **Producto - Servicio** o **Recurso**, la cantidad es una unidad de tiempo, por ejemplo horas, según se indica en el campo **Cód. unidad medida** en la línea.  
+
+    El valor del campo **Importe línea** se calculará como *Precio venta* x *Cantidad*.  
+
+    El precio y el importe de las líneas tienen IVA o no, dependiendo de qué seleccione en el campo **Precios incluyendo IVA** en la ficha del cliente.  
+12. Si desea ofrecer un descuento, introduzca un porcentaje en el campo **% Descuento línea**. El valor del campo **Importe de línea** se actualiza según corresponde.  
+
+    Si hay configurados precios de producto especiales en la ficha desplegable **Precios venta y descuentos línea ventas** en la ficha del producto o en la del cliente, el precio y el importe de la línea de venta se actualizan automáticamente si se cumplen los criterios acordados para el precio. Para más información, vea [Registrar acuerdos de pago, descuentos y precios de venta](sales-how-record-sales-price-discount-payment-agreements.md).  
+13. Repita los pasos 9 a 12 para cada producto o cargo que desee vender al cliente.  
+
+    Los totales por debajo de las líneas se calculan automáticamente cuando se crean o modifican las líneas.  
 14. En el campo **Importe descuento factura**, especifique un importe que se debe descontar del valor que aparece en el campo **Total impuesto incl.** en la parte inferior de la factura.
 
     Si ha configurado descuentos en factura para el cliente, el valor porcentual especificado se inserta automáticamente en el campo **% descuento en factura** si se cumplen los criterios, y el importe relacionado se inserta en el campo **Descuento en factura excluyendo impuesto** . Para más información, vea [Registrar acuerdos de pago, descuentos y precios de venta](sales-how-record-sales-price-discount-payment-agreements.md).
 15. Para enviar únicamente una parte de la cantidad de la orden, escriba dicha cantidad en el campo **Cantidad a enviar**. El calor se copia en el campo **Cantidad a facturar**.
 16. Para facturar únicamente una parte de la cantidad enviada, escriba dicha cantidad en el campo **Cantidad a facturar**. La cantidad debe ser inferior al valor del campo **Cantidad a enviar**.   
 17. Cuando las líneas dela orden de venta ya estén completas, seleccione la acción **Registrar y enviar**.
-El cuadro de diálogo de **Registrar y enviar confirmación** se abre para mostrar el método de envío preferido para el cliente.
 
-Puede cambiar el método de envío seleccionando el botón de búsqueda en el campo **Enviar documento a**. Para obtener más información, vea [Procedimiento: Configurar los perfiles de envío de documentos](sales-how-setup-document-send-profiles.md).
+El cuadro de diálogo **Registrar y enviar confirmación** muestra el método preferido del cliente para recibir documentos. Puede cambiar el método de envío seleccionando el botón de búsqueda en el campo **Enviar documento a**. Para obtener más información, vea [Procedimiento: Configurar los perfiles de envío de documentos](sales-how-setup-document-send-profiles.md).
 
-El producto relacionado y los movimientos de cliente se han creado ahora en su sistema y la orden de venta se genera automáticamente como un documento PDF. Cuando la orden de venta se registra por completo, se elimina de la lista de órdenes de venta y se sustituye por nuevos documentos de la lista de facturas de venta registradas y la lista de envíos registrados.
+El producto relacionado y los movimientos de cliente se han creado ahora en su sistema y la orden de venta se genera automáticamente como un documento PDF. Cuando el pedido de venta se registra por completo, se elimina de la lista de pedidos de venta y se sustituye por nuevos documentos de la lista de facturas de venta registradas y la lista de envíos de venta registrados.
 
-## <a name="see-also"></a>Consulte también  
-[Gestionar ventas](sales-manage-sales.md)  
-[Configurar ventas](sales-setup-sales.md)  
-[Grupos contables inventario](inventory-manage-inventory.md)  
-[Enviar documentos por correo electrónico](ui-how-send-documents-email.md)  
-[Trabajar con Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a>Consulte también
+[Ventas](sales-manage-sales.md)  
+[Configuración de ventas](sales-setup-sales.md)  
+[Inventario](inventory-manage-inventory.md)  
+[Enviar documentos por correo electrónico.](ui-how-send-documents-email.md)  
+[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

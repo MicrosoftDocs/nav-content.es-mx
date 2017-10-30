@@ -1,38 +1,50 @@
 ---
-title: "Configurar los procesos financieros más importantes"
+title: Configurar procesos financieros
+description: "Obtenga información sobre las tareas para configurar las finanzas en su empresa para adaptarse a todas sus necesidades de contabilidad o auditoría."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b911f3701f7a326e5812f13c8528a4719c25241a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: accounting, auditing, bookkeeping
+ms.date: 08/10/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4fbd005dce27b7afdf926704f97f3908cb3db803
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="setting-up-finance"></a>Configurar las finanzas
+Para ayudarle a empezar rápidamente, [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] incluye las configuraciones estándar para la mayoría de los procesos financieros. Si necesita cambiar las configuraciones para que se adapten a su empresa, continúe. Por ejemplo, desde la página principal puede usar a una guía de configuración asistida para configurar los impuestos de ventas de su ubicación.  
 
-#<a name="set-up-core-financial-processes"></a>Configurar los procesos financieros más importantes
-Dynamics NAV incluye una configuración estándar de muchos procesos financieros, pero puede cambiar la configuración para que se adapte a su empresa.
-Desde la página Inicio, puede acceder a una guía de configuración asistida que le ayuda a configurar los impuestos de ventas en función de su ubicación, por ejemplo. Otros aspectos de la administración financiera que debe configurar, en función de si quiere usar dimensiones, por ejemplo.  
+Sin embargo, hay algunos parámetros que debe configurar. Por ejemplo, si desea utilizar dimensiones como base de la inteligencia empresarial.  
 
 En la tabla siguiente se describe una secuencia de tareas, con vínculos a temas que las describen.
 
-| Para                                                                  | Vea                      |
-|---------------------------------------------------------------------|--------------------------|
-|Eligir cómo quiere gestionar los pagos de sus proveedores.|[Formas pago](finance-setup-payment-methods.md)|
-|Configurar periodos fiscales.|[Procedimiento para abrir un nuevo ejercicio](finance-setup-how-open-new-fiscal-year.md)|
-|Configurar divisas adicionales si trabaja con el comercio internacional.|[Configuración de divisas](finance-setup-setup-currencies.md)|
-|Agregar dimensiones para la inteligencia empresarial más completa.|[Configurar dimensiones](finance-setup-setup-dimensions.md)|
-|Permitir agregar nuevas cuentas al catálogo de cuentas existente.|[Configurar un plan contable](finance-setup-setup-chart-accounts.md)|
+| Para | Vea |
+| --- | --- |
+| Elija cómo se paga a los proveedores. |[Definir las formas de pago](finance-payment-methods.md) |
+| Especifique los grupos contables que asignan entidades como clientes, proveedores, productos, recursos y documentos de venta y compra a cuentas contables. |[Configurar los grupos contables](finance-posting-groups.md)|
+|Configure una tolerancia por la que el sistema cierre una factura aunque el pago, incluido el descuento, no cubra totalmente el importe de la factura.|[Trabajar con tolerancias de pago y tolerancias de descuento de pago](finance-payment-tolerance-and-payment-discount-tolerance.md)|
+| Configurar periodos fiscales. |[Abrir un nuevo ejercicio](finance-how-open-new-fiscal-year.md) |
+| Definir cómo se comunican los importes del impuesto de valor añadido que ha recopilado por las ventas a las autoridades fiscales. |[Crear informes de IVA para las autoridades fiscales](finance-how-report-vat.md)|
+| Configure sus características de ventas y compras para manejar pagos en divisas extranjeras.|[Procedimiento: Permitir la liquidación de movimientos de cliente en distintas divisas](finance-how-enable-application-ledger-entries-different-currencies.md)
+| Permitir agregar nuevas cuentas al catálogo de cuentas existente. |[Configuración del plan contable](finance-setup-chart-accounts.md) |
+| Configure gráficos de inteligencia empresarial (BI) para analizar el flujo de caja. |[Configuración del análisis de flujo de efectivo](finance-setup-cash-flow-analyses.md) |
+|Activar la facturación de un cliente que no está configurado en el sistema.|[Cómo configurar clientes de efectivo](finance-how-to-set-up-cash-customers.md)|
+| Configurar los informes Intrastat y, enviar el informe a una autoridad | [Procedimiento: configuración y creación de informes Intrastat](finance-how-setup-report-intrastat.md)|
 
+## <a name="see-also"></a>Consulte también
+[Finanzas](finance.md)]  
+[Administrar cuentas bancarias](bank-manage-bank-accounts.md)  
+[Trabajar con dimensiones](finance-dimensions.md)  
+[Importar datos de empresa de otros sistemas financieros](upload-data.md)  
+[Analizar el flujo de efectivo de la empresa](finance-analyze-cash-flow.md)  
+[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-
-##<a name="see-also"></a>Consulte también
-[Administrar cuentas bancarias](bank-manage-bank-accounts.md)    
-[Dimensiones](finance-setup-dimensions.md)  
+## 
 

@@ -1,26 +1,28 @@
 ---
-title: 'Procedimiento: Buscar documentos registrados sin registros de documentos entrantes'
+title: Buscar documentos sin archivos adjuntos
+Description: "Puede buscar movimientos de contabilidad de los documentos de compra y de venta registrados que no tengan documentos electrónicos de entrada, como las facturas importadas."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: eb65922decc86ca6834cae4cf46c6f2ff492e29c
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
+ms.date: 06/02/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 515026b4da842afeda1759f50313dc26bcfd3350
 ms.contentlocale: es-mx
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-find-posted-documents-without-incoming-document-records"></a>Procedimiento: Buscar documentos registrados sin registros de documentos entrantes
 En las ventanas **Catálogo de cuentas** y **Movs. contabilidad**, puede usar una función de búsqueda para buscar los movimientos de contabilidad para aquellos documentos de compra y de venta registrados que no tienen registros de documento entrantes y después vincularlos de forma centralizada a registros existentes o crear registros nuevos con archivos de documentos adjuntos.
 
 ## <a name="to-find-posted-documents-without-incoming-document-records"></a>para buscar documentos registrados sin registros de documentos entrantes
-1. En la esquina superior derecha, seleccione el icono **Buscar página o informe**, escriba **Catálogo de cuentas** y, a continuación, seleccione el enlace relacionado.
+1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Plan de cuentas** y, a continuación, seleccione el vínculo relacionado.
 2. Seleccione una línea para una cuenta de contabilidad para la que quiere ver los documentos de ventas y compras registrados de los movimientos de contabilidad sin registros de documentos entrantes y, a continuación, seleccione la acción **Documentos registrados sin documento entrante**.
 3. De forma alternativa, elija la acción **Movimientos de activos**.
 4. En la ventana **Movs. contabilidad**, elija la acción **Documentos registrados sin documento entrante**.
@@ -34,9 +36,9 @@ La ventana **Documentos registrados sin documento entrante** se abre con los doc
 
 Si no existe un registro de documento entrante correspondiente en la ventana **Documentos entrantes**, puede crearlo. Para obtener más información, vea [Procedimiento: Crear registros de documentos entrantes](across-how-create-income-document-records.md).
 
-## <a name="see-also"></a>Consulte también  
+## <a name="see-also"></a>Consulte también
 [Procesar documentos entrantes](across-process-income-documents.md)  
 [Documentos entrantes](across-income-documents.md)  
-[Gestionar compras](purchasing-manage-purchasing.md)  
-[Trabajar con Dynamics NAV](ui-work-product.md)
+[Compras](purchasing-manage-purchasing.md)  
+[Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 
