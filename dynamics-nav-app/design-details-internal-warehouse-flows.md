@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 42ada458f7cdeced83ee9bceb4b997691f3cf8bb
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 2a58da6d3b8a651016c842c083f1954fad3fd7a1
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="design-details-internal-warehouse-flows"></a>Detalles de diseño: Flujos de almacén internos
@@ -103,7 +103,7 @@ El flujo de productos entre las ubicaciones en una ubicación de empresa se cent
 1.  El supervisor de planta lanza la orden de producción. Los productos con el método de baja **Anticipada** y sin código de conexión de ruta se deducen de la ubicación de aprovisionamiento manual.  
 2.  El supervisor de planta elige el botón **Crear selección de almacén** en la orden de producción. Un documento de selección de almacén se crea para seleccionar productos con métodos de baja **Manual**, **Seleccionar + Atrás** y **Seleccionar + Adelante**. Estos productos se colocan en la ubicación para producción.  
 3.  El administrador de almacén asigna los picking a un empleado de almacén.  
-4.  El trabajador de almacén picking directos los productos de las ubicaciones y de los apartados apropiados estos comandos en la ubicación para producción o en la ubicación especificados en picking de almacén, que puede ser una ubicación del centro de trabajo o del centro de máquina).  
+4.  El trabajador de almacén picking directos los productos de las ubicaciones y de los apartados apropiados estos comandos en la ubicación para producción o en la ubicación especificados en picking de almacén, que puede ser una ubicación del centro de trabajo o del centro de máquina.  
 5.  El empleado de almacén registra el picking. La cantidad se resta de las ubicaciones de picking y se agregan a la ubicación de consumo. Se actualiza el campo **Cdad. preparada pedido** de la lista de componentes para todos los productos preparados.  
 
     > [!NOTE]  

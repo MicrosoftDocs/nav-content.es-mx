@@ -12,10 +12,10 @@ ms.search.keywords: vendor payment, creditor, debt, balance due, AP
 ms.date: 06/28/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a60a197ec6631ff063eeeffd5add7c202ac6b605
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: a4940bddd22b4b310550606be6a2e96fc2b6bef0
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="managing-payables"></a>Administración de pagos
@@ -30,7 +30,7 @@ En la tabla siguiente se muestra una secuencia de tareas de cuentas por pagar, c
 | Para | Vea |
 | --- | --- |
 | Generar pagos de proveedores o reembolsos a empleados, preparar pagos con cheques y exportar pagos a un archivo bancario al registrarlos. |[Creación de pagos](payables-make-payments.md) |
-| Liquide pagos de proveedores automáticamente con facturas de compra sin abonar importando un archivo de estado de cuenta bancario. |[Liquidar pagos automáticamente y conciliar cuentas bancarias](receivables-apply-payments-auto-reconcile-bank-accounts.md) |
+| Liquide pagos de proveedores automáticamente con facturas de compra sin abonar importando un archivo de estado de cuenta bancario. |[Liquidación de pagos automáticamente y conciliación de cuentas bancarias](receivables-apply-payments-auto-reconcile-bank-accounts.md) |
 | Liquide pagos de proveedor con facturas de compra sin abonar manualmente. |[Conciliar pagos de proveedor manualmente](payables-how-apply-purchase-transactions-manually.md) |
 |Garantice una valuación de inventarios correcta mediante la asignación de costos de producto agregados, tales como fletes, manipulación física, seguros y transporte, en los que incurra al comprar.|[Utilizar los cargos de producto a cuenta para los costes comerciales adicionales](payables-how-assign-item-charges.md)|
 

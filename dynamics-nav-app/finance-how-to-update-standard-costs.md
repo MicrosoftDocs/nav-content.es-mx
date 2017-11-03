@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/09/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 691d2b1b0200a21d1fcff58a68c5963c2b650cbf
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: dd2bb16af611be7f7720fdf07eb65fd268aba039
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-update-standard-costs"></a>Cómo actualizar costos estándar
@@ -44,6 +44,6 @@ Para obtener más información, consulte [Acerca de Calcular el costo estándar]
 ## <a name="see-also"></a>Consulte también  
  [Acerca del cálculo de costo estándar](finance-about-calculating-standard-cost.md)   
  [Administración de costos de inventario](finance-manage-inventory-costs.md)   
- [Detalles de diseño: Métodos de coste](design-details-costing-methods.md) [[Finanzas](finance.md)]  
+ [Detalles de diseño: Métodos de coste](design-details-costing-methods.md) [Finanzas](finance.md)  
  [Trabajar con [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

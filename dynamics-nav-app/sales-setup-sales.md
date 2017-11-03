@@ -12,10 +12,10 @@ ms.search.keywords: trade, sell, configure
 ms.date: 08/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 300f281cc409e08a253f060e97bb9a80340176bf
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 620d8d2fcdc62249ce5bad6718519211e50cdbac
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="setting-up-sales"></a>Configuración de ventas
@@ -35,7 +35,7 @@ La configuración de ventas relacionada con las finanzas, como las formas de pag
 | Configure los vendedores para que pueda asignarles contactos de cliente o medir el rendimiento del vendedor como base para calcular la comisión o prima por ventas. |[Configurar vendedores](sales-how-setup-salespeople.md) |
 | Especifique para clientes individuales o para todos los clientes cómo se envían los documentos de ventas por defecto cuando elige la acción **Registrar y enviar**. |[Configurar los perfiles de envío de documentos](sales-how-setup-document-send-profiles.md) |
 | Configure su correo electrónico para que contenga un resumen de información en el documento de ventas que se está enviando. |[Procedimiento: Enviar documentos por correo electrónico](ui-how-send-documents-email.md). |
-|Utilice un servicio Web de la UE para comprobar el número de CIF/NIF de un cliente.|[Verificación de números CIF/NIF](sales-how-to-verify-vat-registration-numbers.md)|
+|Utilice un servicio Web de la UE para comprobar el número de CIF/NIF de un cliente.|[Verificación de números CIF/NIF](finance-setup-vat.md)|
 |Introducir información acerca de los distintos proveedores de transporte empleados, incluyendo un vínculo a su servicio de seguimiento del envío.|[Cómo configurar transportistas](sales-how-to-set-up-shipping-agents.md)|
 
 ## <a name="see-also"></a>Consulte también

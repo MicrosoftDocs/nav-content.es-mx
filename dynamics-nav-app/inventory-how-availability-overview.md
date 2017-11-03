@@ -12,10 +12,10 @@ ms.search.keywords: stock
 ms.date: 08/15/2017
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b046027ef9327603b58111ba578dfe1c5254d081
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 81872839df11a13489bbc192ad97dae04976ebb0
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-view-the-availability-of-items"></a>Consultar la disponibilidad de los productos
@@ -26,10 +26,10 @@ Puede consultar la disponibilidad de todos los productos por ubicación y puede 
 > [!NOTE]  
 >   Las vistas de disponibilidad por ubicación requieren que se mantenga el inventario en varias ubicaciones. Para obtener más información, vea [Procedimiento: Configurar almacenes](inventory-how-setup-locations.md).
 
-En [Usar [!INCLUDE[d365fin](includes/d365fin_md.md)], las cifras de disponibilidad se muestran en dos campos diferentes, cada uno con una definición distinta:
+En [!INCLUDE[d365fin](includes/d365fin_md.md)], las cifras de disponibilidad se muestran en dos campos diferentes, cada uno con una definición distinta:
 
 * El campo **Cantidad disponible** muestra la cantidad real hoy de acuerdo con los movimientos de producto registrados.
-* El campo **Saldo disponible estimado** calcula y muestra el stock disponible más las recepciones programadas menos las necesidades brutas. (En [Usar [!INCLUDE[d365fin](includes/d365fin_md.md)], las recepciones programadas incluyen cantidades en los pedidos de compra y pedidos de transferencia de entrada. Las necesidades brutas incluyen cantidades de los pedidos de venta y los pedidos de transferencia de salida).
+* El campo **Saldo disponible estimado** calcula y muestra el stock disponible más las recepciones programadas menos las necesidades brutas. (En [!INCLUDE[d365fin](includes/d365fin_md.md)], las recepciones programadas incluyen cantidades en los pedidos de compra y pedidos de transferencia de entrada. Las necesidades brutas incluyen cantidades de los pedidos de venta y los pedidos de transferencia de salida).
 
 > [!TIP]  
 >   El saldo disponible estimado es muy relevante consultarlo en las ventanas **Existencias producto** y **Disponibilidad prod. por evento** que contienen la dimensión de fecha.  
@@ -102,7 +102,7 @@ La ventana **Disponibilidad de ensamblado** muestra la información de disponibi
 
 - Automáticamente de una línea del pedido de venta en los escenarios de ensamblar para pedido cuando se introduce una cantidad que causa un problema de disponibilidad de componente.
 - Automáticamente de una cabecera del pedido de ensamblado cuando se introduce un valor en el campo Cantidad que causa un problema de disponibilidad de componente.
-- Manualmente cuando se abre desde un pedido de ensamblado. En la pestaña Acciones, en el grupo Funciones, haga clic en Mostrar disponibilidad.
+- Manualmente cuando se abre desde un pedido de ensamblado. En la pestaña Acciones, en el grupo Funciones, elija Mostrar disponibilidad.
 
 La ficha desplegable **Detalles** muestra información detallada de la disponibilidad del producto de ensamblado, incluida cuánta de la cantidad del pedido de ensamblado se puede ensamblar para la fecha de vencimiento basándose en la disponibilidad de los componentes necesarios. Esto se mostrará en el campo Capaz de ensamblar en la ficha desplegable Detalles.
 

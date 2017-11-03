@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 613cf6d423fcefbc4b92a7f4813d665d68a3ffc7
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 75d0c1648b152717c6ceff69f37b399c8cc3ae26
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="walkthrough-managing-projects-with-jobs"></a>Explicación detallada: Administración de proyectos con proyectos
@@ -353,7 +353,7 @@ Este tutorial se centra en la empresa CRONUS International Ltd., una empresa de 
      Los cambios se introducen automáticamente en la línea para el N.º tarea de trabajo 1120 En el costo total del proyecto programado, cinco horas adicionales de trabajo de Tricia se han agregado a la previsión.  
 
 12. Elija el botón **Cerrar** para cerrar la ventana.  
-13. Haga clic con el botón secundario en el importe del campo **Contrato (Costo total)** y elija **Análisis** para ver la información.  
+13. Elija con el botón derecho del mouse el importe del campo **Contrato (Costo total)** y elija **Análisis** para ver la información.  
 
      En el precio total del contrato, sólo se han incluido las 30 horas originales contratadas, pues es lo acordado con el cliente.  
 

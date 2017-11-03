@@ -12,10 +12,10 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 06/13/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a86031e20e7a5de266405166ee8025cde7221602
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 2ea54861f8203406cf6c9d110ad2317b8f883dde
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 #  <a name="how-to-analyze-data-by-dimensions"></a>Analizar datos por dimensiones
@@ -50,7 +50,7 @@ Puede utilizar la matriz **Análisis por dimensiones** para consultar los import
 >   No se puede seleccionar una longitud de periodo inferior al periodo especificado para la **Vista de análisis** en la ficha Vista de análisis. Los comandos **Conjunto siguiente** y **Conjunto anterior** están inactivos si ha seleccionado **Periodo** en el campo **Muestra como líneas** o **Muestra como columnas**.  
 
 > [!NOTE]  
->   Puede utilizar el informe **Dimensiones - Detalles** para ver una clasificación detallada de cómo se han utilizado las dimensiones en los movimientos durante un periodo seleccionado. Utilice el informe **Dimensiones - Total** para ver solo los importes totales.  
+>   Puede utilizar el informe **Dimensiones - Detalles** para ver una clasificación detallada de cómo se han utilizado las dimensiones en los movimientos durante un periodo seleccionado. Utilice el informe **Dimensiones - Total** para ver sólo los importes totales.  
 
 > [!TIP]  
 >   También puede modificar la vista cambiando el contenido del campo **Muestra como líneas** y del campo **Muestra como columnas**. Para revertir una configuración de vista, elija la acción **Invertir líneas y columnas**.

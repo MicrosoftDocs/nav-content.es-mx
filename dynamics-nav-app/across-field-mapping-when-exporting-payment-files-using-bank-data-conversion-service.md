@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 853638b75e426e3eae383f3b5cc3a5d139c8885f
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 7eebca3303e9844e4ec8be2940104f9cb7216f6a
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="field-mapping-when-exporting-payment-files-using-bank-data-conversion-service"></a>Asignación de campos al exportar archivos de pago con el servicio de conversión de datos bancarios
@@ -25,7 +25,7 @@ Cuando se exportan archivos de pago con la función de servicio de conversión d
 
 La tabla siguiente indica los campos de [!INCLUDE[d365fin](includes/d365fin_md.md)] desde los que se pueden exportar datos al proveedor de servicios.  
 
-|Campo asignado|Campo en tabla|Escritorio|Description]-->|  
+|Campo asignado|Campo en tabla|Escritorio|Descripción|  
 |------------------|--------------------|-----------|---------------------------------------|  
 |N.º acreedor|N.º acreedor|Cuenta bancaria|El identificador asignado a su empresa por el banco para cobrar a los pagos|  
 |N.º de cuenta bancaria del remitente|N.º cuenta bancaria/IBAN|Cuenta bancaria|El número de la cuenta bancaria de su empresa (IBAN u otro) que se especifica en la ficha de la cuenta bancaria|  

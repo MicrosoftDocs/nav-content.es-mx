@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 0cededff36b6d43bab269cc4059bf16a024695df
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 607d51d929e019662fdc4e17f7bbb064f806f32a
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-use-xml-schemas-to-prepare-data-exchange-definitions"></a>Procedimiento: Uso de esquemas XML para preparar definiciones de intercambio de datos
@@ -46,7 +46,7 @@ Para habilitar la importación y exportación de datos en archivos XML mediante 
 
 4.  Rellene los campos tal como se describe en la tabla siguiente.  
 
-    |Campo|[Description]|  
+    |Campo|Descripción|  
     |---------------------------------|---------------------------------------|  
     |**Código**|Especifique un código para identificar el esquema XML.|  
     |**Descripción**|Especifique una descripción del esquema XML.|  

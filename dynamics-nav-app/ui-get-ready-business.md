@@ -12,10 +12,10 @@ ms.search.keywords: SMTP, mail, Office 365, setup, wizard, experience
 ms.date: 03/21/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 30074087545e8ca01b9a3cc956c8cc6ef938d8ae
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 8a7683886f3f823e8bdbd47b007f58c2c65c0f2d
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="getting-ready-for-doing-business"></a>Preparación para hacer negocios
@@ -39,8 +39,8 @@ En la página principal, en la parte inferior del panel de navegación, encontra
 Cuando ha ejecutado un asistente de configuración, se marca como **Completado**. Para ejecutar el asistente de configuración, seleccione los tres puntos también denominados menú contextual y, a continuación, seleccione **Iniciar configuración**.
 
 ## <a name="home"></a>Inicio
-En la página Inicio, tiene una vista general del negocio. A la izquierda puede ver una barra de navegación que le da un acceso sencillo a los clientes, proveedores, productos, etc. En el centro se encuentra el mosaico **Actividades**. **Actividades** muestra los datos actuales y se puede hacer clic o pinchar sobre él para conseguir un acceso fácil al documento seleccionado. Los **Indicadores de rendimiento clave** pueden configurarse para mostrar un gráfico seleccionado para una representación visual de, por ejemplo, el flujo de caja o ingresos y gastos. También puede crear una lista de **Clientes favoritos** en la página Inicio para las cuentas con las que hace negocios a menudo o a las que necesita prestar especial atención.
-Use las flechas para contraer parte de la página y haga más espacio para mostrar datos específicos. En la parte superior de la página principal encontrará todas las acciones que se pueden aplicar al contenido actual. Todo esto también se puede contraer y solo necesita hacer clic o pinchar en el área contraída para volverlo a ver.
+En la página Inicio, tiene una vista general del negocio. A la izquierda puede ver una barra de navegación que le da un acceso sencillo a los clientes, proveedores, productos, etc. En el centro se encuentra el mosaico **Actividades**. **Actividades** muestra los datos actuales y se puede elegir o pinchar sobre él para conseguir un acceso fácil al documento seleccionado. Los **Indicadores de rendimiento clave** pueden configurarse para mostrar un gráfico seleccionado para una representación visual de, por ejemplo, el flujo de caja o ingresos y gastos. También puede crear una lista de **Clientes favoritos** en la página Inicio para las cuentas con las que hace negocios a menudo o a las que necesita prestar especial atención.
+Use las flechas para contraer parte de la página y haga más espacio para mostrar datos específicos. En la parte superior de la página principal encontrará todas las acciones que se pueden aplicar al contenido actual. Todo esto también se puede contraer y solo necesita elegir o pinchar en el área contraída para volverlo a ver.
 
 ## <a name="company-information"></a>Información empresa
 En **Configuración de la empresa** puede ver y editar información de configuración sobre la empresa actual, mucha de la cual se rellenó previamente si completó la configuración asistida **Configurar empresa** al registrarse en [!INCLUDE[d365fin](includes/d365fin_md.md)]. Si desea cambiar el logotipo de la empresa, la información de contacto, la configuración del banco o la información de los impuestos, puede hacerlo desde esta ventana.    

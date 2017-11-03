@@ -12,10 +12,10 @@ ms.search.keywords: reimbursement
 ms.date: 08/03/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 90598545ff216b03f8c6e9b85933c10e5a8b6525
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 2970914c36f892a5610509e9dc4015d0fb159642
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-reverse-postings"></a>Revertir registros
@@ -62,7 +62,7 @@ Se pueden revertir movimientos desde todas las ventanas **Movimientos**. El sigu
     Ahora vuelva al pedido de devolución de compra para volver a realizar el registro.  
 
 5.  En la ventana **Histórico envío devolución**, tome una nota del número en el campo **Nº devolución** .  
-6.  Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Pedidos dev. compra** y, a continuación, seleccione el vínculo relacionado.  
+6.  Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Pedidos de devolución de compra** y, a continuación, seleccione el vínculo relacionado.  
 7.  Abra el pedido de devolución en cuestión y, a continuación, elija la acción **Volver a abrir**.  
 8.  Corrija el movimiento en el campo **Cantidad** y vuelva a publicar la orden de devolución de la compra.  
 

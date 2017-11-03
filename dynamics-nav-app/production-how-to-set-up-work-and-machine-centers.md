@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/19/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fd257dc9a0b52160ccce7153505a4665552b26a7
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: ba71815bc7d099b7f600ab828dec579ddbf2265a
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-work-centers-and-machine-centers"></a>Procedimiento: Configuración de centros de trabajo y centros de máquinas
@@ -64,7 +64,7 @@ A continuación se describe principalmente cómo configurar un centro de trabajo
     > [!NOTE]  
     > Si decide utilizar Días, recuerde que 1 día = 24 horas, y no 8 (jornada laboral).
 
-13.  En el campo **Capacidad**, puede definir si en el centro de trabajo hay más de una máquina o persona trabajando a la vez. Si la instalación de **Nombre producto** no incluye la funcionalidad del centro de máquina, el valor de este campo debe ser **1**).  
+13.  En el campo **Capacidad**, puede definir si en el centro de trabajo hay más de una máquina o persona trabajando a la vez. Si la instalación de [!INCLUDE[d365fin](includes/d365fin_md.md)] no tiene la funcionalidad del centro de máquina, el valor de este campo debe ser **1**.  
 14.  En el campo **Eficiencia**, especifique el porcentaje de la salida estándar esperada que este centro de trabajo produce realmente. Si especifica **100**, estará indicando que el centro de trabajo tiene una salida real igual que la salida estándar.  
 15. Seleccione la casilla verificación **Calendario consolidado** si también utiliza centros de máquina. Esto asegura que los movimientos de calendario se traspasan desde los calendarios de centro de máquina.  
 16.  En el campo **Cód. calen. planta**, seleccione un calendario de planta. Para obtener más información, consulte [Procedimiento: Crear calendarios de planta](production-how-to-create-work-center-calendars.md).  

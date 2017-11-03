@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: bea6c616704af33c86fc7190a18663bff871a56d
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 6d25a7b60f8b1b37ef9de34d5ffc098a89828ea8
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-trace-item-tracked-items"></a>Cómo realizar un seguimiento de productos marcados para seguimiento
@@ -60,7 +60,7 @@ Puede ver donde se ha utilizado un producto marcado para seguimiento, incluso c�
 
 ## <a name="to-find-item-tracked-items-with-navigate"></a>Para buscar productos marcados para seguimiento con Navegar  
 
-1.  Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Navegar** y, a continuación, seleccione el vínculo relacionado.  
+1.  Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Navegar** y, a continuación, elija el vínculo relacionado.  
 2.  En la ficha desplegable **Seguim. prod.**, en los campos **Nº serie** y **Nº lote**, introduzca los números de seguimiento de productos de los que desea realizar un seguimiento.  
 3.  Elija la acción **Buscar** para buscar todos los casos números de serie o de lote en la base de datos.  
 

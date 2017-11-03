@@ -12,10 +12,10 @@ ms.search.keywords: change Role Center, notification, change company, change wor
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1fd559bd0bf213a745f0c567c2b2d5721071c553
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: cf5a74cea6d7906845a0e087576ab090c319f297
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="changing-basic-settings"></a>Cambiar la configuración básica
@@ -24,9 +24,9 @@ En la ventana **Mi configuración**, puede ver y cambiar la configuración bási
 ## <a name="role-center"></a>Área de tareas
 El área de tareas representa la página principal, una página de inicio que está designada para las necesidades del rol. En la página Inicio, tiene una vista general del negocio. A la izquierda puede ver una barra de navegación que le da un acceso sencillo a los clientes, proveedores, productos, etc.
 
-En el centro se encuentra el mosaico Actividades. Actividades muestra los datos actuales y se puede hacer clic o pinchar sobre ellas para conseguir un acceso fácil al documento seleccionado. Los Indicadores de rendimiento clave pueden configurarse para mostrar un gráfico seleccionado para una representación visual de, por ejemplo, el flujo de caja o ingresos y gastos.
+En el centro se encuentra el mosaico Actividades. Actividades muestra los datos actuales y se puede elegir o pinchar sobre él para conseguir un acceso fácil al documento seleccionado. Los Indicadores de rendimiento clave pueden configurarse para mostrar un gráfico seleccionado para una representación visual de, por ejemplo, el flujo de caja o ingresos y gastos.
 
-También puede crear una lista de Clientes favoritos en la página Inicio para las cuentas con las que hace negocios a menudo o a las que necesita prestar especial atención. Use las flechas para contraer parte de la página y haga más espacio para mostrar datos específicos. En la parte superior de la página principal encontrará todas las acciones que se pueden aplicar al contenido actual. Todo esto también se puede contraer y solo necesita hacer clic o pinchar en el área contraída para volverlo a ver.
+También puede crear una lista de Clientes favoritos en la página Inicio para las cuentas con las que hace negocios a menudo o a las que necesita prestar especial atención. Use las flechas para contraer parte de la página y haga más espacio para mostrar datos específicos. En la parte superior de la página principal encontrará todas las acciones que se pueden aplicar al contenido actual. Todo esto también se puede contraer y solo necesita elegir o pinchar en el área contraída para volverlo a ver.
 
 El Área de tareas predeterminada es **Administrador empresarial**, pero puede seleccionar otra área de tareas que se adapte mejor a sus necesidades. Para obtener más información, vea [Procedimiento: Cambiar el Área de tareas](change-role.md)
 

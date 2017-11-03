@@ -12,10 +12,10 @@ ms.search.keywords: video, library, how to
 ms.date: 06/02/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 25d26af01e3006fccf025d0f7c146e0bc8f501ee
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 456bdf12b9fc30e3845b83099759df1b83935d56
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="visit-our-video-library"></a>Visite nuestra biblioteca de vídeos
@@ -35,8 +35,8 @@ Puede acceder a los vídeos de varias formas. Si ya está trabajando con [!INCLU
 
 > [!Tip]  
 > Además de los vídeos, **Asistencia de negocio** incluye recursos como vínculos a los temas y las guías de configuración asistidas que facilitan la configuración de las opciones. Estos recursos sustituyen el gráfico en el área de tareas. Una vez explore los recursos, vuelva al gráfico en el menú **Ayuda de negocio** mediante **Mostrar gráfico**.  
-  
-Puede ver nuestros "tutoriales", además de muchos otros contenidos, en el canal de YouTube que creamos para Microsoft Dynamics NAV. Para visitar ahora el canal haga clic [aquí](https://go.microsoft.com/fwlink/?linkid=851533).
+
+Puede ver nuestros "tutoriales", además de muchos otros contenidos, en el canal de YouTube que creamos para [!INCLUDE[navnow](includes/navnow_md.md)]. Para visitar ahora el canal haga clic [aquí](https://go.microsoft.com/fwlink/?linkid=851533).
 
 ## <a name="see-also"></a>Consulte también
 [[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)

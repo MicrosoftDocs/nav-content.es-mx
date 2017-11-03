@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7fd92ace7b2bb2c48715fbdac67eb45ef356c56d
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 256f7cfc0348b121a1302db49e57fa030b76f55c
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-pick-items-for-warehouse-shipment"></a>Procedimiento: realice un picking de los artículos para el envío de almacén
@@ -72,7 +72,7 @@ Una vez registrado el envío de almacén, los distintos campos de la línea de p
 > [!NOTE]
 > En escenarios de combinación, en los que una parte de la cantidad debe ensamblarse primero y la otra se debe enviar desde el inventario, se crean dos líneas de envío de almacén. Uno es para la cantidad de ensamblar para pedido y otro es para la cantidad de inventario.
 
-> En ese caso, la cantidad de ensamblar para pedido se controla tal como se describe en este tema, y la cantidad de inventario se controla como cualquier otra línea de envío normal de almacén. Para obtener más información sobre la combinación de escenarios, consulte [Comprender Ensamblar para pedido y Ensamblar para stock](assembly-assemble-to-order-or-assemble-to-stock.md).
+> En ese caso, la cantidad de ensamblar para pedido se controla tal como se describe en este tema, y la cantidad de inventario se controla como cualquier otra línea de envío normal de almacén. Para obtener más información sobre los escenarios de combinación, consulte [Comprender Ensamblar para pedido y Ensamblar para stock](assembly-assemble-to-order-or-assemble-to-stock.md).
 
 ## <a name="see-also"></a>Consulte también  
 [Gestión almacén](warehouse-manage-warehouse.md)  

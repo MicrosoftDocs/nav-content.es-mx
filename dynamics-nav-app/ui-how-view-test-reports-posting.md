@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 05/12/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9666627da75d88a5f7cf467b9e7cdaeba67c75cf
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 1c197576564f4fe88a92d06c43e2b237f6836aa1
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-view-test-reports-before-posting"></a>Procedimiento: Ver los informes de prueba antes de realizar el registro
@@ -24,7 +24,7 @@ Cuando esté listo para registrar un documento, como una orden, una factura o un
 >   Con el siguiente procedimiento se realiza una prueba antes de registrar un documento de compra. La funcionalidad funciona de la misma forma que para los documentos de venta.
 
 ## <a name="to-print-a-test-report-before-posting-a-purchase-invoice"></a>Para imprimir un test antes de registrar una factura de compra
-1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Facturas de compra** y, a continuación, seleccione el vínculo relacionado.
+1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Facturas compra** y, a continuación, seleccione el vínculo relacionado.
 2. Abra la factura de compra que desee evaluar.
 3. Elija la acción **Informe de prueba**.  
 

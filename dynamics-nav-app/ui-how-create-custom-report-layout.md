@@ -12,10 +12,10 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 03/29/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f301bcc0ef0c8130030f3c6686a907f60bc09844
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: ee614c44a17873591916bc97bd9b2a3f33fce21b
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-create-and-modify-a-custom-report-or-document-layout"></a>Cómo crear y modificar un diseño de informe o documento personalizado
@@ -28,7 +28,8 @@ Para crear un diseño personalizado, puede hacer una copia de un diseño persona
 
 ## <a name="to-create-a-custom-layout"></a>Para crear un diseño personalizado
 1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Selección de diseño de informes** y, a continuación, seleccione el vínculo relacionado.  
-   La ventana **Selección de diseño de informes** muestra todos los informes disponibles en la empresa especificada en el campo Empresa en la parte superior de la ventana.
+
+    La ventana **Selección de diseño de informes** muestra todos los informes disponibles en la empresa especificada en el campo **Empresa** en la parte superior de la ventana.
 2. Establezca el campo **Empresa** en la empresa en la que desea crear el diseño del informe.
 3. Seleccione la fila para el informe para el cual desee crear el diseño y, a continuación, elija la acción **Diseños personalizados**.  
    La ventana **Diseños de informe personalizados** aparece con todos los diseños personalizados disponibles para el informe seleccionado.
@@ -50,45 +51,45 @@ Para modificar un diseño de informe, primero deberá exportar el diseño de inf
 ### <a name="to-modify-a-custom-layout"></a>Para modificar un diseño personalizado
 1.  Puede exportar un diseño personalizado desde la ventana **Diseños de informe personalizados**. Si esta ventana no es ya abierta, busque y abra la ventana **Selección de diseño de informes**, seleccione el informe que tiene el diseño que quiere modificar y haga clic en la acción **Diseños personalizados** .  
 2.  En la ventana **Diseños de informe personalizados**, seleccione el diseño que desea modificar, seleccione la acción **Exportar diseño** y, después, seleccione **Guardar** o **Guardar como** para guardar el documento de diseño del informe en una ubicación del equipo o red.  
-  
+
 3.  Abra el documento de diseño de informe que acaba de guardar y realice las modificaciones.
 
-      Si está cambiando una plantilla de Word, abra el documento de diseño en Word. Para editar los detalles, vea la sección siguiente [Realizar cambios en el diseño del informe](ui-how-create-custom-report-layout.md#MakeChangesToLayout). 
+      Si está cambiando una plantilla de Word, abra el documento de diseño en Word. Para editar los detalles, vea la sección siguiente [Realizar cambios en el diseño del informe](ui-how-create-custom-report-layout.md#MakeChangesToLayout).
 
       Los diseños de informe RDLC son más avanzados que plantillas de informe de Word. Para obtener más información acerca de cómo modificar un diseño de informe de RDLC, consulte [Diseñar diseños de informes RDLC](https://msdn.microsoft.com/en-us/dynamics-nav/designing-rdlc-report-layouts).
 
       No olvide guardar los cambios cuando termine.
-  
+
 4.  Vuelva a la ventana **Diseños de informe personalizados**, seleccione la plantilla del informe que se exportó y modificó y después seleccione **Importar diseño**.  
-  
+
 5. En el cuadro de diálogo **Importar**, seleccione **Seleccionar** para buscar y seleccionar un documento de diseño y, a continuación, elija **Abrir**.
 
 ##  <a name="MakeChangesToLayout"></a> Realizar cambios en un diseño de informe de Word  
 Para realizar cambios generales de formato y diseño, como cambiar la fuente del texto, agregar y modificar una tabla o eliminar un campo de datos, simplemente use las funciones de edición básicas de Word, como con cualquier documento de Word.
 
-Si está creando un diseño de informe de Word desde cero o agregando nuevos campos de datos, empiece sumando una tabla que incluya las filas y columnas que llevarán los campos de datos. 
-  
+Si está creando un diseño de informe de Word desde cero o agregando nuevos campos de datos, empiece sumando una tabla que incluya las filas y columnas que llevarán los campos de datos.
+
 > [!TIP]  
 >  Mostrar las líneas de cuadrícula de la tabla de manera que se vean los límites de las celdas de la tabla. No se olvide de ocultar las líneas de cuadrícula cuando termine la edición. Para mostrar u ocultar líneas de cuadrícula de tabla, seleccione la tabla y, a continuación, en **Diseño** en la pestaña **Escritorio**, elija **Ver líneas de cuadrícula**.  
-  
+
 ###  <a name="RemoveField"></a> Quitar los campos de etiqueta y de datos en los diseños de Word  
  Los campos de etiqueta y datos de un informe están incluidos en los controles de contenido en Word. La ilustración siguiente muestra un control de contenido seleccionado en el documento de Word.  
-  
+
  ![Control de contenido del campo en el diseño de informe de Word](media/nav_wordreportlayouts_contentcontrol.png "NAV_WordReportLayouts_ContentControl")  
-  
+
  El nombre del campo de etiqueta o de datos se muestra en el control de contenido. En el ejemplo, el nombre de campo es CompanyAddr1.  
-  
+
 ### <a name="to-remove-a-label-or-data-field"></a>Para eliminar una etiqueta o un campo de datos  
-  
-1.  Haga clic con el botón secundario en el campo que desee eliminar y seleccione **Eliminar control de contenido**.  
-  
+
+1.  Elija con el botón secundario en el campo que desee eliminar y seleccione **Eliminar control de contenido**.  
+
      El control de contenido se elimina, pero el nombre del campo permanece como texto.  
-  
+
 2.  Elimine el texto restante según sea necesario.  
 
 ### <a name="adding-data-fields"></a>Añadir campos de datos
 La adición de campos de datos de un conjunto de datos de informe es una operación más avanzada y necesita conocimientos del conjunto de datos de informe. Para obtener información acerca de la adición campos para datos, etiquetas, datos e imágenes, consulte [Cómo añadir campos a un diseño de informe de Word](ui-how-add-fields-word-report-layout.md).  
-  
+
 
 ## <a name="see-also"></a>Consulte también
 [Gestión de diseños de informe](ui-manage-report-layouts.md)  

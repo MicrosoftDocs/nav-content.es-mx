@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/22/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8d7fa49b4ad7afa584baebd8f8c1d22738653fdf
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: fa6677e2f856fd22ff56139332aa307919b0ab96
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-work-with-serial-and-lot-numbers"></a>Procedimiento: Trabajar con números de lote y de serie
@@ -219,7 +219,7 @@ La funcionalidad utilizan los procesos de salida siguientes:
 
 En estas situaciones, las líneas de seguimiento de productos existentes se copian automáticamente en la factura o en la nota de crédito, pero la ventana **Líns. seguim. prod.** no permite realizar cambios en los números de serie o de lote. Solo se pueden modificar las cantidades.  
 
-1.  Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Facturas de compra** y, a continuación, seleccione el vínculo relacionado.  
+1.  Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Facturas compra** y, a continuación, seleccione el vínculo relacionado.  
 2.  Abra una factura de compra para los productos que se compran con los números de serie o de lote.  
 3.  Desde una línea de la factura de compra, en la ficha desplegable **Líneas**, seleccione la acción **Tomar líneas de envío**.  
 4.  En la ventana **Tomar líns. recepción**, seleccione una línea de recepción que tenga líneas del seguimiento de producto y, a continuación seleccione el botón **Aceptar**.  

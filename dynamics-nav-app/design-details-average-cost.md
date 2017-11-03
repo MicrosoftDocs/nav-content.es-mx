@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9d87ba48d7b8a20f90dcbdb7e3b7a26eba42208c
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 834dd4839c535e987eebe337b7de8a753503556b
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="design-details-average-cost"></a>Detalles de diseño: Costo promedio
@@ -51,7 +51,7 @@ El costo promedio de un producto se calcula con un promedio ponderado periódico
  El programa aplica el costo promedio calculado a las salidas de inventario del elemento (producto, almacén o variante) con fechas de registro durante el periodo de costo promedio. Si se han aplicado entradas de inventario de forma fija a salidas de inventario en el periodo de costo promedio, el costo promedio calculado se reenvía desde la entrada a la salida.  
 
 ### <a name="example-average-cost-period--day"></a>Ejemplo: Periodo de costo promedio = Día  
- En el ejemplo siguiente se muestra el efecto de calcular el costo promedio basado en un periodo de costo promedio de un día. El campo **Tipo cálculo cto. Prom.** en la ventana **Configuración de inventario** está configurado en **Producto**.  
+ En el ejemplo siguiente se muestra el efecto de calcular el costo promedio basado en un periodo de costo promedio de un día. El campo **Tipo cálculo cto. prom.** de la ventana **Configuración de inventario** está configurado en **Producto**.  
 
  En la tabla siguiente se muestran los movimientos de producto del producto del costo promedio de muestra, ITEM1, antes de que se haya ejecutado el proceso **Valorar existencias - movs. producto**.  
 
@@ -108,7 +108,7 @@ El costo promedio de un producto se calcula con un promedio ponderado periódico
 
  En la tabla siguiente se muestran los movimientos en la tabla **Punto de entrada aj. costo promedio** que se aplican a los movimientos de valor que son el resultado de los movimientos de producto en la tabla anterior.  
 
-|**Nº producto**|**Cód. variante)**|**Cód. almacén**|**Fecha valoración**|**Costo ajustado**|  
+|**Nº producto**|**Cód. variante**|**Cód. almacén**|**Fecha valoración**|**Costo ajustado**|  
 |-------------------------------------|-----------------------------------------|------------------------------------------|-------------------------------------------|---------------------------------------------|  
 |PROD1||AZUL|31-01-20|N.º|  
 |PROD1||AZUL|28-02-20|N.º|  

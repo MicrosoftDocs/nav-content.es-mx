@@ -12,14 +12,14 @@ ms.search.keywords: API, extension, Cognitive Services, image, computer vision, 
 ms.date: 06/19/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8df580f599db12ab2f56a3bbeeb880fa12afb081
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 08a832708dcbb550e880d2a669af265b2fb670b5
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 
-# <a name="the-image-analyzer-extension-for-microsoft-dynamics-nav"></a>Extensión del analizador de imágenes para Microsoft Dynamics NAV
+# <a name="the-image-analyzer-extension-for-includenavnowincludesnavnowmdmd"></a>Extensión del analizador de imágenes para [!INCLUDE[navnow](includes/navnow_md.md)]
 La extensión del analizador de imagen utiliza análisis de imagen muy potentes proporcionados por la API de Computer Vision de Microsoft Cognitive Services para detectar los atributos de las imágenes que se importan para los elementos y las personas de contacto, de modo que pueda revisarlos y asignarlos fácilmente. Para los elementos, los atributos podrían ser si el elemento es una tabla o un automóvil, y si es rojo o azul. Para las personas de contacto, los atributos podrían ser el género o edad.
 
 El analizador sugiere atributos basados en etiquetas que encuentra la API de Computer Vision y un nivel de confianza. De forma predeterminada, sugiere atributos solo si está seguro en al menos un 80 % que el atributo es correcto. Si es necesario, puede establecer otro nivel de confianza. Para obtener más información acerca de cómo se determinan las etiquetas y el nivel de confianza, consulte el [API de Computer Vision](https://go.microsoft.com/fwlink/?linkid=851476).  
@@ -48,12 +48,12 @@ La extensión del analizador de imágenes viene incorporada en [!INCLUDE[d365fin
 > Para activar la extensión del analizador de imágenes, debe ser administrador. Asegúrese de que se le ha asignado el conjunto de permisos de usuario **SUPER**.
 
 1. Para activar la extensión del analizador de imágenes, elija una de estas acciones:
-  
+
 * Abrir un elemento o tarjeta de contacto. En la barra de notificación, elija **Analizar imágenes**y, a continuación, siga los pasos de la guía de configuración asistida.  
 * Seleccione el ícono ![Buscar página o informe](media/ui-search/search_small.png "Buscar página o informe"), introduzca **Conexiones servicio** y, a continuación, seleccione **Configuración de análisis de imagen**. Seleccione la casilla **Activar analizador de imágenes**y, a continuación, complete los pasos de la guía de configuración asistida.  
 
 >   [!TIP]  
->   La página **Configuración del análisis de imágenes** también permite cambiar el grado de confianza de las sugerencias de atributos. Por ejemplo, si desea exigir un mayor grado de confianza, puede introducir un porcentaje más alto. 
+>   La página **Configuración del análisis de imágenes** también permite cambiar el grado de confianza de las sugerencias de atributos. Por ejemplo, si desea exigir un mayor grado de confianza, puede introducir un porcentaje más alto.
 
 ## <a name="to-analyze-an-image-of-an-item"></a>Analizar una imagen de un producto
 Los siguientes pasos describen cómo analizar una imagen que se importó antes de activar la extensión del analizador.  
@@ -74,16 +74,16 @@ Los siguientes pasos describen cómo analizar una imagen que se importó antes d
 
 ## <a name="to-use-your-own-account-for-the-computer-vision-api"></a>Usar su propia cuenta para la API de Computer Vision
 También puede utilizar su propia cuenta para la API de Computer Vision, por ejemplo, si desea analizar más imágenes de las que permitimos.  
-  
+
 1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Configuración analizador de imágenes** y, a continuación, seleccione el vínculo relacionado.  
 2. Ingrese el **API de URI** y la **Clave de API** que recibió para la API de Computer Vision.  
-  
+
 >   [!NOTE]  
 >   Si no está escrito, debe agregar **/analyze** al final de la API de URI. Por ejemplo: ```https://cronus.api.cognitive.microsoft.com/vision/v1.0/analyze```.
 
 ## <a name="to-see-how-many-analyses-you-have-left-in-the-current-period"></a>Ver cuántos análisis ha dejado en el período actual
 Puede ver el número de análisis que ha realizado y cuántos pueden hacerse en el período actual.  
-  
+
 1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Configuración analizador de imágenes** y, a continuación, seleccione el vínculo relacionado.  
 2. El **Tipo límite**, el **Valor límite** y los **Análisis realizados** proporcionan la información de uso.  
 
@@ -95,5 +95,4 @@ Puede ver el número de análisis que ha realizado y cuántos pueden hacerse en 
 [Trabajar con atributos de producto](inventory-how-work-item-attributes.md)  
 [Personalizar [!INCLUDE[d365fin](includes/d365fin_md.md)] usando extensiones](ui-extensions.md)  
 [[!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
-
 

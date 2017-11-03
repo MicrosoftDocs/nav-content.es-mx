@@ -12,10 +12,10 @@ ms.search.keywords: reconcile
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 2d8d3f24010181e35c491dcdacfbcf13a655014f
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: cd33af7062b5a8e75937f8750e09414f734d8c04
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="managing-bank-accounts"></a>Administrar cuentas bancarias
@@ -29,7 +29,7 @@ En la tabla siguiente se describe una secuencia de tareas, con vínculos a temas
 
 | Para | Vea |
 | --- | --- |
-| Concilie cuentas bancarias relacionadas en relación con el procesamiento de pagos en la ventana **Diario de conciliación de pagos**. |[Liquidar pagos automáticamente y conciliar cuentas bancarias](receivables-apply-payments-auto-reconcile-bank-accounts.md) |
+| Concilie cuentas bancarias relacionadas en relación con el procesamiento de pagos en la ventana **Diario de conciliación de pagos**. |[Liquidación de pagos automáticamente y conciliación de cuentas bancarias](receivables-apply-payments-auto-reconcile-bank-accounts.md) |
 | Concilie cuentas bancarias, incluidos los movimientos de cheque, como una tarea independiente en la ventana **Conciliación de cuentas bancarias**. |[Conciliar cuentas bancarias](bank-how-reconcile-bank-accounts-separately.md) |
 | Registre transferencias entre bancos en la misma divisa o en divisas diferentes. |[Transferir fondos bancarios](bank-how-transfer-bank-funds.md) |
 

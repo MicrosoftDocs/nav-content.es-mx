@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fb0d7651e9ffb273f7aecedf5ff5072a1235b992
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 7882727735c38a11281ef22ac94b82f543b712b7
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 
@@ -36,7 +36,7 @@ A menudo puede que necesite ver la lista de pedidos de servicio u cotizaciones d
 6. Para obtener una lista de documentos que pertenecen a una zona, cliente o contrato determinado, rellene el campo **Filtro contrato o Filtro cliente o Filtro zona** y presione **Entrar**.  
 7. Seleccione una línea que corresponda a un pedido de servicio o una cotización de servicio y seleccione la acción **Mostrar documento**.  
 
-    Se abrirá la página **Pedido de servicio** u **Cotización servicio** y podrá trabajar con el documento. Para volver a la página **Panel despacho**, elija **Aceptar**.
+    Se abrirá la página **Pedido de servicio** u **Cotización servicio** y podrá trabajar con el documento. Para volver a la página **Panel de distribución**, elija el botón **Aceptar**.
 
 ## <a name="to-allocate-a-resource-using-resource-or-resource-group-availability"></a>Para asignar un recurso mediante disponibilidad de grupo de recursos o grupos de recursos    
 1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Panel despacho** y, a continuación, seleccione el vínculo relacionado.  

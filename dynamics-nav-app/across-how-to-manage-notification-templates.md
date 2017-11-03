@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8dee7a54cb086ffa8259f6523733b964ee2c080a
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 4180eeabe2e81aabcfc54642e656fc8ef37157a7
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-manage-notification-templates"></a>Procedimiento: Administrar las plantillas de notificación
@@ -43,7 +43,7 @@ Las notificaciones se envían a los usuarios del flujo de trabajo para notificar
 2.  En la ventana **Plantillas de notificación**, seleccione la plantilla de notificación que desea modificar.  
 3.  Seleccione la acción **Exportar contenido de la plantilla**.  
 4.  En la ventana **Exportar archivo**, seleccione el botón **Guardar** y, a continuación, asigne un nombre al archivo HTML y guárdelo en una ubicación adecuada.  
-5.  Haga clic con el botón secundario en el archivo, seleccione **Abrir con** y, a continuación, elija el programa correspondiente.  
+5.  Elija con el botón secundario en el archivo, seleccione **Abrir con** y, a continuación, elija el programa correspondiente.  
 
     > [!NOTE]  
     >  El contenido de las plantillas de notificación del tipo Correo electrónico están en formato HTML. El contenido de las plantillas de notificación del tipo Nota están en formato TXT.  

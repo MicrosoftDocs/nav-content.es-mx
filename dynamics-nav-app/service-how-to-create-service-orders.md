@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ca6e6f1fd6bf6c9d9a26a9e42fca8b9c4931f89d
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: aa0578c7311fcd997653c6dc6d31325abd1d367c
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-create-service-orders"></a>Cómo crear pedidos de servicio
@@ -100,7 +100,7 @@ Sin embargo, los pedidos de servicio no se eliminarán de forma automática si l
 
 1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Eliminar ped. servicio facturados** y, a continuación, seleccione el vínculo relacionado. Se abre la ventana de condiciones del trabajo por lotes **Eliminar pedidos de servicio facturados**.  
 2. Para seleccionar los pedidos que se van a eliminar, puede definir filtros en los campos **Nº**, **Nº cliente** y **Factura Nº cliente**. .  
-3. Elija **Aceptar**.  
+3. Elija el botón **Aceptar**.  
 
 
 ## <a name="see-also"></a>Consulte también  

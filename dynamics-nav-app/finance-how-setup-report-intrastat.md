@@ -12,10 +12,10 @@ ms.search.keywords: electronic document, Intrastat, trade, EU, European Union
 ms.date: 08/15/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 210d8290c7f281d9dc63dc520cf0be71b9a20233
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 1eb3a9a17f07806546022d941f923bc195c7c7fc
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-and-report-intrastat"></a>Procedimiento: configuración y creación de informes Intrastat
@@ -74,7 +74,7 @@ Después de rellenar el diario de Intrastat, puede imprimir el informe **Prueba*
 
 ### <a name="to-fill-in-intrastat-journals"></a>Para rellenar diarios Intrastat  
 1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Diario Intrastat** y, a continuación, seleccione el vínculo relacionado.  
-2. En la página **Diario Intrastat**, en el campo **Nombre sección**, elija la sección relevante del diario y, a continuación, elija **Aceptar**.  
+2. En la página **Diario Intrastat**, en el campo **Nombre sección**, elija la sección relevante del diario y, a continuación, elija el botón **Aceptar**.  
 3. Elija la acción **Proponer líneas**. Los campos **Fecha inicial** y **Fecha final** aparecerán con las fechas especificadas como periodo estadístico en la sección de diario.  
 4. En el campo **% Costo territorio nacional**, puede introducir un porcentaje que cubra el transporte y el seguro. Si escribe un porcentaje, el contenido del campo **Valor estadístico** del diario es proporcionalmente superior.  
 5. Elija **Aceptar** para iniciar el trabajo por lotes.  
@@ -101,7 +101,7 @@ Puede entregar el informe Intrastat como un archivo. Antes de crear el archivo, 
 2. En la ventana **Diario Intrastat**, seleccione la sección relevante de diario en el campo **Nombre sección**.  
 3. Si todavía no lo ha hecho, rellene el diario manualmente o elija **Proponer líneas**.  
 4. Elija la acción **Crear archivo**.  
-5. En la ventana del proceso, seleccione **Aceptar**.  
+5. Elija el botón **Aceptar** en la ventana el trabajo por lotes.  
 6. Elija **Guardar**.  
 7. Busque la ubicación donde desea guardar el archivo y, a continuación, escriba el nombre del archivo y elija **Guardar**. 
 

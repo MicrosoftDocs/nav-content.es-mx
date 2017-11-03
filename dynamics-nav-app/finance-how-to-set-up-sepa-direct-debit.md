@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d5bd6388db1d72d6be0fb193a51df620e7e059c2
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: b768f78cd8ef7f6981e5e148fee5f61e9ab922ee
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-sepa-direct-debit"></a>Configuración de domiciliaciones de adeudo directo SEPA
@@ -38,7 +38,7 @@ Para poder procesar pagos de clientes electrónicamente exportando instrucciones
 2. Seleccione la acción **Nuevo**.  
 3. Configure una forma de pago. Rellene los campos específicos del adeudo directo tal como se describe en la tabla siguiente.  
 
-    |Campo|[Description|  
+    |Campo|Descripción|  
     |---------------------------------|---------------------------------------|  
     |**Adeudo directo**|Especifique si la forma de pago es para el cobro por adeudo directo SEPA.|  
     |**Código términos pago adeudo directo**|Especifique los términos de pago, tal como NO PAGAR, que se muestran en las facturas de venta que paguen mediante el adeudo directo SEPA para indicar al cliente que el pago se cobrará automáticamente. Como alternativa, deje el campo en blanco.|  
@@ -59,7 +59,7 @@ Para poder procesar pagos de clientes electrónicamente exportando instrucciones
 4. En la ventana **Lista bancos cliente**, seleccione el banco de cliente que utilizará adeudos directos y, a continuación, en la pestaña **Inicio**, en el grupo **Procesara**, elija **Órdenes de domiciliación de adeudo directo**.  
 5. En la ventana **Órdenes de domiciliación de adeudo directo SEPA**, rellene los campos tal como se describe en la tabla siguiente.  
 
-    |[Field|Description]|  
+    |Campo|Descripción|  
     |---------------------------------|---------------------------------------|  
     |**Código banco cliente**|Especifica el banco desde el que se cobran los pagos por domiciliación. Este campo se rellena automáticamente.|  
     |**Válido desde**|Especifique la fecha en que inicia la orden de domiciliación de adeudo directo.|  
