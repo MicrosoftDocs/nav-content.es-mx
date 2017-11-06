@@ -1,5 +1,5 @@
 ---
-title: "Usar la extensi√≥n C√≥digos postales de Reino Unido de GetAddress.io"
+title: "Usar la extensiÛn CÛdigos postales de Reino Unido de GetAddress.io"
 description: Puede recuperar direcciones de entidades como clientes, proveedores, empleados y bancos del Reino Unido desde el servicio GetAddress.io.
 documentationcenter: 
 author: bholtorf
@@ -19,21 +19,19 @@ ms.lasthandoff: 10/16/2017
 
 ---
 
-# <a name="the-getaddressio-uk-postcodes-extension-to-microsoft-dynamics-nav"></a>La extensi√≥n C√≥digos postales de Reino Unido de GetAddress.io para Microsoft Dynamics NAV
-La extensi√≥n C√≥digos postales de Reino Unido de GetAddress.io puede ahorrar tiempo y evitar errores al introducir las direcciones de entidades como clientes, proveedores, bancos y empleados. Por ejemplo, al crear un cliente, solo debe elegir un prefijo postal y [!INCLUDE[d365fin](includes/d365fin_md.md)] mostrar√° una lista de direcciones. Elija la direcci√≥n que desea y, ya est√°, los campos de direcci√≥n se rellenan.  
+# <a name="the-getaddressio-uk-postcodes-extension-to-microsoft-dynamics-nav"></a>La extensiÛn CÛdigos postales de Reino Unido de GetAddress.io para Microsoft Dynamics NAV
+La extensiÛn CÛdigos postales de Reino Unido de GetAddress.io puede ahorrar tiempo y evitar errores al introducir las direcciones de entidades como clientes, proveedores, bancos y empleados. Por ejemplo, al crear un cliente, solo debe elegir un prefijo postal y [!INCLUDE[d365fin](includes/d365fin_md.md)] mostrar· una lista de direcciones. Elija la direcciÛn que desea y, ya est·, los campos de direcciÛn se rellenan.  
 
-##<a name="to-use-the-getaddressio-uk-postcodes-extension-when-you-enter-an-address"></a>Para usa la C√≥digos postales de Reino Unido de GetAddress.io al introducir una direcci√≥n
-1. En **Direcci√≥n**, elija **Buscar direcci√≥n a partir del c√≥digo postal**.  
+##<a name="to-use-the-getaddressio-uk-postcodes-extension-when-you-enter-an-address"></a>Para usa la CÛdigos postales de Reino Unido de GetAddress.io al introducir una direcciÛn
+1. En **DirecciÛn**, elija **Buscar direcciÛn a partir del cÛdigo postal**.  
 
     > [!NOTE]  
->   La opci√≥n **Buscar direcci√≥n a partir del c√≥digo postal** solo est√° disponible si el campo **C√≥d. pa√≠s/regi√≥n** est√° vac√≠o o contiene **GB**.
-2. En la ventana **B√∫squeda de c√≥digo postal** , en el campo **C√≥digo postal**, introduzca o elija el c√≥digo postal.  
-3. En la ventana **Selecci√≥n de direcci√≥n**, elija la direcci√≥n.  
+>   La opciÛn **Buscar direcciÛn a partir del cÛdigo postal** solo est· disponible si el campo **CÛd. paÌs/regiÛn** est· vacÌo o contiene **GB**.
+2. En la ventana **B˙squeda de cÛdigo postal** , en el campo **CÛdigo postal**, introduzca o elija el cÛdigo postal.  
+3. En la ventana **SelecciÛn de direcciÛn**, elija la direcciÛn.  
 
 > [!TIP]  
->   Si sabe el n√∫mero de calle, puede filtrar las direcciones introducir el n√∫mero completo o parte de √©l en el campo **Punto de entrega**.
+>   Si sabe el n˙mero de calle, puede filtrar las direcciones introducir el n˙mero completo o parte de Èl en el campo **Punto de entrega**.
 
 
-## <a name="see-also"></a>Consulte tambi√©n
-[Configurar la extensi√≥n C√≥digos postales de Reino Unido de GetAddress.io](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)
 
