@@ -379,10 +379,4 @@
     <Node Name="" DisplayName="Detalles de diseño: Seguimiento de productos" Page="design-details-item-tracking.html"/>
     <Node Name="" DisplayName="Detalles de diseño: línea de registro en diario general" Page="design-details-general-journal-post-line.html"/>
   </Node>
-  <Node Name="" DisplayName="Funcionalidad local" Page="index.html">
-    <Node Name="" DisplayName="Canadá" Page="LocalFunctionality/Canada/canada-local-functionality.html"/>
-    <Node Name="" DisplayName="Dinamarca" Page="LocalFunctionality/Denmark/denmark-local-functionality.html"/>
-    <Node Name="" DisplayName="Gran Bretaña" Page="LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.html"/>
-    <Node Name="" DisplayName="Estados Unidos" Page="LocalFunctionality/UnitedStates/united-states-local-functionality.html"/>
-  </Node>
 </Node>
