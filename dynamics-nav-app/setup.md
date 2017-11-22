@@ -57,5 +57,3 @@ Algunas regiones requieren que sea el administrador en su suscripción [!INCLUDE
 [Configuración y administración de [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
 [[!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 
-##
-
