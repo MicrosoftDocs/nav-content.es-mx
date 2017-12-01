@@ -3,7 +3,7 @@ title: "Cómo planear pedido por pedido"
 description: "Esta tarea de planificación se puede realizar en la ventana **Programación de pedidos**, en la que se muestra toda la demanda nueva junto con información sobre disponibilidad y sugerencias de aprovisionamiento. Esta ventana proporciona la información y las herramientas necesarias para planificar de forma eficaz la demanda de las líneas de venta y las líneas de componentes y crear después directamente diferentes tipos de pedidos de suministros."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fcf12223ce5f2fa083c87da4886aed1c7040e4a7
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ab072cd0bae72b7fe3a7ca04c1dd8d00ce5ca5ba
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-plan-for-new-demand-order-by-order"></a><span data-ttu-id="0ad87-104">Procedimiento: Planear la nueva demanda de pedido por pedido</span><span class="sxs-lookup"><span data-stu-id="0ad87-104">How to: Plan for New Demand Order by Order</span></span>

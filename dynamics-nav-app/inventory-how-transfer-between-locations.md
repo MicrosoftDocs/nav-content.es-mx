@@ -3,7 +3,7 @@ title: Transferir productos entre almacenes
 description: "Describe cómo mover el inventario de un lugar o almacén a otro con el diario de reclasificación o con pedidos de transferencia."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: move, warehouse
 ms.date: 06/02/2017
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f2be3ef1613356bb2b0d1a02c355e09a546de62d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 06f7b6d5efdd895383be8bbed82a3e9f5f8e071e
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-transfer-inventory-between-locations"></a><span data-ttu-id="44734-103">Procedimiento: Transferir el inventario entre almacenes</span><span class="sxs-lookup"><span data-stu-id="44734-103">How to: Transfer Inventory Between Locations</span></span>

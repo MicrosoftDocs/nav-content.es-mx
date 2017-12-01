@@ -2,7 +2,7 @@
 title: Importar los datos empresariales heredados en Dynamics NAV
 description: Puede migrar datos para clientes, proveedores e inventario, por ejemplo, desde Excel, QuickBooks o Dynamics GP, a Dynamics NAV.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: migrate, initialize, implement
 ms.date: 09/25/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b19a05fba8a940dad4dcb6c8aebbefdcae67c324
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 70da22ec582083ec7d8fb4a6f5d5838acec6d0fb
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="importing-business-data-from-other-finance-systems"></a><span data-ttu-id="616a1-103">Importar datos de empresa de otros sistemas financieros</span><span class="sxs-lookup"><span data-stu-id="616a1-103">Importing Business Data from Other Finance Systems</span></span>

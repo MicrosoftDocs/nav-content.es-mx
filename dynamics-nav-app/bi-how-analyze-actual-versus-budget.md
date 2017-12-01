@@ -3,7 +3,7 @@ title: Analizar real frente a presupuesto
 description: "Describe cómo analizar los importes reales frente a los importes presupuestados."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 06/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a39f213e7e96423efe25bb715f4a1b4bb3c0258b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: da2cdce3ada29fff98ceb875414f750a8af51855
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-analyze-actual-amounts-versus-budgeted-amounts"></a><span data-ttu-id="e7fb7-103">Analizar los importes reales frente a los importes presupuestados</span><span class="sxs-lookup"><span data-stu-id="e7fb7-103">How to: Analyze Actual Amounts Versus Budgeted Amounts</span></span>

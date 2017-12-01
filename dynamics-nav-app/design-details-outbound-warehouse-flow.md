@@ -3,7 +3,7 @@ title: "Detalles de diseño: Flujo de salida del almacén"
 description: "El flujo de salida en el almacén comienza con una solicitud de los documentos de origen lanzados para sacar los productos del almacén, para enviarlos a una parte externa o a otra ubicación de la empresa. Desde el área de almacenamiento, las actividades de almacén se llevan a cabo en distintos niveles de complejidad para extraer productos de las dársenas de envío."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ee539eab52ab81720cc705be3840b725bc3ab502
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b7894d2da114e5b7a6a0b7ac2411beb91cb91048
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-outbound-warehouse-flow"></a><span data-ttu-id="cad4f-104">Detalles de diseño: Flujo de salida del almacén</span><span class="sxs-lookup"><span data-stu-id="cad4f-104">Design Details: Outbound Warehouse Flow</span></span>

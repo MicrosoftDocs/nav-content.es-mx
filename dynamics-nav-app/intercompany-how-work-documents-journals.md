@@ -3,7 +3,7 @@ title: Registrar documentos y diarios de empresas vinculadas
 description: Usar documentos de empresas vinculadas para registrar transacciones con empresas vinculadas asociadas.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: IC, group, consolidation, affiliate, subsidiary
 ms.date: 06/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 176c12271c55936e61235e3a726932aa02b29b74
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ef33c62e27396d183c4d9b52c49d7b3c5ec8a484
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-work-with-intercompany-documents-and-journals"></a><span data-ttu-id="4b763-103">Procedimiento: Usar documentos y diarios de empresas vinculadas</span><span class="sxs-lookup"><span data-stu-id="4b763-103">How to: Work with Intercompany Documents and Journals</span></span>

@@ -3,7 +3,7 @@ title: "Detalles de diseño: Flujos de almacén internos"
 description: "El flujo de productos entre las ubicaciones en una ubicación de empresa se centra en el picking de los componentes y en la ubicación de productos para los pedidos de ensamblado u órdenes de producción, y en los movimientos ad hoc, como reposiciones de ubicación, sin una relación con los documentos de origen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 2a58da6d3b8a651016c842c083f1954fad3fd7a1
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ee1a7aaa1c4b8cf2ce4c37e904cbe15e4faaea8a
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-internal-warehouse-flows"></a><span data-ttu-id="c26b7-103">Detalles de diseño: Flujos de almacén internos</span><span class="sxs-lookup"><span data-stu-id="c26b7-103">Design Details: Internal Warehouse Flows</span></span>

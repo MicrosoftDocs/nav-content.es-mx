@@ -3,7 +3,7 @@ title: "Mover componentes a un área de operaciones en configuraciones básicas 
 description: "Si el artículo que procesa las operaciones tiene lugar en su ubicación de almacén, puede tener que mover los artículos entre las ubicaciones internas para responder a los documentos de origen interno, como producción, ensamblado o pedidos de servicio en la ubicación."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c1ee0394b835827eee3394a4bea3171d9294208c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0b1f92f327ce76971b5d2efe6527f21d289942ab
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-move-components-to-an-operation-area-in-basic-warehouse-configurations"></a><span data-ttu-id="6c85b-103">Procedimiento: mueva componentes a un área de operaciones en configuraciones básicas de almacén</span><span class="sxs-lookup"><span data-stu-id="6c85b-103">How to: Move Components to an Operation Area in Basic Warehouse Configurations</span></span>

@@ -3,7 +3,7 @@ title: "Crear una orden de venta asociada a una orden de compra para un envío d
 description: "Describe cómo crear una orden de venta vinculada a una orden de compra para habilitar el envío directo del proveedor al cliente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: direct shipment
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6a8210808532ff8945660c23f0bf91719e2f2963
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6be69a96ad6df401b3fedf5e0b81df870a1eedfc
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-make-drop-shipments"></a><span data-ttu-id="fddfb-103">Procedimiento: Realizar envíos directos</span><span class="sxs-lookup"><span data-stu-id="fddfb-103">How to: Make Drop Shipments</span></span>

@@ -3,7 +3,7 @@ title: Planificar ubicaciones en hojas de trabajo
 description: "Si el almacén requiere los procesos de ubicación y recepción y desea planificar instrucciones de ubicación para varias recepciones, en vez de hacer que los empleados sigan las instrucciones que crea el sistema para recepciones registradas independientes, puede utilizar la hoja de trabajo de ubicación."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a868a1cb2e03d736aa6edb6ab9cb145efce79c11
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 645333d05b3c93526a1852271ded77812266c66c
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-plan-put-aways-in-worksheets"></a><span data-ttu-id="997d5-103">Procedimiento: planifique ubicaciones en hojas de trabajo</span><span class="sxs-lookup"><span data-stu-id="997d5-103">How to: Plan Put-aways in Worksheets</span></span>

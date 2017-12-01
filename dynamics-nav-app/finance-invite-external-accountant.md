@@ -2,7 +2,7 @@
 title: Agregar el contable externo a Dynamics NAV
 description: "Obtenga información sobre cómo puede invitar a su contable externo a Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: accountant, accounting
 ms.date: 09/05/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 856a95b929ca4fc419178c180bb8138e7f37ab61
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 5b0921c0f922136f7bcac5ae0cad93dd96f07c36
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="inviting-your-external-accountant-to-your-included365finincludesd365finmdmd"></a><span data-ttu-id="ee398-103">Invitación del contable externo a [!INCLUDE[d365fin](includes/d365fin_md.md)]</span><span class="sxs-lookup"><span data-stu-id="ee398-103">Inviting Your External Accountant to Your [!INCLUDE[d365fin](includes/d365fin_md.md)]</span></span>

@@ -3,7 +3,7 @@ title: Tolerancia de pago y tolerancia de descuento por pronto pago
 description: Puede configurar la tolerancia de pago para cerrar una factura cuando el pago no cubre totalmente el importe de la factura.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/10/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1cd3d0ea7e1543707dbc197eec02d0691dd8e42c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 3ca90dff771ff7075077e1a1e6aaf2655a248f5c
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-work-with-payment-tolerances-and-payment-discount-tolerances"></a><span data-ttu-id="12928-103">Trabajar con tolerancias de pago y tolerancias de descuento de pago</span><span class="sxs-lookup"><span data-stu-id="12928-103">How to: Work with Payment Tolerances and Payment Discount Tolerances</span></span>

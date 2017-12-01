@@ -3,7 +3,7 @@ title: "Tutorial: recepción y ubicación en la configuración del almacenamient
 description: "En [!INCLUDE[d365fin](includes/d365fin_md.md)], los procesos de entrada para la recepción y la ubicación se pueden realizar de cuatro maneras utilizando distintas funciones según el nivel de complejidad del almacén."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 0a540f5813ed67ee62e43390d6d11b7c3a137f13
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 911b93b922b2e8ec8590e69d68503d8a54ee41f9
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="walkthrough-receiving-and-putting-away-in-basic-warehouse-configurations"></a><span data-ttu-id="e41ba-103">Tutorial: recepción y ubicación en la configuración del almacenamiento básico</span><span class="sxs-lookup"><span data-stu-id="e41ba-103">Walkthrough: Receiving and Putting Away in Basic Warehouse Configurations</span></span>

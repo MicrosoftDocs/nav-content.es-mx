@@ -3,7 +3,7 @@ title: "Cómo registrar el consumo y la salida de una orden de producción"
 description: "Esta tarea de ejecución se realiza en la ventana **Diario de producción**. El diario combina las funciones del diario de consumo y de los diarios de salida en un único diario, al que se tiene acceso directamente desde una orden de producción lanzada. La finalidad principal de este diario es registrar manualmente el consumo de componentes, la cantidad de los productos finales fabricados y el tiempo empleado en las operaciones. Su finalidad principal es registrar manualmente el consumo de componentes, la cantidad de productos finales fabricados y el tiempo dedicado a las operaciones."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e912412475c8b62404d7c417b9ae3ebbddeb9a17
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c00642bd9dca7c41971c4a7068b8f603a6e6a2b9
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-register-consumption-and-output-for-one-released-production-order-line"></a><span data-ttu-id="96baf-106">Cómo registrar el consumo y la salida de una línea de orden de producción lanzada</span><span class="sxs-lookup"><span data-stu-id="96baf-106">How to: Register Consumption and Output for One Released Production order line</span></span>

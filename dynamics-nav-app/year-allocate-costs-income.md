@@ -3,7 +3,7 @@ title: Resumen de tareas para asignar costos e ingresos
 description: Describe las tareas para asignar un movimiento en un diario general a varias cuentas diferentes al registrar el diario.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 06/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fdb03090dc9ba024d84a175e313f7d530bd0feae
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e7d6aed9a57bb2ddd20cb45fd4d68ec0a30eb61a
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-allocate-costs-and-income"></a><span data-ttu-id="f6567-103">Asignar costes e ingresos.</span><span class="sxs-lookup"><span data-stu-id="f6567-103">How to: Allocate Costs and Income</span></span>

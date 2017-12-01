@@ -2,7 +2,7 @@
 title: Procedimiento para configurar el impuesto sobre las ventas no realizado y los descuentos por pago de ventas
 description: "Puede usar la ventana **Configuración de contabilidad** para configurar el impuesto sobre las ventas no realizado. También puede configurar importes máximos de corrección de impuestos para limitar los importes de corrección de impuestos que se introducen en concepto de ventas y compras. Esto le permite sobrescribir el impuesto calculado cuando existen diferencias de redondeo entre lo calculado en la orden de compra y lo calculado en la factura de compra del proveedor."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/11/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: e636f8269e80c68222eb93d19c712a764fc810b8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c93fd69e0d11a44481396a319add18d3139d7415
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-unrealized-sales-tax-and-sales-payment-discounts"></a><span data-ttu-id="6b17e-105">Procedimiento: Configurar el impuesto sobre las ventas no realizado y los descuentos por pago de ventas</span><span class="sxs-lookup"><span data-stu-id="6b17e-105">How to: Set Up Unrealized Sales Tax and Sales Payment Discounts</span></span>

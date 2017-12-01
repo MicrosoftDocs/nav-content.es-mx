@@ -3,7 +3,7 @@ title: "Conservar una diseño de informe actualizado"
 description: "Es posible que necesite actualizar un diseño de informe personalizado que se use en un informe. Esto es necesario cuando ha habido un cambio de diseño en el conjunto de datos del informe, por ejemplo, si se elimina un campo que se utiliza en el diseño."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ca0bb5b30a6fded7f36f1380c5d73edb3f0a4ff0
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 09d0a665894363577f59dd97b49a7736ad700153
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="updating-report-or-document-layouts"></a><span data-ttu-id="66197-104">Actualizar diseños de informes o documentos</span><span class="sxs-lookup"><span data-stu-id="66197-104">Updating Report or Document Layouts</span></span>

@@ -3,7 +3,7 @@ title: "Ubicar la producción"
 description: "La forma de ubicar la salida de su producción depende de cómo esté configurado el almacén."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1e553752c9479ccb6b8528f47c2b63b410591c3c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 5faec4f910488ff97c1e30fb91d3c435295d8297
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-put-away-production-or-assembly-output"></a><span data-ttu-id="c22e8-103">Cómo ubicar la salida de producción o la salida de ensamblado</span><span class="sxs-lookup"><span data-stu-id="c22e8-103">How to: Put Away Production or Assembly Output</span></span>

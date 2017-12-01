@@ -3,7 +3,7 @@ title: Realizar un seguimiento de los segmentos y las interacciones relacionadas
 description: "Obtenga información sobre cómo crear segmentos para definir grupos de contactos y especificar interacciones para los segmentos."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b4fb4abfdfe69856d0e26e20d30f3adcaf2fd665
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0d5fbfa252b7592645baa7de9f2e840b37292aca
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-interactions-for-segments"></a><span data-ttu-id="b5ba1-103">Administrar interacciones para segmentos</span><span class="sxs-lookup"><span data-stu-id="b5ba1-103">Managing Interactions for Segments</span></span>

@@ -3,7 +3,7 @@ title: "Procedimiento: configurar origen y destinos de asignación"
 description: "Cada asignación está formada por un origen de asignación y uno o varios destinos de asignación. El origen de asignación define qué costos se asignarán. Los destinos de asignación determinan dónde se deben asignar los costos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 91adabefc3e0b4a69b24b34a084f89c17711d573
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7cdd86bb69ae0986a52c33d6b4e48814d7c75de3
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-allocation-source-and-targets"></a><span data-ttu-id="c35ed-105">Procedimiento: configurar origen y destinos de asignación</span><span class="sxs-lookup"><span data-stu-id="c35ed-105">How to: Set Up Allocation Source and Targets</span></span>

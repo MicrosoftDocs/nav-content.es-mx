@@ -3,7 +3,7 @@ title: "Métodos WIP para calcular y registrar el progreso del proyecto"
 description: "Describe los distintos métodos de trabajo en proceso (WIP) que puede utilizar para registrar, supervisar y calcular la información financiera de los proyectos en curso."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: work in process, work in progress, calculate project WIP
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4a472d7a45cacfe4cd2534747f447a1e4ca7a303
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e9595d17f00d257f96bc1c31f48e97b3c4a2a3d2
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="understanding-wip-methods"></a><span data-ttu-id="8f63f-103">Comprensión de los métodos WIP</span><span class="sxs-lookup"><span data-stu-id="8f63f-103">Understanding WIP Methods</span></span>

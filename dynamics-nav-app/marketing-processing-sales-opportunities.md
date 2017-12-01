@@ -3,7 +3,7 @@ title: Procesar oportunidades de ventas en ciclos de ventas
 description: "Puede ver, cerrar o eliminar oportunidades de ventas, así como crear cotizaciones y órdenes de venta para oportunidades, y mover una oportunidad por las etapas de un ciclo de ventas."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9fe0bd97f7493d9acf4ab99a771fd5f6219027f8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b626047e997363b15f7a322f37b544e04993def2
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-process-sales-opportunities"></a><span data-ttu-id="f6633-103">Procesar oportunidades de ventas</span><span class="sxs-lookup"><span data-stu-id="f6633-103">How to: Process Sales Opportunities</span></span>

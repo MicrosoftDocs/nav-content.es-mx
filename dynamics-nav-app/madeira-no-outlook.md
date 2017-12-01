@@ -3,7 +3,7 @@ title: Usar Dynamics NAV sin Outlook
 description: "Puede utilizar Dynamics NAV como su bandeja de entrada de empresa en Outlook porque está integrado con Office 365, sin embargo, también puede trabajar sin Outlook en un navegador o en su dispositivo móvil."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: SMTP, mail, Office 365
 ms.date: 0602/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 57e0f660dc2acb67e89db706857aa154f9ae9682
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9f80e6790a672957dca9e22a57d5b9b5e3b37430
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="using-dynamics-nav-without-outlook"></a><span data-ttu-id="f041d-103">Usar Dynamics NAV sin Outlook</span><span class="sxs-lookup"><span data-stu-id="f041d-103">Using Dynamics NAV without Outlook</span></span>

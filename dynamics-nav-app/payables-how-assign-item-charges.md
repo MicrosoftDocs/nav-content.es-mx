@@ -3,7 +3,7 @@ title: Asignar cargos de producto a ventas y compras
 description: "Si desea que sus productos de inventario carguen costes adicionales, tales como fletes, manipulación física, seguros y transporte en los que incurra al comprar o vender artículos, puede usar la función Gastos de productos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: transportation, added cost
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f5eebe7d1837657771d4f3004627be716d4d51bc
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 61de0751c1f46349cf876e6aa978fe755d4da83c
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-use-item-charges-to-account-for-additional-trade-costs"></a><span data-ttu-id="ea315-103">Utilizar los cargos de producto a cuenta para los costes comerciales adicionales</span><span class="sxs-lookup"><span data-stu-id="ea315-103">How to: Use Item Charges to Account for Additional Trade Costs</span></span>

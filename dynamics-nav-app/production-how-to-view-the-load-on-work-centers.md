@@ -3,7 +3,7 @@ title: "Cómo configurar la vista de carga en centros de trabajo y de máquina"
 description: "En la ficha **Centro de trabajo**, puede consultar la carga en los centros de trabajo como resultado de órdenes de producción lanzadas."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ea300354c15e9812d4c316d627336e5f3f308487
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7ddbc81f7bc92fde90954eb86c57bf7d7b4730dd
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-view-load-on-work-and-machine-centers"></a><span data-ttu-id="bf4c4-103">Cómo configurar la vista de carga en centros de trabajo y de máquina</span><span class="sxs-lookup"><span data-stu-id="bf4c4-103">How to: View Load on Work and Machine Centers</span></span>

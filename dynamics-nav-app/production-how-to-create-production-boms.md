@@ -3,7 +3,7 @@ title: "Creación de L.M. de producción"
 description: "Una L.M. de producción contiene los datos maestros que describen los componentes y los productos semiterminados utilizados en la fabricación de un producto principal. Una vez creada la orden de producción para el producto principal, la L.M. de producción controlará el cálculo de las necesidades de material tal como se representan en la ventana **Componentes orden producción**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/05/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 122bc1fa0b259e4d80ad134b94abcdc4d2d96640
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 790a0fa6fb3fc023b6fc0580dd6ed124ccec092c
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-production-boms"></a><span data-ttu-id="14bed-104">Creación de L.M. de producción</span><span class="sxs-lookup"><span data-stu-id="14bed-104">How to: Create Production BOMs</span></span>

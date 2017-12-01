@@ -3,7 +3,7 @@ title: "Procedimiento para combinar envíos en una factura única"
 description: "Si desea facturar varios envíos a la vez, utilice la función de agrupación de envíos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/14/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 804667ba690506f78af38cf1a89f3490d1721062
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: abce7ea2dcc1127cab802899611495680b986add
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-combine-shipments-on-a-single-invoice"></a><span data-ttu-id="932f5-103">Procedimiento: Agrupamiento de envíos en una factura única</span><span class="sxs-lookup"><span data-stu-id="932f5-103">How to: Combine Shipments on a Single Invoice</span></span>

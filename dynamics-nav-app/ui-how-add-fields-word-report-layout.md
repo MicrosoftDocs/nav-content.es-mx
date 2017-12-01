@@ -3,7 +3,7 @@ title: "Agregar campos a un diseño de informe de Word"
 description: "Describe cómo agregar campos de un conjunto de datos de informe a un diseño de informe de Word para un informe."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1085c5390cf6f20cc2bd5c2a95057e6499dbac8c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 46ad570e2f7f208c374e50e666da0043f02a3438
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-add-fields-to-a-word-report-layout"></a><span data-ttu-id="0f72d-103">Agregar campos a un diseño de informe de Word</span><span class="sxs-lookup"><span data-stu-id="0f72d-103">How to: Add Fields to a Word Report Layout</span></span>

@@ -3,7 +3,7 @@ title: Mantener activos fijos
 description: Puede llevar un registro de mantenimiento de las reparaciones y el servicio de un activo fijo.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: repair, service
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c43ed582294a5f77408e076a13d3cd07eb9f4d0f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1be0129888f60c6fbf795ec36ef88375cff26278
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-maintain-fixed-assets"></a><span data-ttu-id="3cf84-103">Procedimiento: Mantener activos fijos</span><span class="sxs-lookup"><span data-stu-id="3cf84-103">How to: Maintain Fixed Assets</span></span>

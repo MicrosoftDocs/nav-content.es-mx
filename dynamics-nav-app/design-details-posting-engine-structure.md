@@ -3,7 +3,7 @@ title: "Detalles de diseño: estructura de motor de registro"
 description: "La interfaz de registro y otras funciones en la unidad de código 12 utilizan funciones de motor de registro para preparar e insertar movimientos de contabilidad y registros de movimientos de IVA. El motor de registro también es responsable de la creación del registro de contabilidad."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 2a0c90fde23b708c3de8365f7211e66bee615cb1
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 32fe00c75ce8b9be994c0fa1d257dcfc086ef925
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-posting-engine-structure"></a><span data-ttu-id="0653c-104">Detalles de diseño: estructura de motor de registro</span><span class="sxs-lookup"><span data-stu-id="0653c-104">Design Details: Posting Engine Structure</span></span>

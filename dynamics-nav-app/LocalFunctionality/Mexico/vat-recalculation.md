@@ -3,7 +3,7 @@ title: "Nuevo cálculo de IVA"
 description: "Cuando un cliente efectúa un pago en divisa extranjera, se debe volver a calcular el IVA con el tipo de cambio vigente al momento del pago de la factura."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 90e12db622ab92eba58dd69d5989b2d8ee705f7c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9339ddd160a3b4f0bb6f4768a36b39124f039716
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="vat-recalculation"></a><span data-ttu-id="4b178-103">Nuevo cálculo de IVA</span><span class="sxs-lookup"><span data-stu-id="4b178-103">VAT Recalculation</span></span>

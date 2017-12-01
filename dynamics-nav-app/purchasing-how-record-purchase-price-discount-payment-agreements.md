@@ -3,7 +3,7 @@ title: Configurar precios y descuentos especiales y alternativos para proveedore
 description: Puede definir precios y acuerdos de descuentos distintos o alternativos, y aplicarlos a los documentos de compra para proveedores.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: special price, alternate price, pricing
 ms.date: 07/03/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: cc4240ea4201bd68b3c2c9c27ab91dc49583e6a6
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ea66ef594dfc9637cc6e187d71b2d3d31b299306
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-record-special-purchase-prices-and-discounts"></a><span data-ttu-id="4e3c8-103">Registrar precios y descuentos de compra especiales</span><span class="sxs-lookup"><span data-stu-id="4e3c8-103">How to: Record Special Purchase Prices and Discounts</span></span>

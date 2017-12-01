@@ -3,7 +3,7 @@ title: 'Procedimiento: reestructure los almacenes'
 description: "Es posible que desee volver a estructurar el almacén con nuevos códigos y características de ubicación."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 852aa1a36b150d13d763e2c398265b9eaec5c3ea
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d75fb8d9a1929b661a99fad3abb400814eb801b1
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-restructure-warehouses"></a><span data-ttu-id="c6c65-103">Procedimiento: reestructure los almacenes</span><span class="sxs-lookup"><span data-stu-id="c6c65-103">How to: Restructure Warehouses</span></span>

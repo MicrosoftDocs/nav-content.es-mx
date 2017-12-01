@@ -2,7 +2,7 @@
 title: "Procedimientos recomendados de configuración: parámetros de la planificación"
 description: "La ficha desplegable **Planificación** de la ficha de producto es el centro de la cadena de suministro de una empresa. La configuración de los parámetros correctos de planificación es muy importante para un control de inventario rentable y un servicio al cliente superior."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8ea9ceaffa7a82405c43783d2a22f0b81ec4600d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 528b46ca66b17e07341e0fe8995acebd7ea14aa9
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setup-best-practices-planning-parameters"></a><span data-ttu-id="bca8c-104">Procedimientos recomendados de configuración: parámetros de la planificación</span><span class="sxs-lookup"><span data-stu-id="bca8c-104">Setup Best Practices: Planning Parameters</span></span>

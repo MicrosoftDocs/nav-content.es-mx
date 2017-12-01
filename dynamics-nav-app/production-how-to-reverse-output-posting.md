@@ -3,7 +3,7 @@ title: 'Procedimiento: Revierta un registro de salida'
 description: "En ciertas ocasiones es necesario revertir el registro de la salida. Por ejemplo, si se ha cometido un error en la introducción de los datos y se ha registrado una cantidad de salida incorrecta en una orden de producción."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 21eda3d822ca162b2d97f34eddc21f745e34f561
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fab5b0a19467422736cda25fc4c087655dff532a
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-reverse-output-posting"></a><span data-ttu-id="ad4b0-104">Procedimiento: Revierta un registro de salida</span><span class="sxs-lookup"><span data-stu-id="ad4b0-104">How to: Reverse Output Posting</span></span>

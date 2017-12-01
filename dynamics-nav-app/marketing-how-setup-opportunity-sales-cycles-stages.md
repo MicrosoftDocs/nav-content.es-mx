@@ -3,7 +3,7 @@ title: Configurar ciclos de ventas de oportunidad y etapas de ciclo
 description: "Describe cómo definir etapas de venta, desde el contacto inicial hasta el cierre, para crear un ciclo de venta y asignarlo a las oportunidades en Dynamics NAV."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 547e24b87fcd643406f1aa9cbde9bf85c44cae71
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2b3ca99ed398462caf1dda4f832dacbca783a709
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-opportunity-sales-cycles-and-cycle-stages"></a><span data-ttu-id="e9ed6-103">Procedimiento: Configurar etapas y ciclos de ventas de oportunidad</span><span class="sxs-lookup"><span data-stu-id="e9ed6-103">How to: Set Up Opportunity Sales Cycles and Cycle Stages</span></span>

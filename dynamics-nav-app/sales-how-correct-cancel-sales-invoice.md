@@ -3,7 +3,7 @@ title: Corregir o cancelar una factura de venta registrada
 description: "Describe cómo, corregir deshacer o cancelar una factura de venta registrada y aplicar una nota de crédito de venta."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: undo, credit memo, return
 ms.date: 08/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: dcf67c1506b402c725cb98795d37c206abcca57e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 72f197a4830e0a255feb0a59f2a22a2b6cffac2f
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-correct-or-cancel-unpaid-sales-invoices"></a><span data-ttu-id="06197-103">Corrección o cancelación de facturas de venta sin abonar</span><span class="sxs-lookup"><span data-stu-id="06197-103">How to: Correct or Cancel Unpaid Sales Invoices</span></span>

@@ -3,7 +3,7 @@ title: "Ver y editar la configuración básica en Dynamics NAV"
 description: "Obtenga información sobre cómo cambiar algunos de los valores básicos en Dynamics NAV, por ejemplo, el área de tareas, la empresa o la fecha de trabajo."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: change Role Center, notification, change company, change wor
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: cf5a74cea6d7906845a0e087576ab090c319f297
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 912cebf3d2ce2f97f29bd45f4b7176e15b10ea1a
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="changing-basic-settings"></a><span data-ttu-id="b82c8-103">Cambiar la configuración básica</span><span class="sxs-lookup"><span data-stu-id="b82c8-103">Changing Basic Settings</span></span>

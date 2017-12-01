@@ -3,7 +3,7 @@ title: "Procedimiento: Utilice la unidad de medida de lote de fabricación"
 description: "Si un producto se almacena en una unidad de medida pero se fabrica en otra distinta, en la orden de producción debe usar una unidad de medida de lote de fabricación para calcular la cantidad correcta de componentes. Un ejemplo del cálculo de una unidad de medida de la sección de fabricación es el caso en que un producto fabricado se almacena por piezas pero se produce en toneladas."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/14/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: cf0c91b076f473c12e61ce82d870a66e352c1920
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 50f3312015789ddd70e7b65594148342b9fef664
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-work-with-manufacturing-batch-units-of-measure"></a><span data-ttu-id="5ed8b-104">Procedimiento: Trabajar con unidades de medida de lote de fabricación</span><span class="sxs-lookup"><span data-stu-id="5ed8b-104">How to: Work with Manufacturing Batch Units of Measure</span></span>

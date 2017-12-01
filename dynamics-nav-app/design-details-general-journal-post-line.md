@@ -3,7 +3,7 @@ title: "Detalles de diseño: línea de registro en diario general"
 description: "En este tema se proporciona información técnica detallada de los conceptos y los principios que se usan para rediseñar la función de línea de registro en el diario general en [!INCLUDE[d365fin](includes/d365fin_md.md)]."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, general journal, posting, codeunit 12
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f6fd873a34e40b7f795c8f8f687bf3f198f437b5
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: eee659ced471969fa0c5a4e453a0fec63d080204
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-general-journal-post-line"></a><span data-ttu-id="3ca94-103">Detalles de diseño: línea de registro en diario general</span><span class="sxs-lookup"><span data-stu-id="3ca94-103">Design Details: General Journal Post Line</span></span>

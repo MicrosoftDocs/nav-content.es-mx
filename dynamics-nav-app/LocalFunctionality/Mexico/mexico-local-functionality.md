@@ -3,7 +3,7 @@ title: "Funcionalidad local de México"
 description: "En los temas siguientes se describe la funcionalidad local en la versión mexicana de [!INCLUDE[navnow](../../includes/navnow_md.md)]."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 71e9bd1c35e2f923574b5084ee65ef6bce0cc64c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a9ddf8966268c00265090f1c5f3e527f33c758df
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="mexico-local-functionality"></a><span data-ttu-id="fe7f8-103">Funcionalidad local de México</span><span class="sxs-lookup"><span data-stu-id="fe7f8-103">Mexico Local Functionality</span></span>

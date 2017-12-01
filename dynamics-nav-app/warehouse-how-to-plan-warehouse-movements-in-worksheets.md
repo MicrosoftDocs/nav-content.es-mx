@@ -3,7 +3,7 @@ title: "Planificar movimientos de almacén en hojas de trabajo"
 description: "Planifique los movimientos en la hoja de trabajo con una función de reposición de ubicación o manualmente mediante la planificación de las líneas que desea crear como instrucciones de movimiento."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fcf44a681e597df1bd50e94e851810fa00656a96
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9d66f9bdf18d2cec264788510261ba8f2c3860ad
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-plan-warehouse-movements-in-worksheets"></a><span data-ttu-id="f7f29-103">Procedimiento: planifique movimientos de almacén en hojas de trabajo</span><span class="sxs-lookup"><span data-stu-id="f7f29-103">How to: Plan Warehouse Movements in Worksheets</span></span>

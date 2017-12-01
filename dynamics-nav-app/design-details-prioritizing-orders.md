@@ -3,7 +3,7 @@ title: "Detalles de diseño: Prioridad de pedidos"
 description: "Leer información sobre cómo dar prioridad para satisfacer los requisitos de demanda y oferta."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, priority, prioritize, order, sku, demand, supply
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c01ad1bb74e01ff81f35159865eddf14e9a34910
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: cf38aa12bca1b1f52073f3febd95a0a0b24d4ef6
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-prioritizing-orders"></a><span data-ttu-id="fb0fc-103">Detalles de diseño: Prioridad de pedidos</span><span class="sxs-lookup"><span data-stu-id="fb0fc-103">Design Details: Prioritizing Orders</span></span>

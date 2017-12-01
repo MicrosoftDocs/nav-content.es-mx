@@ -3,7 +3,7 @@ title: "Detalles de diseño: Componentes de costo"
 description: Los componentes del costo son distintos tipos de costos que conforman el valor de una entrada o una salida de inventario.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 2971e080c0acd47bff6d7ba6f21e1a366a6de5e8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 344cb19da328eeec26cc63486fb4842b50fca304
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-cost-components"></a><span data-ttu-id="61af7-103">Detalles de diseño: Componentes de costo</span><span class="sxs-lookup"><span data-stu-id="61af7-103">Design Details: Cost Components</span></span>

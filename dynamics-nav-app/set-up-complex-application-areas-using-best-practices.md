@@ -3,7 +3,7 @@ title: "Configurar áreas de aplicación complejas mediante procedimientos recom
 description: "Es importante introducir los valores de configuración correctos desde el principio para el éxito de cualquier nuevo software de negocio."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9f27ab9e6ffcd3f3f774bb9efae180e013021756
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e2ddb935735c81b623a84cbf42e550cb3d501465
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="set-up-complex-application-areas-using-best-practices"></a><span data-ttu-id="e8e38-103">Configurar áreas de aplicación complejas mediante procedimientos recomendados</span><span class="sxs-lookup"><span data-stu-id="e8e38-103">Set Up Complex Application Areas Using Best Practices</span></span>

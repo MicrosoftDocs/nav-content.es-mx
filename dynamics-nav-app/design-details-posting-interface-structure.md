@@ -3,7 +3,7 @@ title: "Detalles de diseño: estructura de interfaz de registro"
 description: Este tema proporciona un resumen de los procedimientos globales en la estructura de la interfaz de registro.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: posting, interface, design
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: cc5efca8087bc24ab988ae592a9ba60e4caf46bb
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e262cb3f6464942f6e123d8545ec4fd8d386190b
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-posting-interface-structure"></a><span data-ttu-id="e8c32-103">Detalles de diseño: estructura de interfaz de registro</span><span class="sxs-lookup"><span data-stu-id="e8c32-103">Design Details: Posting Interface Structure</span></span>

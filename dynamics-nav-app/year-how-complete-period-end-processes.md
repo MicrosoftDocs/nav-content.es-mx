@@ -3,7 +3,7 @@ title: Actividades opcionales para periodos de cierre
 description: En este tema se describen los procesos y las actividades opcionales para cerrar periodos contables en Dynamics NAV.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ag
 ms.date: 06/19/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ca22e72552c69d3bcb0b85101b586796ff026896
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2d6754559e35ab1765bd34704a975dce0575c108
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="overview-of-tasks-to-close-accounting-periods"></a><span data-ttu-id="b8e7b-103">Resumen de tareas para cerrar periodos contables</span><span class="sxs-lookup"><span data-stu-id="b8e7b-103">Overview of Tasks to Close Accounting Periods</span></span>
