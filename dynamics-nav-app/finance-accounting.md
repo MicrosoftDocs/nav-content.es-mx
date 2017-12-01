@@ -2,7 +2,7 @@
 title: Experiencia contable en Dynamics NAV
 description: "Obtenga más información sobre el portal para contadores de Dynamics NAV y el Área de tareas Contador que admite contadores internos y externos en la empresa cliente."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Detalles de diseño: Valuación de Inventarios"
 description: "La valuación de inventarios \"Valuación de inventarios\" es la determinación del costo que se asigna a un producto de inventario, tal como expresa la ecuación siguiente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

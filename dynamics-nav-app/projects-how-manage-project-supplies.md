@@ -3,7 +3,7 @@ title: Comprar productos o servicios para un proyecto y administrar suministros
 description: "Describe cómo administrar el suministro y la compra de materiales y de servicios para los proyectos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

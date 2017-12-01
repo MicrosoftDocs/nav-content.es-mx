@@ -3,7 +3,7 @@ title: "Organizar los productos en categorías"
 description: "Como ayuda para buscar y encontrar productos, puede asignar atributos de producto y organizar los productos en categorías."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

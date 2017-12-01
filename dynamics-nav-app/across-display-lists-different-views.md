@@ -3,7 +3,7 @@ title: Ajustar la cantidad de detalle que se ve en las listas
 description: "Puede mostrar listas en vistas detalladas que proporcionen más información o como mosaicos que sean fáciles de analizar visualmente."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

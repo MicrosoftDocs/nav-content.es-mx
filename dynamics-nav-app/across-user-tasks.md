@@ -2,7 +2,7 @@
 title: Asignar y gestionar tareas
 description: "Obtener información sobre cómo asignar tareas a los usuarios, incluido su contable, en Dynamics NAV"
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

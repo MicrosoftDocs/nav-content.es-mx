@@ -2,7 +2,7 @@
 title: "Recibir y convertir documentos electrónicos"
 description: "Puede recibir documentos electrónicos directamente desde sus socios colaboradores o desde un servicio de OCR."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

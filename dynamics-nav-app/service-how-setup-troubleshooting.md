@@ -3,7 +3,7 @@ title: "Configurar detección errores"
 description: Aprenda a configurar procesos que ayuden a los representantes de servicio a identificar y resolver problemas con productos de servicio.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

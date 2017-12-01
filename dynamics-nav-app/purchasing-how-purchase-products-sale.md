@@ -3,7 +3,7 @@ title: Crear una factura de compra a partir de una factura de venta para comprar
 description: A partir de una factura de venta, para comprar productos, puede crear una factura de compra de un proveedor.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

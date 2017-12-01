@@ -3,7 +3,7 @@ title: "Terminología en contabilidad de costos"
 description: "Este tema define los términos clave que se utilizan en contabilidad de costos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

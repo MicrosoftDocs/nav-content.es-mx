@@ -3,7 +3,7 @@ title: Usar diarios generales para registrar directamente en C/G
 description: "Obtenga información sobre el uso de diarios generales para registrar transacciones financieras en cuentas generales y otras cuentas, como cuentas bancarias y de proveedor."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

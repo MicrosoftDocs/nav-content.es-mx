@@ -3,7 +3,7 @@ title: "Definir los códigos de relaciones de negocio en contactos"
 description: Utilice las relaciones de negocio en Dynamics NAV como ayuda con el marketing y para indicar las relaciones de ese tipo con los clientes potenciales y los clientes, por ejemplo, un banco o un proveedor de servicios.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

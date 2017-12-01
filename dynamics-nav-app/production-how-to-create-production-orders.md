@@ -3,7 +3,7 @@ title: "Creación de cabeceras de orden de producción"
 description: "Puede crear una orden de producción manualmente, y el primer paso es crear la cabecera."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

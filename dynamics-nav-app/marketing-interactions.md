@@ -3,7 +3,7 @@ title: "Gestión de las interacciones con los contactos"
 description: "Puede administrar todos los tipos de comunicaciones o interacciones entre su empresa y sus contactos; por ejemplo, cartas, llamadas de teléfono, reuniones, etc."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

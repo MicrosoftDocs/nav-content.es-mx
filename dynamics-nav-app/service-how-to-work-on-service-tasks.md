@@ -3,7 +3,7 @@ title: Trabajar en tareas de servicio
 description: "Una vez que haya creado un pedido o cotización de servicio, registrado líneas de producto de servicio y asignado recursos a los productos de servicio del pedido o cotización, podrá empezar a reparar y mantener los productos de servicio."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

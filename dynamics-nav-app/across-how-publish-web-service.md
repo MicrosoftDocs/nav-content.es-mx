@@ -2,7 +2,7 @@
 title: Exponga los objetos como servicios Web
 description: "Publique [!INCLUDE[d365fin](includes/d365fin_md.md)] los objetos como servicios Web, están inmediatamente disponibles en la red."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

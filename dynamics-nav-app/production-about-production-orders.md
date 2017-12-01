@@ -3,7 +3,7 @@ title: "Sobre los pedidos de producción"
 description: "Las órdenes de producción se usan para gestionar la conversión de los materiales adquiridos en productos manufacturados. Las órdenes de producción (solicitudes de proyecto o de trabajo) dirigen el trabajo por las distintas instalaciones (centros de trabajo o de máquina) de la planta."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

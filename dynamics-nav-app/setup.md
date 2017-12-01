@@ -2,7 +2,7 @@
 title: Resumen de tareas para configurar Dynamics NAV
 description: "Describe las tareas para preparar, inicializar y configurar Dynamics NAV según sus necesidades."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

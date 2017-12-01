@@ -3,7 +3,7 @@ title: Analizar real frente a presupuesto
 description: "Describe cómo analizar los importes reales frente a los importes presupuestados."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

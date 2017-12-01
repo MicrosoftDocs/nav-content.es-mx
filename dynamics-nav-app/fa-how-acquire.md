@@ -3,7 +3,7 @@ title: Activos fijos adquiridos
 description: "Puede configurar un activo fijo, asignar un libro de amortización y registrar el costo de adquisición del activo fijo."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

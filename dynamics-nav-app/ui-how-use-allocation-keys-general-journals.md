@@ -3,7 +3,7 @@ title: "Procedimiento: utilizar claves de asignación en diarios generales "
 description: "Obtenga infraestructura sobre cómo puede usar las claves de asignación en diarios."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: Asignar permisos de usuario y crear o modifican conjuntos de permisos
 description: "Describe cómo agregar usuarios de Office 365 a Dynamics NAV y asignarles permisos, derechos de acceso y opciones de seguridad."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

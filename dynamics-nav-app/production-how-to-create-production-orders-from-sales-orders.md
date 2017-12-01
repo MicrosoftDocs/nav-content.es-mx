@@ -3,7 +3,7 @@ title: "Creación de órdenes de producción desde pedidos de venta"
 description: "Puede crear órdenes de producción a partir de pedidos de venta en el departamento Ventas y Marketing."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

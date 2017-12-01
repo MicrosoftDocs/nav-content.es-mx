@@ -2,7 +2,7 @@
 title: "Procedimiento para administrar información de crédito de los clientes"
 description: "En [!INCLUDE[navnow](../../includes/navnow_md.md)], puede agregar comentarios a la información crediticia de los clientes. También puede retener y bloquear clientes que tengan malos antecedentes crediticios antes de realizar el envío o la facturación."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

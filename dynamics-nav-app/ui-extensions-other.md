@@ -3,7 +3,7 @@ title: Extensiones para Dynamics NAV proporcionadas para otras empresas
 description: Enumera las aplicaciones y las extensiones para personalizar Dynamics NAV finanzas proporcionados por otras empresas.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

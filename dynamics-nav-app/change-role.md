@@ -3,7 +3,7 @@ title: "Cambiar el área de tareas"
 description: "Puede seleccionar otro perfil en Dynamics NAV para cambiar lo que ve en su la página Inicio."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

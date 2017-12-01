@@ -3,7 +3,7 @@ title: "Configurar una campaña de marketing en Dynamics NAV"
 description: "Describe cómo puede configurar y llevar a cabo campañas de marketing en Dynamics NAV para ayudarle a identificar, atraer y conservar a los clientes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

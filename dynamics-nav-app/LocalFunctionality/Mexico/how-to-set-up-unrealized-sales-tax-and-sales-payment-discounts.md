@@ -2,7 +2,7 @@
 title: Procedimiento para configurar el impuesto sobre las ventas no realizado y los descuentos por pago de ventas
 description: "Puede usar la ventana **Configuración de contabilidad** para configurar el impuesto sobre las ventas no realizado. También puede configurar importes máximos de corrección de impuestos para limitar los importes de corrección de impuestos que se introducen en concepto de ventas y compras. Esto le permite sobrescribir el impuesto calculado cuando existen diferencias de redondeo entre lo calculado en la orden de compra y lo calculado en la factura de compra del proveedor."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

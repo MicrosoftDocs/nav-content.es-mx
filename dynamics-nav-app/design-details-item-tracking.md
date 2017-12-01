@@ -3,7 +3,7 @@ title: "Detalles de diseño: Seguimiento de productos"
 description: "Este tema proporciona un resumen de los detalles de diseño del seguimiento de producto."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: 'Procedimiento: reestructure los almacenes'
 description: "Es posible que desee volver a estructurar el almacén con nuevos códigos y características de ubicación."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Configurar el registro automático de las interacciones"
 description: "Puede registrar automáticamente sus interacciones con el cliente, por ejemplo, para ventas, compras y documentos de servicio o llamadas telefónicas."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

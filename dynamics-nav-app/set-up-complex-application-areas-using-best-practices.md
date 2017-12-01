@@ -3,7 +3,7 @@ title: "Configurar áreas de aplicación complejas mediante procedimientos recom
 description: "Es importante introducir los valores de configuración correctos desde el principio para el éxito de cualquier nuevo software de negocio."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

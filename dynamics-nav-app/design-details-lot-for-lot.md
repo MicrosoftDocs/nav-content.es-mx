@@ -3,7 +3,7 @@ title: "Detalles de diseño: Lote por lote"
 description: "Aprender cómo utilizar la directiva de lote por lote para establecer la cantidad del pedido basada en la demanda."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

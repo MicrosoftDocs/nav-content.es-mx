@@ -3,7 +3,7 @@ title: "Configurar información para contactos"
 description: "Describe las tareas para especificar información y códigos, por ejemplo, sobre grupos de industria y relaciones de negocio, antes de configurar los contactos."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

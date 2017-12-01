@@ -3,7 +3,7 @@ title: Realizar picking de productos con picking inventario
 description: "Si se configura un almacén para requerir proceso de picking, pero no de envío, utilice documentos de picking de inventario para registrar la información de picking y de envío de los documentos de origen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Sobre los costos del orden de producción terminada"
 description: "La finalización de la orden de producción es una tarea importante para terminar el ciclo de costos del producto que se está fabricando. Los costos finales, incluidas las desviaciones en un entorno de costos estándar, costos reales en un entorno de costos FIFO, promedio o LIFO, se calculan mediante el proceso de trabajo por lotes **Valorar existencias - movs. producto**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

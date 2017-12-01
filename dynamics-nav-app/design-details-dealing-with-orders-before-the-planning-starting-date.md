@@ -3,7 +3,7 @@ title: "Detalles de diseño: Gestión de pedidos antes de la fecha de inicio de 
 description: "En este tema se describen las reglas que la planificación aplica a los pedidos en la zona congelada."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

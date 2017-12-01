@@ -3,7 +3,7 @@ title: "Cómo reservar productos"
 description: "Puede reservar productos para pedidos de venta, pedidos de compra, y órdenes de producción. Puede reservar productos del inventario o de entrada en líneas de documento abiertas."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

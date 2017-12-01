@@ -3,7 +3,7 @@ title: "Configurar amortización activos fijos"
 description: "Puede especificar en un libro de amortización cómo desea que los activos fijos que se amorticen o deprecien."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

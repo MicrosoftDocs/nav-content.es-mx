@@ -3,7 +3,7 @@ title: Resumen de tareas para administrar los cobros
 description: Describe tareas para administrar los cobros y liquidar los pagos en los movimientos de cliente o proveedor.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

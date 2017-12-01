@@ -3,7 +3,7 @@ title: 'Procedimiento: Administrar las ausencias de los empleados'
 description: "Describe cómo registrar ausencias del empleados y analizar las estadísticas de las ausencias."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

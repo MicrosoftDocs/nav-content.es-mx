@@ -3,7 +3,7 @@ title: "Cálculo de las fechas de compromiso de entrega de pedido"
 description: "La función de compromiso de entrega de pedidos es una herramienta para el cálculo de la fecha más temprana posible en la que un producto se encuentra disponible para su envío. También crea líneas de demanda para aquellas fechas que se aceptan."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

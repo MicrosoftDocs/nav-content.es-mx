@@ -2,7 +2,7 @@
 title: Cerrar periodos contables para un ejercicio
 description: Debe abrir un ejercicio fiscal y definir los periodos contables para poder registrar un ejercicio.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

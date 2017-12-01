@@ -3,7 +3,7 @@ title: "Administración de activos fijos"
 description: "Obtenga información sobre la funcionalidad de activos fijos en Dynamics NAV y obtenga un resumen de cómo trabajar con activos fijos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

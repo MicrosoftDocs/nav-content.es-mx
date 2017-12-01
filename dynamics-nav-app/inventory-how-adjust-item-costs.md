@@ -3,7 +3,7 @@ title: Ajustar manualmente los costos de los productos
 description: "Puede ajustar la valuación de inventarios de un producto utilizando los métodos de costos FIFO o Promedio, por ejemplo, cuando los costos de producto cambian por motivos distintos de las transacciones."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

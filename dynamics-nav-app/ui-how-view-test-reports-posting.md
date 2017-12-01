@@ -3,7 +3,7 @@ title: Revisar un informe de prueba antes de registrar un documento de venta o d
 description: "Antes de registrar un documento (por ejemplo, una orden o una nota de crédito), puede probarlo y revisarlo para comprobar si hay errores que puedan bloquear el registro."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

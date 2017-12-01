@@ -3,7 +3,7 @@ title: Configurar ofertas de servicio
 description: Aprenda a configurar los servicios que ofrece a sus clientes.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

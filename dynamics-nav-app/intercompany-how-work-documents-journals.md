@@ -3,7 +3,7 @@ title: Registrar documentos y diarios de empresas vinculadas
 description: Usar documentos de empresas vinculadas para registrar transacciones con empresas vinculadas asociadas.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

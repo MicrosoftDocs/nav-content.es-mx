@@ -3,7 +3,7 @@ title: "Procedimiento para actualizar costos estándar"
 description: "Debe actualizar periódicamente los costos estándar de los componentes y distribuir los nuevos costos al producto principal."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Creación de rutas"
 description: "Una ruta contiene los datos maestros que captura los requisitos del proceso de un producto fabricado específico. Una vez creada la orden de producción para ese producto, la ruta controlará la programación de operaciones tal como se representan en la ventana **Ruta de orden de producción** bajo la orden de producción."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

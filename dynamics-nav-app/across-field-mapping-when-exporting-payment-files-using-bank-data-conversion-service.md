@@ -2,7 +2,7 @@
 title: "Asignación de campos para exportar los archivos de pago de banco"
 description: "Cuando se exportan archivos de pago con la función de servicio de conversión de datos bancarios, los datos exportados serán visibles para el proveedor del servicio de conversión de datos bancarios."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Ver y editar la configuración básica en Dynamics NAV"
 description: "Obtenga información sobre cómo cambiar algunos de los valores básicos en Dynamics NAV, por ejemplo, el área de tareas, la empresa o la fecha de trabajo."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

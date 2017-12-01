@@ -3,7 +3,7 @@ title: Administrar segmentos y seleccionar los contactos para incluirlos
 description: "Describe las tareas para crear un segmento para seleccionar un grupo de contactos según criterios específicos, por ejemplo, contactos de un determinado sector al que desee dirigirse."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

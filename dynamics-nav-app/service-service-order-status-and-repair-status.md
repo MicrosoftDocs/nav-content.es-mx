@@ -3,7 +3,7 @@ title: "Estado de pedido de servicio y estado de reparación"
 description: "El campo **Estado** de la ventana **Pedido servicio** y el estado de reparación del producto de servicio, que se representa en el campo **Código estado reparación** de la ventana **Pedido servicio** están relacionados en Gestión servicios. El estado de pedido de servicio indica el estado de reparación de todos los productos de servicio del pedido de servicio."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Gestión de relaciones"
 description: "Las características de gestión relaciones en Dynamics NAV admiten las acciones de ventas y le permiten acceder a la información sobre contactos y clientes potenciales para que pueda atender a los clientes de forma eficaz."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

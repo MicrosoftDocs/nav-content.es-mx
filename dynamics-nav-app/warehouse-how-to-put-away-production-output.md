@@ -3,7 +3,7 @@ title: "Ubicar la producción"
 description: "La forma de ubicar la salida de su producción depende de cómo esté configurado el almacén."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

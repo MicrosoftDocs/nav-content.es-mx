@@ -3,7 +3,7 @@ title: Resumen de tareas para configurar las compras
 description: Describe las tareas para definir las directivas de aprovisionamiento de su empresa y configurar sus procesos de compra.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

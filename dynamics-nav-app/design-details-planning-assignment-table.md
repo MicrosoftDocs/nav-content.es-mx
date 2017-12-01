@@ -3,7 +3,7 @@ title: "Detalles de diseño: Tabla de asignación de planificación"
 description: "Este tema proporciona una perspectiva de qué ocurre cuando se modifica la forma en que realiza un plan para un producto."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: Crear objetos XMLports basados en esquemas XML
 description: Utilice los esquemas XML para configurar el marco de intercambio de documentos.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

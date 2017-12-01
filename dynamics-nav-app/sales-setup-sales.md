@@ -3,7 +3,7 @@ title: Resumen de tareas para configurar los procesos de venta
 description: Describe las tareas para configurar reglas y valores para definir las directivas y los procesos de ventas.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

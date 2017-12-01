@@ -3,7 +3,7 @@ title: "Creación de presupuestos"
 description: "Describe cómo crear presupuestos para prever diferentes actividades financieras y asigne dimensiones para fines de inteligencia empresarial."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

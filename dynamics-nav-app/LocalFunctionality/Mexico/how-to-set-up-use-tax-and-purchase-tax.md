@@ -2,7 +2,7 @@
 title: "Cómo configurar impuesto sobre servicios e impuesto a las compras"
 description: "La definición de impuesto de las ventas comprende los impuestos que pagan las empresas por usar productos"
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

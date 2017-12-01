@@ -3,7 +3,7 @@ title: "Agregar líneas adicionales para definir el texto adicional de una descr
 description: "Puede agregar líneas adicionales para ampliar el texto estándar que describe un producto."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

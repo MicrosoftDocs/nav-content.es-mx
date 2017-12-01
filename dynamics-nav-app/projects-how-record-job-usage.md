@@ -3,7 +3,7 @@ title: Registrar el uso facturable y presupuestado de los recursos de proyecto
 description: "Describe cómo registrar el consumo o el uso de productos o recursos en proyectos para facilitar la administración de proyectos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

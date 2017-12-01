@@ -3,7 +3,7 @@ title: Cerrar cuentas de balance de ingresos
 description: En el cierre del ejercicio, debe ejecutar el proceso Cerrar resultados para cerrar los periodos contables que componen el ejercicio.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

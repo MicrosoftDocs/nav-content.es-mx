@@ -2,7 +2,7 @@
 title: Asignar recursos
 description: "Puede cambiar el importe anual del contrato de servicio o la cotización de contrato para corregir el importe que se facturará anualmente."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

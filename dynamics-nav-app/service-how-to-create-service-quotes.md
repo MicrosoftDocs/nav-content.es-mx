@@ -3,7 +3,7 @@ title: Procedimiento para crear cotizaciones de servicio
 description: "Puede utilizar la ventana **Cotización servicio** para crear documentos en los que se introduce información acerca de un servicio, como reparación y mantenimiento, de productos de servicio a solicitud del cliente. Puede utilizar una cotización de servicio como borrador de un pedido de servicio y, más adelante, convertir la cotización en un pedido de servicio."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

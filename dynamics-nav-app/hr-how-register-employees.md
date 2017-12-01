@@ -3,7 +3,7 @@ title: "Configurar empleados y modificar información"
 description: "Describe cómo registrar nuevo personal o editar la información del personal existente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

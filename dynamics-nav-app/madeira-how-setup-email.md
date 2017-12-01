@@ -3,7 +3,7 @@ title: "Configurar el correo electrónico"
 description: "Describe cómo usar el servidor SMTP de la empresa para enviar y recibir mensajes de correo electrónico en Dynamics NAV, así como el modo de usar la configuración del servidor de correo electrónico creada con la suscripción de Office 365."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

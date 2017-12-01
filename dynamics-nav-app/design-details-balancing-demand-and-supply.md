@@ -3,7 +3,7 @@ title: "Detalles de diseño: Equilibrio de aprovisionamiento y demanda"
 description: "Para saber cómo funciona el sistema de planificación, es necesario conocer los objetivos con prioridad del sistema de planificación."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

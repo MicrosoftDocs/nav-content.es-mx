@@ -3,7 +3,7 @@ title: Configurar transportistas
 description: "Configure un código para cada uno de sus transportistas e introduzca información acerca de ellos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Saldos entre el tipo de costo, centro de costo y objeto de costo
 description: "Al configurar la contabilidad de costos, debe asegurarse de que todos los movimientos están asignados a un tipo de costo así como a un centro o un objeto de costo. Indica que cada movimiento de costo debe tener un tipo de costo asignado y un código de centro de costo o un objeto de costo asignado. Esta norma garantiza que cada movimiento de costo aparezca en los centros de costo u objetos de costo, pero nunca en ambas situaciones."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

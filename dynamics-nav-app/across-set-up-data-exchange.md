@@ -2,7 +2,7 @@
 title: "Configuración del intercambio de datos"
 description: Configurar el marco de intercambio de datos en Dynamics NAV.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

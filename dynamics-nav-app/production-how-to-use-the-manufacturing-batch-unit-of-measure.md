@@ -3,7 +3,7 @@ title: "Procedimiento: Utilice la unidad de medida de lote de fabricación"
 description: "Si un producto se almacena en una unidad de medida pero se fabrica en otra distinta, en la orden de producción debe usar una unidad de medida de lote de fabricación para calcular la cantidad correcta de componentes. Un ejemplo del cálculo de una unidad de medida de la sección de fabricación es el caso en que un producto fabricado se almacena por piezas pero se produce en toneladas."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

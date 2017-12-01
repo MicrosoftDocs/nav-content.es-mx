@@ -3,7 +3,7 @@ title: "Uso de la funcionalidad general en las áreas de negocio"
 description: "Obtenga información sobre la funcionalidad y las características que se usan en varias áreas de negocio en Dynamics NAV."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

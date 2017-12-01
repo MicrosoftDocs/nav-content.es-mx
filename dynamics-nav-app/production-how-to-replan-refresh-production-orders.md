@@ -3,7 +3,7 @@ title: "Cómo replanificar o actualizar órdenes de producción directamente"
 description: "Las líneas de la orden de producción contienen los productos que se van a fabricar en la orden de producción."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Usar Dynamics NAV en el dispositivo móvil"
 description: "Puede ver y modificar los datos Dynamics NAV en su teléfono o tableta."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

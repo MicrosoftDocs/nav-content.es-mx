@@ -3,7 +3,7 @@ title: Vista previa de los movimientos antes de registrar un documento o un diar
 description: Puede asegurarse de que los movimientos de documentos y diarios son precisos antes de registrarlos en la contabilidad.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

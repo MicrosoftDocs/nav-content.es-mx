@@ -3,7 +3,7 @@ title: "Análisis de flujos de caja"
 description: "Describe cómo usar los gráficos Ciclo de efectivo, Ingresos y gastos, Flujo de efectivo y Previsión de flujo de efectivo para analizar el flujo de dinero de entrada y salida pasado y futuro de su empresa."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Tareas de trabajo usando recursos y hojas de horas
 description: "Describe cómo usar recursos, hojas de horas y trabajos para administrar proyectos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

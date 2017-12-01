@@ -3,7 +3,7 @@ title: Enviar productos
 description: "Dependiendo de la configuración de su almacén, puede registrar el envío en el documento empresarial de salida relacionado, como un pedido de venta, directamente, o puede utilizar documentos de envío de almacén que respeten un flujo de trabajo e integren diversas actividades del almacén."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

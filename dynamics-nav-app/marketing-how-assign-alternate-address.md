@@ -3,7 +3,7 @@ title: "Asignar a dirección de contacto diferente"
 description: "Describe cómo asignar una dirección alternativa para sus contactos o clientes potenciales, a la que a veces se envía información."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

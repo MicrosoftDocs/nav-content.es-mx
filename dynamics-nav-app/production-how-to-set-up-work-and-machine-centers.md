@@ -3,7 +3,7 @@ title: "Configuración de centros de trabajo y centros de máquinas"
 description: "Una ficha **Centro de trabajo**, organiza los valores fijos y los requisitos del recurso de producción y, por consiguiente, esta ficha rige la salida de la producción realizada en dicho centro de trabajo."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

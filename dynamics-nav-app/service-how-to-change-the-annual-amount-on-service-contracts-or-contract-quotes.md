@@ -2,7 +2,7 @@
 title: Procedimiento para cambiar el importe anual de los contratos de servicio o las cotizaciones de contrato
 description: "Puede cambiar el importe que se facturará anualmente en los contratos de servicio o las cotizaciones de contrato de servicio."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

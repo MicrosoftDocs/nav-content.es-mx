@@ -3,7 +3,7 @@ title: Procedimiento para configurar y publicar servicios web de KPI basados en 
 description: "En la ventana **Configuración de servicio web KPI de estructura de cuentas**, se configura cómo mostrar los datos de KPI de la estructura de cuentas y en qué estructuras de cuentas específicas se deben basar los KPI."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

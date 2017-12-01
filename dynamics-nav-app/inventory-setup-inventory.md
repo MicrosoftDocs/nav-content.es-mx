@@ -3,7 +3,7 @@ title: Configurar inventario
 description: "Describe cómo configurar los procesos de existencias e inventario, incluidas las rutas de transferencia y las ubicaciones, como los almacenes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

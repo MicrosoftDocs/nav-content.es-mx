@@ -3,7 +3,7 @@ title: "Administrar inventario y costos de fabricación"
 description: "Aunque la mayoría de las funciones de contabilidad de costos se llevan a cabo mediante procesos subyacentes que no requieren la interacción del usuario, tales como la liquidación de movimientos y el ajuste automático de costos, existen varios campos, ventanas e informes destinados a los usuarios que administran directa o indirectamente el costo de los productos o las operaciones."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

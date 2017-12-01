@@ -3,7 +3,7 @@ title: "Definir la configuración de inventario general"
 description: "Describe cómo definir la configuración de inventario general, como los números de serie y las ubicaciones, para poder, por ejemplo, administrar el almacén y las existencias."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

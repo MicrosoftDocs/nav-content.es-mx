@@ -3,7 +3,7 @@ title: "Obtener información sobre contabilidad y plan de cuentas"
 description: "Describe la contabilidad, el catálogo de cuentas y las categorías de cuenta."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

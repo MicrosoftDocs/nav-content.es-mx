@@ -3,7 +3,7 @@ title: Vincular contactos con clientes y proveedores
 description: "Describe cómo vincular un contacto con un cliente, proveedor o banco de la misma empresa, para poder sincronizar datos comunes."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

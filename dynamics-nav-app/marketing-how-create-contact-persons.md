@@ -3,7 +3,7 @@ title: Crear personas de contacto
 description: "Describe cómo crear una ficha de contacto para cada nueva persona o cliente potencial con el que interactúe o tenga una relación de negocio."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

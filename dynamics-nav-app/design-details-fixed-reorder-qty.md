@@ -3,7 +3,7 @@ title: "Detalles de diseño: Cantidad de reorden fija"
 description: "La directiva Cdad. fija reorden está relacionada con la planificación de inventario de los productos C típicos (costo de inventario bajo, poco riesgo de obsolescencia o muchos productos). Normalmente, esta directiva se usa con relación a un punto de reorden que refleja la demanda anticipada durante el plazo del producto."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

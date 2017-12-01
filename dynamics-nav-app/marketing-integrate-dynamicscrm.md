@@ -3,7 +3,7 @@ title: Administrar clientes con Dynamics 365 for Sales
 description: "Puede usar Dynamics 365 for Sales desde Dynamics NAV para asignar datos y tener una integración y sincronización fluidas en el proceso de clientes potenciales a efectivo."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

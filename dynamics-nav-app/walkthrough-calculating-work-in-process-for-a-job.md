@@ -3,7 +3,7 @@ title: "Tutorial: cálculo del trabajo en curso para un proyecto"
 description: "Con proyectos, puede programar el uso de los recursos de su empresa y realizar un seguimiento de los diversos costos asociados con el uso de recursos en un proyecto específico. Los proyectos implican el consumo de horas de mano de obra, horas de maquinaria, productos de inventario y otros tipos de consumo que se deben controlar a medida que avanza un proyecto."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

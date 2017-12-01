@@ -3,7 +3,7 @@ title: "Usar la extensión de previsión de ventas e inventario para administrar
 description: "Esta extensión lo ayuda a prever ventas, obtener un resumen claro de la falta de stock prevista e, incluso, lo ayuda a crear solicitudes de reposición para proveedores."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

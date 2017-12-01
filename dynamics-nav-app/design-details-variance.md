@@ -3,7 +3,7 @@ title: "Detalles de diseño: Desviación"
 description: "La desviación se define como la diferencia entre el costo real y el costo estándar, tal como se describe en la fórmula siguiente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

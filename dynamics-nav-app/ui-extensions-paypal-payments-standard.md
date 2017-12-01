@@ -3,7 +3,7 @@ title: "Uso de la extensión Estándar de pagos de PayPal"
 description: "Describe cómo utilizar la extensión para permitir a clientes realizar pagos con PayPal."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

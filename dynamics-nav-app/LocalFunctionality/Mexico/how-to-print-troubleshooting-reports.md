@@ -2,7 +2,7 @@
 title: "Cómo imprimir informes de solución de problemas"
 description: "Los informes de solución de problemas sobre solución de problemas están disponibles para asistir a los Microsoft Certified Partners."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

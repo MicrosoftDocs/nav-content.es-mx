@@ -3,7 +3,7 @@ title: Ver las instancias de paso de flujo de trabajo archivadas
 description: Todas las instancias de paso de flujo de trabajo completada se guardan en la ventana **Instancias de paso de flujo de trabajo archivadas**.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

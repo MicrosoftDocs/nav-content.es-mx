@@ -3,7 +3,7 @@ title: Mantener activos fijos
 description: Puede llevar un registro de mantenimiento de las reparaciones y el servicio de un activo fijo.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

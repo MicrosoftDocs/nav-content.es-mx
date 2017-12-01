@@ -3,7 +3,7 @@ title: "Procedimiento para generar facturas electrónicas"
 description: "Después de registrar una factura de venta en [!INCLUDE[navnow](../../includes/navnow_md.md)], debe generar una factura electrónica que se enviará al cliente. Asimismo, puede exportar dicha factura electrónica como un archivo XML, que puede guardar en una ubicación especificada."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

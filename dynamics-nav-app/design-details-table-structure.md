@@ -3,7 +3,7 @@ title: "Detalles de diseño: Estructura de tablas"
 description: "Para conocer cómo se ha rediseñado el almacenamiento y el registro de movimientos de dimensión, es importante entender la estructura de tabla."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

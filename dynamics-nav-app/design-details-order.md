@@ -3,7 +3,7 @@ title: "Detalles de diseño: Pedidos"
 description: "Este tema proporciona información acerca de vínculos de pedido a pedido en un entorno de fabricación contra pedido."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

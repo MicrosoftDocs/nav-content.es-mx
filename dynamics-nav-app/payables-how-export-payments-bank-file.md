@@ -3,7 +3,7 @@ title: "Exportar pagos de salida a un archivo de pagos electrónicos"
 description: "Para realizar pagos de proveedor, habilite un servicio de conversión de datos bancarios, exporte un archivo de banco y cargue el archivo en el banco electrónico para transferir los fondos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

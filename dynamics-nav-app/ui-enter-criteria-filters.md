@@ -3,7 +3,7 @@ title: Buscar datos y especificar criterios de filtrado
 description: "Describe cómo trabajar con filtros, como el filtro rápido, para restringir los resultados que se obtienen al buscar datos."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

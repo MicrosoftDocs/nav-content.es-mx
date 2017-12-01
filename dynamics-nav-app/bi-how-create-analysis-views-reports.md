@@ -3,7 +3,7 @@ title: "Crear informes de análisis"
 description: "Describe cómo crear nuevos informes de análisis para ventas, compras y existencias, así como configurar plantillas de análisis."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: Resumen de tareas para administrar las ventas
 description: "Describe cómo gestionar las actividades de ventas."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

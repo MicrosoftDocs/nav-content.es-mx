@@ -3,7 +3,7 @@ title: "Configurar información de defectos en la gestión de servicios"
 description: "Más información sobre la configuración de los procesos de creación de informes de defecto."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

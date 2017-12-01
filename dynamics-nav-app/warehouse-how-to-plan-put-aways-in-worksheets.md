@@ -3,7 +3,7 @@ title: Planificar ubicaciones en hojas de trabajo
 description: "Si el almacén requiere los procesos de ubicación y recepción y desea planificar instrucciones de ubicación para varias recepciones, en vez de hacer que los empleados sigan las instrucciones que crea el sistema para recepciones registradas independientes, puede utilizar la hoja de trabajo de ubicación."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

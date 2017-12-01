@@ -3,7 +3,7 @@ title: "Detalles de diseño: Ventana de líneas de seguimiento de productos"
 description: "Leer información acerca de cómo gestionar el flujo de números de serie y números de lote en el inventario."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

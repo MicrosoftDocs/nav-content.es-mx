@@ -3,7 +3,7 @@ title: "Cómo prestar productos de servicio como sustitución"
 description: "Puede ofrecer a los clientes productos de préstamo para reemplazar temporalmente productos de servicio recibidos para servicio."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Organizar los datos mediante la función de clasificación"
 description: "Puede usar la función de clasificación para obtener un resumen de sus datos. Por ejemplo, puede ordenar los clientes por código de divisa para obtener una muestra seleccionada de clientes."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

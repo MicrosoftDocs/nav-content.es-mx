@@ -3,7 +3,7 @@ title: "Usar la extensión de importación del archivo de nóminas de Quickbooks
 description: "Describe cómo utilizar la extensión para importar transacciones de salario y nóminas desde el servicio Quickbooks Payroll."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

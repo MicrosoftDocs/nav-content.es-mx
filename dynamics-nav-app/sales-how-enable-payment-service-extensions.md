@@ -3,7 +3,7 @@ title: Permitir los pagos de clientes mediante servicios de pago
 description: Facilite a los clientes el pago de las facturas activando los servicios de pago.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

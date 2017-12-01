@@ -3,7 +3,7 @@ title: "Configurar códigos para servicios estándar"
 description: "Aprenda a configurar códigos para las actividades de servicio que realiza a menudo."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

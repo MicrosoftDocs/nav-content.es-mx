@@ -3,7 +3,7 @@ title: "Agregar campos a un diseño de informe de Word"
 description: "Describe cómo agregar campos de un conjunto de datos de informe a un diseño de informe de Word para un informe."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

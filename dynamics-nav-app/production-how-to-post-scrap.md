@@ -3,7 +3,7 @@ title: "Cómo registrar el material de rechazo manualmente"
 description: Si se produce material de rechazo durante el proceso, se puede introducir en el diario de salida. Observe que la cantidad de material de rechazo no incrementa la cantidad de salida.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

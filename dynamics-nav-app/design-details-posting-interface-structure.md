@@ -3,7 +3,7 @@ title: "Detalles de diseño: estructura de interfaz de registro"
 description: Este tema proporciona un resumen de los procedimientos globales en la estructura de la interfaz de registro.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

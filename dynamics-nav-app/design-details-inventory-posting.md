@@ -3,7 +3,7 @@ title: "Detalles de diseño: Registro de inventario"
 description: "Cada transacción de inventario, como una remisión de compra o una remisión de venta, registra dos movimientos de distintos tipos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

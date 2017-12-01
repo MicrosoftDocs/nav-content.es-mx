@@ -3,7 +3,7 @@ title: "Procedimiento para configurar la facturación electrónica"
 description: "Para poder enviar documentos electrónicos, primero debe configurar [!INCLUDE[navnow](../../includes/navnow_md.md)] para asegurarse de que el número de identificación fiscal (RFC), el número de identificación personal (CURP) y los identificadores de inscripción estatal estén disponibles para la empresa y para todos sus clientes y proveedores."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

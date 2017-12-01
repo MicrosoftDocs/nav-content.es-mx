@@ -3,7 +3,7 @@ title: Acerca de la contabilidad de costos
 description: "La contabilidad de costos puede ayudarle a conocer los costos de la dirección de una empresa."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Administrar oportunidades de ventas y clientes potenciales
 description: "Describe la administración de los clientes potenciales u oportunidades de venta entrantes en Dynamics NAV, y la asociación de la oportunidad con un vendedor para realizar un seguimiento de las ventas potenciales."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

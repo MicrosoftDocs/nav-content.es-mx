@@ -3,7 +3,7 @@ title: "Ejecutar la planificación completa, MPS y MRP"
 description: "Los términos \"ejecutar la hoja de planificación\" o \"ejecutar MRP\" hacen referencia al cálculo del programa de producción principal y a las necesidades de material, en función de la demanda real y prevista. El sistema de planificación puede calcular tanto el Programa de planificación principal (MPS) como la Planificación de necesidades de material (MRP) cuando se solicite, o calcular ambas cosas a la vez."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

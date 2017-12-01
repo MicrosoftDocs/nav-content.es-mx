@@ -3,7 +3,7 @@ title: Administrar cuentas bancarias
 description: Debe reconciliar regularmente los movimientos de banco en Dynamics NAV con las transacciones bancarias relacionadas en sus cuentas bancarias.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

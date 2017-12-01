@@ -3,7 +3,7 @@ title: Crear y gestionar contactos de empresas
 description: "Puede configurar todas las entidades externas con las que mantenga una relación de negocio (por ejemplo clientes potenciales, clientes, proveedores y consultores) como contactos."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

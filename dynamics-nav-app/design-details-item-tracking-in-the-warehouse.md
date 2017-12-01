@@ -3,7 +3,7 @@ title: "Detalles de diseño: Disponibilidad de seguimiento de productos"
 description: "En este tema se discute cómo asegurarse de que las personas que procesan los pedidos pueden confiar en la disponibilidad de números de serie o números de lote."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

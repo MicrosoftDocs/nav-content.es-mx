@@ -3,7 +3,7 @@ title: Crear una ficha de proveedor para registrar un proveedor nuevo
 description: "Obtenga información sobre cómo crear una ficha de proveedor para registrar un nuevo proveedor."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

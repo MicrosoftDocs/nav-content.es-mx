@@ -3,7 +3,7 @@ title: "Gestión de servicios"
 description: "Aprenda a utilizar las funciones diseñadas para soportar las operaciones del taller de reparaciones y del servicio de campo."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Configuración de unidades de almacenamiento"
 description: "Utilice unidades de almacenamiento para registrar información sobre los productos de un determinado almacén o de un código de variante en particular."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,12 +18,12 @@ ms.contentlocale: es-mx
 ms.lasthandoff: 10/16/2017
 
 ---
-# Configuración de unidades de almacenamiento
+# <a name="how-to-set-up-stockkeeping-units"></a>Configuración de unidades de almacenamiento
 Utilice unidades de almacenamiento para registrar información sobre los productos de un determinado almacén o de un código de variante en particular.  
 
  Las unidades de almacenamiento vienen a complementar las fichas del producto. No los reemplazan, aunque guardan cierta relación con ellos. Estas unidades le permiten distinguir información sobre un producto de un determinado almacén, como un almacén o un centro de distribución, o de una determinada variante, como distintos códigos de situación e información de reposición.  
 
-## Para configurar una unidad de almacenamiento  
+## <a name="to-set-up-a-stockkeeping-unit"></a>Para configurar una unidad de almacenamiento  
 
 1.  Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Unidades de almacenamiento** y, a continuación, seleccione el vínculo relacionado.  
 2.  Seleccione la acción **Nuevo**.  
@@ -36,7 +36,7 @@ Para crear varias unidades de almacenamiento para un producto, utilice el proces
 > [!NOTE]  
 >  La información de la ficha **Unidad de almacenamiento** tiene prioridad sobre la ficha de **Producto**.  
 
-## Consulte también  
+## <a name="see-also"></a>Consulte también  
 [Registro de productos nuevos](inventory-how-register-new-items.md)  
 [Configuración de la gestión del almacén](warehouse-setup-warehouse.md)  
 [Gestión almacén](warehouse-manage-warehouse.md)  

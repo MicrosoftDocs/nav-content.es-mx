@@ -3,7 +3,7 @@ title: "Cómo modificar las sugerencias de planificación en una vista gráfica"
 description: "Una actividad típica de planificación consiste en cambiar o agregar líneas de la hoja de planificación para modificar las órdenes de suministro sugeridas antes de confirmarlas ejecutando la función **Ejecutar mensajes acción**. Una alternativa a hacerlo en la hoja de trabajo de planificación es utilizar una vista gráfica."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

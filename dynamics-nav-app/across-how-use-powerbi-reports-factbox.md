@@ -3,7 +3,7 @@ title: Mostrar informes de Power BI personalizados
 description: "Puede usar los informes de Power BI para obtener información adicional sobre los datos en las listas de Dynamics NAV."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

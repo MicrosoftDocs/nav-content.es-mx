@@ -3,7 +3,7 @@ title: Crear oportunidades de ventas
 description: "Describe cómo crear oportunidades a partir de un vendedor o un contacto en Dynamics NAV."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

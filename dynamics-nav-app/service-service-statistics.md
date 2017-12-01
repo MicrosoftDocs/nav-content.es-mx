@@ -3,7 +3,7 @@ title: "Estadísticas servicio"
 description: "Obtenga una visión general del contenido de los documentos de servicio, como órdenes, cotizaciones, facturas o notas de crédito, los detalles sobre las líneas de servicio específicas y los productos de servicio."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Crear y administrar productos no inventariables
 description: "Describe cómo comercializar los productos no inventariables o los productos que no se mantienen en el inventario."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,7 +18,7 @@ ms.contentlocale: es-mx
 ms.lasthandoff: 10/16/2017
 
 ---
-# Procedimiento: Trabajar con productos no inventariables
+# <a name="how-to-work-with-nonstock-items"></a>Procedimiento: Trabajar con productos no inventariables
 Puede ofrecer varios productos a sus clientes para su comodidad que no desea mantener en el inventario hasta que empiece a venderlos. Cuando desee empezar a mantener esos productos en el inventario, puede convertirlos en fichas de productos normales de dos formas.
 
 * Desde una ficha de producto no inventariable, cree una nueva ficha de producto basada en una plantilla.
@@ -29,27 +29,27 @@ Puede ofrecer varios productos a sus clientes para su comodidad que no desea man
 
 Un producto no inventariable normalmente tiene el número del proveedor que lo suministra. Para activar la conversión de una ficha de producto no inventariable a una ficha de producto normal, debe configurar cómo se convertirá la numeración del producto del vendedor a la suya.   
 
-## Para crear productos no inventariables
+## <a name="to-create-a-nonstock-item"></a>Para crear productos no inventariables
 Las fichas de productos no inventariables disponen de mucha menos información que las de productos normales puesto que solo se las utiliza en cotizaciones de ventas y de otras maneras. Por esa razón, se convertirán en fichas de producto normal antes de que pueda registrarles las transacciones de venta.
 
 1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Productos sin stock** y, a continuación, seleccione el vínculo relacionado.
 2. Seleccione la acción **Nuevo**.
 3. Rellene los campos según sea necesario. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-## Para configurar cómo se convierten los números de productos no inventariables a la numeración que usted usa
+## <a name="to-set-up-how-nonstock-item-numbers-are-converted-to-your-own-numbering"></a>Para configurar cómo se convierten los números de productos no inventariables a la numeración que usted usa
 Para activar la conversión de una ficha de producto no inventariable en una ficha de producto normal, primero debe especificar cómo se convertirá la numeración del producto del proveedor a su formato de número de producto.
 
 1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Config. productos sin stock** y, a continuación, seleccione el vínculo relacionado.
 2. Rellene los campos según sea necesario.
 
-## Para convertir un producto no inventariable en un producto normal
+## <a name="to-convert-a-nonstock-item-to-a-normal-item"></a>Para convertir un producto no inventariable en un producto normal
 1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Productos sin stock** y, a continuación, seleccione el vínculo relacionado.
 2. Abra la ficha de un producto no inventariable que desee convertir a uno normal.
 3. En la ventana **Ficha prod. no inventariable**, seleccione la acción **Crear producto**.
 
 Se ha creado una nueva ficha de producto con la información del producto no inventariable rellenada previamente y la plantilla de producto correspondiente. Si es necesario, podrá rellenar o editar los campos en la nueva ficha de producto. Para obtener más información, vea [Registrar nuevos productos](inventory-how-register-new-items.md).
 
-## Para vender un producto no inventariable y convertirlo en un producto normal
+## <a name="to-sell-a-nonstock-item-and-convert-it-to-a-normal-item"></a>Para vender un producto no inventariable y convertirlo en un producto normal
 1. Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Pedidos de venta** y, a continuación, seleccione el vínculo relacionado.
 2. Seleccione la acción **Nuevo**. Rellene los campos de la ficha desplegable **General** para cada pedido. Para obtener más información, vea [Procedimiento: Vender productos](sales-how-sell-products.md).
 3. En una nueva línea de venta, en el campo **Tipo**, seleccione **Producto**, pero deje **N.º** campo vacío.
@@ -64,7 +64,7 @@ Si es necesario, podrá rellenar o editar los campos en la nueva ficha de produc
 > [!NOTE]  
 >   Un informe de referencia cruzada de un producto se crea automáticamente por el proveedor del producto entre el número del producto del proveedor y su nuevo número de producto.
 
-## Consulte también
+## <a name="see-also"></a>Consulte también
 [Registro de productos nuevos](inventory-how-register-new-items.md)  
 [Cómo crear pedidos especiales](sales-how-to-create-special-orders.md)|  
 [Inventario](inventory-manage-inventory.md)  

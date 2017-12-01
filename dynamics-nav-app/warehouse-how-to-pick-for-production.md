@@ -3,7 +3,7 @@ title: "Realizar el picking de producción en una configuración básica de alma
 description: "Cuando el almacén requiere el proceso de picking, pero no el proceso de envío, utilice la ventana **Picking inventario** para organizar y registrar el picking de componentes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

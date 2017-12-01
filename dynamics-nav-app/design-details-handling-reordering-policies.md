@@ -3,7 +3,7 @@ title: "Detalles de diseño: Gestión de políticas de reorden"
 description: "Resumen de las tareas de definición de una directiva de reorden de planificación del suministro."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

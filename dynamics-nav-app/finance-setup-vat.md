@@ -3,7 +3,7 @@ title: "Acerca de la configuración del impuesto sobre el valor añadido"
 description: "Asegúrese de que calcula, registra y crea informes correctamente del IVA de las ventas y las compras."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

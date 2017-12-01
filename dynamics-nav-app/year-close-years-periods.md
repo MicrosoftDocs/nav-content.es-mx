@@ -3,7 +3,7 @@ title: Resumen de las tareas para cerrar un ejercicio y periodos contables
 description: Describe las tareas para cerrar un ejercicio o periodo contable, por ejemplo, asegurarse de que se ha registrado los documentos y los diarios, y comprobar los saldos bancarios.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

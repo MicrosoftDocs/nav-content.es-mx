@@ -3,7 +3,7 @@ title: "Cómo configurar la vista de carga en centros de trabajo y de máquina"
 description: "En la ficha **Centro de trabajo**, puede consultar la carga en los centros de trabajo como resultado de órdenes de producción lanzadas."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

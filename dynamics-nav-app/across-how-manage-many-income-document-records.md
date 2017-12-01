@@ -3,7 +3,7 @@ title: "Definir qué documentos entrantes ver"
 description: "Ajuste la vista predeterminada de los documentos entrantes, como facturas electrónicas, para mejorar el resumen de registros procesados y sin procesar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

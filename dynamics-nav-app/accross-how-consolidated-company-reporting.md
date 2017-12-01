@@ -3,7 +3,7 @@ title: Consolidar los datos de varias empresas
 description: "Obtener una visión general de la salud financiera de sus negocios."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

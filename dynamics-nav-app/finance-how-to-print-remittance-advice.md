@@ -3,7 +3,7 @@ title: Imprimir un aviso de pago
 description: "Puede ayudar a sus proveedores a realizar conciliaciones si imprime un aviso de pago antes de publicar un diario de pagos y después de registrar un pago."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

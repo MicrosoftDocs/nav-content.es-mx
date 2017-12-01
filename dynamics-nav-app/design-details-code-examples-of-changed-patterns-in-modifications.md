@@ -3,7 +3,7 @@ title: "Detalles de diseño: Cierre de aprovisionamiento y demanda"
 description: Cuando se han realizado los procedimientos de equilibrado del suministro, existen tres situaciones finales posibles.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

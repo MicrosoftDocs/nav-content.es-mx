@@ -3,7 +3,7 @@ title: Usar la funcionalidad de Recursos humanos
 description: "Puede registrar nuevo personal, modificar la información del personal existente y registrar y analizar las ausencias."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

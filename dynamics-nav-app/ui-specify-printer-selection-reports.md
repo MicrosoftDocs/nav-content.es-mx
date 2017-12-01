@@ -3,7 +3,7 @@ title: "Configuración informes para imprimir en impresoras específicas"
 description: "Obtenga información sobre cómo especificar una impresora para un informe y usar la ventana Selección impresoras."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

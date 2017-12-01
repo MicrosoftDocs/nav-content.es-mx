@@ -2,7 +2,7 @@
 title: Crear productos de servicio
 description: Cuando reciba un producto no registrado para servicio, puede registrarlo como un producto de servicio.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Definir los contactos de un segmento
 description: "Después de haber creado un segmento, puede agregar contactos al segmento, por ejemplo, como parte de una campaña de marketing dirigida a clientes particulares."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

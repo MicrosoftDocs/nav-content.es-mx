@@ -3,7 +3,7 @@ title: "Planificación de suministros"
 description: "Preparar un plan ejecutable detallado y el programa de montaje final de producción para venta y la demanda de producción."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

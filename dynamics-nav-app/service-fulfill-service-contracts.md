@@ -3,7 +3,7 @@ title: Resumen de tareas para el cumplimiento de contratos de servicio
 description: Describe las tareas para administrar los contratos de servicio con los clientes.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

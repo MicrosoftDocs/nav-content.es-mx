@@ -3,7 +3,7 @@ title: "Personalizar el modo en que la información se muestra para una cuenta d
 description: "Describe cómo personalizar el aspecto de Dynamics NAV para la cuenta de usuario."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

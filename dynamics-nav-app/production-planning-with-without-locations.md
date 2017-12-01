@@ -3,7 +3,7 @@ title: "Planificación con o sin almacenes"
 description: "Es importante entender la planificación con o sin códigos de almacén en líneas de demanda."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

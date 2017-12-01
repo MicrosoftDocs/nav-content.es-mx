@@ -3,7 +3,7 @@ title: "Detalles de diseño: Estructura de registro de seguimiento de productos"
 description: "Aprender a usar movimientos de productos como soporte principal de los números de seguimiento de producto."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Maneras de solucionar problemas con el registro al autoservicio
 description: "Obtenga información sobre los motivos más habituales por los que es posible que no pueda realizar el registro a Dynamics NAV y formas de solucionarlos."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

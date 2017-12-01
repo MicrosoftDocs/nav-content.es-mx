@@ -3,7 +3,7 @@ title: "Detalles de diseño: Seguimiento de productos y reservas"
 description: "Este tema habla del seguimiento y reservas de producto y describe los conceptos detrás de ambos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

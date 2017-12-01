@@ -3,7 +3,7 @@ title: "Tutorial: planificación automática de suministros"
 description: "Las frases \"ejecutar planificación\" y \"ejecutar MRP\" hacen referencia al cálculo del programa maestro de producción (MPS) y del plan de necesidades de material (MRP) basándose en la demanda real y prevista."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

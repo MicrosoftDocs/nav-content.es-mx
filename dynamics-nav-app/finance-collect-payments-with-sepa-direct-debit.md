@@ -2,7 +2,7 @@
 title: Adeudo directo SEPA en Dynamics NAV
 description: "Puede cobrar los pagos directamente al banco del cliente según el formato SEPA."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

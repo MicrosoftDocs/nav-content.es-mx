@@ -2,7 +2,7 @@
 title: "Programar proyectos para que se ejecuten automáticamente"
 description: "Las tareas programadas son administradas por la cola de proyecto. Estos proyectos ejecutan informes y unidades de código. Puede configurar proyectos para que se ejecuten una vez o de manera periódica."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

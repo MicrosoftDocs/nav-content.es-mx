@@ -2,7 +2,7 @@
 title: "Seleccione el método de pagos electrónicos"
 description: "Procese pagos a sus proveedores exportando un archivo junto con la información de pago desde las líneas de diario."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

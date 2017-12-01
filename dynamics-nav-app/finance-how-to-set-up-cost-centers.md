@@ -3,7 +3,7 @@ title: Procedimiento para configurar centros de costo
 description: "Los centros de costo son departamentos que son responsables de los costos y de los ingresos. El plan de centros de costo es similar a la información de dimensión de contabilidad."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

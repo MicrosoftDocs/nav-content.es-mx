@@ -3,7 +3,7 @@ title: "Comprobar automáticamente los pagos liquidados y volver a liquidar los 
 description: "Una vez que los pagos se liquidan automáticamente, puede revisar todos los movimientos de un pago y volver a liquidar manualmente los que se han aplicado incorrectamente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

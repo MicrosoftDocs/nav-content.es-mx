@@ -3,7 +3,7 @@ title: "Configuración de filtros para las bases de la asignación dinámica"
 description: "El método de asignación dinámica se basa en los valores cambiables. Por ejemplo, el número de empleados de un centro de costo o los productos vendidos de un objeto de costo en un periodo de tiempo determinado. Existen nueve bases predefinidas de asignación y doce rangos de fechas dinámicas. Define distintos filtros basados en la base de asignación."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

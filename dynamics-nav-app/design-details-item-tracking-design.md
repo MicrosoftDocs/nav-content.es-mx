@@ -3,7 +3,7 @@ title: "Detalles de diseño: Diseño de seguimiento de productos"
 description: "En este tema se describe el diseño detrás del seguimiento de producto en [!INCLUDE[d365fin](includes/d365fin_md.md)]."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

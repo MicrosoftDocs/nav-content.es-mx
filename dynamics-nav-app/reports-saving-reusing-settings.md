@@ -2,7 +2,7 @@
 title: "Aplicar y modificar la configuración guardada en los informes"
 description: Describe las opciones y los filtros predefinidos para personalizar un informe y para generar los datos correctos.
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

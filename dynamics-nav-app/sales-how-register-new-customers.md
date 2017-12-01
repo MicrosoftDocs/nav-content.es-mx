@@ -3,7 +3,7 @@ title: Crear una ficha de cliente para registrar clientes nuevos
 description: "Describe cómo crear una ficha de cliente para registrar información acerca de cada cliente nuevo o existente a los que venda productos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

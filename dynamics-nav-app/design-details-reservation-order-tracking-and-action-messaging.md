@@ -3,7 +3,7 @@ title: "Detalles de diseño: Políticas de reorden"
 description: "En este tema se proporciona un resumen de las cuatro políticas de reorden disponibles para la reposición."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Trabajar con centros de responsabilidad
 description: "Los centros de responsabilidad proporcionan la capacidad de controlar los centros administrativos. Un centro de responsabilidad puede ser un centro de costo, de beneficios, de inversión o cualquier otro centro administrativo definido por la empresa."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

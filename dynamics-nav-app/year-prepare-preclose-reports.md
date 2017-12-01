@@ -3,7 +3,7 @@ title: "Resumen de los informes previos al cierre para la precisión de las cuen
 description: "Proporciona un resume de los informes que puede usar para verificar la exactitud de las cuentas antes de cerrar los libros al final de un año o periodo."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

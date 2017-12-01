@@ -3,7 +3,7 @@ title: "Detalles de diseño: Periodos de inventario"
 description: "Las transacciones o los ajustes de costo a los que se aplica fecha retroactiva a menudo repercuten en los saldos y los métodos de costo para periodos contables que pueden considerarse cerrados. Esto puede tener un efecto negativo en los informes exactos, especialmente en las corporaciones globales. La característica Periodos inventario se puede usar para evitar dichos problemas mediante la apertura o el cierre de periodos de inventario para limitar el registro en un periodo de tiempo configurado."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

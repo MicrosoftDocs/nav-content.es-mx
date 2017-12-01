@@ -3,7 +3,7 @@ title: "Procedimiento: Planifique las órdenes de proyecto"
 description: "Esta tarea de planificación se inicia desde un pedido de venta y utiliza la ventana **Planificación pedido venta**. Una vez creada la orden de producción de un proyecto, puede seguir planificándola en la ventana **Planificación de pedidos**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

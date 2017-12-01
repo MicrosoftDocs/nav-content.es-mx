@@ -3,7 +3,7 @@ title: "Configurar la información de administración de marketing y de contacto
 description: "Puede configurar la administración de marketing y de contacto de Dynamics NAV para optimizar las relaciones con los clientes potenciales o actuales, y mejorar las campañas y las promociones."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

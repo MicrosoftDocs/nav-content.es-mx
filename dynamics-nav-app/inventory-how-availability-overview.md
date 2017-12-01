@@ -3,7 +3,7 @@ title: Obtener un resumen de disponibilidad
 description: "Puede obtener información sobre la disponibilidad de los productos o las existencias en distintos almacenes, por eventos de venta o de compra, por un período de tiempo o por la posición del producto en una L.M. de ensamblado o producción."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

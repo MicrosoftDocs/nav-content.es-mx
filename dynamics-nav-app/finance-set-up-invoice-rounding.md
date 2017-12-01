@@ -3,7 +3,7 @@ title: Configurar redondeo de factura
 description: "Puede redondear los importes de las facturas en el momento en que éstas se crean. Además, las normativas o costumbres locales pueden requerir que el redondeo de las facturas se realice de un modo específico, por ejemplo, en una cantidad divisible por 0,05."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

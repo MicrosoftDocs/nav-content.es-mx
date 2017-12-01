@@ -2,7 +2,7 @@
 title: "Exportar movimientos de domiciliación de adeudo directo SEPA"
 description: "Cree una colección de débito directo que contenga información sobre la cuenta bancaria del cliente, las facturas de ventas afectadas y la orden de domiciliación de adeudo directo."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

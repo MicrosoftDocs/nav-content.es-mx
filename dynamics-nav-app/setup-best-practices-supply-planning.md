@@ -3,7 +3,7 @@ title: "Procedimientos recomendados de configuración: planificación de suminis
 description: "La planificación de suministros es un área comercial crítica. Cuando se configura y utiliza correctamente, la planificación de suministros ayuda a que una empresa evite quedarse sin inventario y reduzca tanto los costos de pedido como los de inventario."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

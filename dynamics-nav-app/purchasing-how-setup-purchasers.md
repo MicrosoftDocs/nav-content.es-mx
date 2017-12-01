@@ -3,7 +3,7 @@ title: Configurar compradores y asignar compradores a proveedores
 description: "Si trabajan varios compradores, o agentes de compras, para su empresa, puede organizarlos para análisis estadísticos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

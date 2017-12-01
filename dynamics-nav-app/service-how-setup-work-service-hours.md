@@ -3,7 +3,7 @@ title: Configurar horas de trabajo y de servicio
 description: "Puede especificar las horas de servicio habituales de la empresa. Estas horas de servicio se utilizarán para calcular la fecha y tiempo de respuesta de pedidos y cotizaciones de servicio y para enviar advertencias de tiempo de respuesta."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

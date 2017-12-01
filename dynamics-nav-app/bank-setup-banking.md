@@ -3,7 +3,7 @@ title: Configurar la banca
 description: Utilice fichas de banco para realizar un seguimiento de sus cuentas bancarias y configurar las fuentes de bancos para intercambiar datos.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

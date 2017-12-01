@@ -2,7 +2,7 @@
 title: "Asignación de campos al importar archivos CAMT de SEPA"
 description: "En los mercados europeos, puede importar los archivos de estados de cuenta de banco en las normas regionales SEPA (zona única de pagos en euros)."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
