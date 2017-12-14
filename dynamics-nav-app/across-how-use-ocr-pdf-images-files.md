@@ -1,9 +1,8 @@
 ---
-title: "Usar OCR para convertir PDF en facturas electrónicas"
-description: "Describe cómo puede utilizar un servicio de OCR para convertir los archivos PDF de entrada o de imagen en documentos electrónicos en Dynamics NAV."
-documentationcenter: 
+title: "Usar OCR para convertir PDF en facturas electrónicas | Documentos de Microsoft"
+description: "Describe cómo puede utilizar un servicio de OCR para convertir los archivos PDF de entrada o de imagen en documentos electrónicos en Financials."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +11,10 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 11/09/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 5d8949516771dbd1736ea6fd9472f975dd431669
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f002a3975ecb6efe851cc9ac9774626f63bf760b
 ms.contentlocale: es-mx
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-use-ocr-to-turn-pdf-and-image-files-into-electronic-documents"></a>Procedimiento: Utilizar el servicio OCR para convertir archivos PDF y de imagen en documentos electrónicos
@@ -34,7 +33,7 @@ El tráfico de los archivos hacia y desde el servicio OCR se procesa a través d
 2. Cree un nuevo registro de documento entrante y adjunte el archivo. Para obtener más información, vea [Procedimiento: Crear registros de documentos entrantes](across-how-create-income-document-records.md).  
 3. En la ventana **Documentos entrantes**, seleccione una o más líneas y, a continuación, seleccione la acción **Enviar a cola de trabajos**.
 
-    El valor del campo **Estado OCR** cambia a **Listo** . El archivo PDF o de imagen adjunto lo envía al servicio OCR la cola de proyectos según la programación, siempre que no haya errores.
+    El valor del campo **Estado OCR** cambia a **Listo**. El archivo PDF o de imagen adjunto lo envía al servicio OCR la cola de proyectos según la programación, siempre que no haya errores.
 4. De forma alternativa, en la ventana **Documentos entrantes**, seleccione una o más líneas y, a continuación, seleccione la acción **Enviar a servicio OCR**.
 
 El valor del campo **Estado OCR** cambia a **Enviado** siempre que no haya errores.
@@ -70,23 +69,34 @@ Si no utiliza una cola de proyectos o desea recibir el documento final de OCR m�
 Ahora puede empezar a crear los documentos de registro para los documentos electrónicos recibidos en [!INCLUDE[d365fin](includes/d365fin_md.md)], de forma manual o automática. Para obtener más información, consulte el procedimiento siguiente. También puede conectar el registro del documento entrante nuevo al documento registrado o no registrado existente de forma que el archivo de origen sea fácilmente accesible desde dentro de [!INCLUDE[d365fin](includes/d365fin_md.md)]. Para obtener más información, vea [Procesar documentos entrantes](across-process-income-documents.md).
 
 ## <a name="to-create-a-purchase-invoice-from-an-electronic-document-received-from-the-ocr-service"></a>Para crear una factura de compra desde un documento electrónico recibido del servicio de OCR
-El procedimiento siguiente describe cómo crear un registro de la factura de compra desde una factura recibida de un proveedor como un documento electrónico del servicio OCR. El procedimiento es el mismo que cuando crea, por ejemplo, una línea del diario general a partir de un recibo de gastos.
+El procedimiento siguiente describe cómo crear un registro de la factura de compra desde una factura recibida de un proveedor como un documento electrónico del servicio OCR. El procedimiento es el mismo que cuando crea, por ejemplo, una línea de diario general desde un recibo de gastos o un pedido de devolución de ventas desde un cliente.
 
 > [!NOTE]  
->   Los campos **Descripción** y **N.°** de las líneas creadas del documento se completarán solo si primero ha asignado el texto encontrado en el documento de OCR a los campos de [!INCLUDE[d365fin](includes/d365fin_md.md)]. Puede realizar esta acción como las referencias cruzadas de producto, para las líneas de documentos del tipo Producto, o como asignaciones de texto a cuenta, para las líneas de documentos o diarios del tipo Cuenta de contabilidad. Para obtener más información, consulte la herramienta para la acción **Referencias cruzadas** en las fichas de productos y el procedimiento relacionado, [Procedimiento: Asignar texto en pagos periódicos a cuentas para conciliación automática](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md)
+>   Los campos **Descripción** y **N.°** de las líneas creadas del documento se completarán solo si primero ha asignado el texto encontrado en el documento de OCR a los campos de [!INCLUDE[d365fin](includes/d365fin_md.md)]. Puede realizar esta asignándolas como las referencias cruzadas de producto, para las líneas de documentos del tipo Producto. También puede utilizar la función Asignación de texto a cuenta. Para obtener más información, consulte la sección "Asignar texto en un documento entrante a un proveedor específico, C/G o cuenta bancaria".
 
+Para asignar los números de producto del documento a las descripciones de los productos del proveedor, abra la ficha de cada producto y, a continuación, elija la acción **Referencias cruzadas** para configurar las referencias cruzadas entre su descripción de los artículos y la del vendedor. Para obtener más información, consulte la información de herramienta para las acciones **Referencias cruzadas** en las fichas de producto.
+
+1. Seleccione la línea del documento entrante y, a continuación, seleccione la acción **Crear documento**.
+
+Una factura de compra se creará en [!INCLUDE[d365fin](includes/d365fin_md.md)] según la información del documento electrónico del proveedor que recibió del servicio OCR. La información se insertará en la nueva factura de compra en función de la asignación que haya definido como referencia cruzada o como asignación de texto a cuenta.
+
+Los errores de validación, normalmente relacionados con datos maestros incorrectos o no presentes en [!INCLUDE[d365fin](includes/d365fin_md.md)], se mostrarán en la ficha desplegable **Errores y advertencias**. Para obtener más información, consulte la sección "Para gestionar errores al recibir documentos electrónicos".
+
+### <a name="to-map-text-on-an-incoming-document-to-a-specific-vendor-account"></a>Para asignar texto en un documento entrante a una cuenta de proveedor específica
 Para los documentos entrantes, normalmente usa la acción **Asignar texto a cuenta** para indicar que un determinado texto en una factura de proveedor recibida desde el servicio de OCR se ha asignado a una cuenta de un proveedor determinado. Si va más adelante, cualquier parte de la descripción de un documento entrante que existe como texto de asignación implica que el campo **N.º** resultante de las líneas de documento o diario del tipo Cuenta de contabilidad se han rellenado con el proveedor en cuestión.
 
 Además de asignarlo a una cuenta de proveedor o a cuentas de contabilidad, también puede asignarlo a una cuenta bancaria. Esto resulta práctico, por ejemplo, en los documentos electrónicos para los gastos que ya se han pagado, donde desea crear una línea de diario general que esté lista para registrarse en una cuenta bancaria.
 
-1. Seleccione la línea del documento entrante para el documento electrónico del proveedor que ha recibido del servicio OCR.
-2. Para asignar un texto a un documento en la cuenta del proveedor, una cuenta de débito, seleccione la acción **Asignar texto a cuenta** y, a continuación, rellene la ventana **Asignación de texto a cuenta** con la información que se aplicará al proveedor más adelante. Para más información, consulte [Procedimiento: Asignación de texto en pagos periódicos a cuentas para conciliación automática](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
-3. Para asignar los números de producto del documento a las descripciones de los productos del proveedor, abra la ficha de cada producto y, a continuación, elija la acción **Referencias cruzadas** para configurar las referencias cruzadas entre su descripción de los artículos y la del vendedor.
-4. En la ventana **Documentos entrantes**, seleccione la acción **Crear documento**.
+1. Seleccione la línea de movimiento correspondiente del documento y seleccione la acción **Asignar texto a cuenta**. Se abre la ventana **Asignación de texto a cuenta**.
+3. En el campo **Asignación de texto**, introduzca el texto que aparecerá en las facturas de proveedor para el que desee crear documentos de compras o líneas de diario. Puede escribir hasta 50 caracteres.
+4. En el campo **Nº proveedor**, escriba el proveedor para el que se creará el documento de compra o la línea del diario resultante.
+5. En el campo **N.º cta. débito**, escriba la cuenta de tipo de débito que se insertará en el documento de compra resultante o en la línea del diario de la cuenta.
+6. En el campo **N.º cta. crédito**, escriba la cuenta de tipo de crédito que se insertará en el documento de compra resultante o en la línea del diario de la cuenta.
 
-Una factura de compra se creará en [!INCLUDE[d365fin](includes/d365fin_md.md)] según la información del documento electrónico del proveedor que recibió del servicio OCR.
+    > [!NOTE]
+    > No utilice los campos **Tipo origen contr.** y **N.º origen contr.** en relación con documentos entrantes. Se usan solo para la conciliación automática de pagos. Para más información, consulte [Procedimiento: Asignación de texto en pagos periódicos a cuentas para conciliación automática](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
 
-Los errores de validación, normalmente relacionados con datos maestros incorrectos o no presentes en [!INCLUDE[d365fin](includes/d365fin_md.md)], se mostrarán en la ficha desplegable **Errores y advertencias**. Para obtener más información, consulte la sección "Para gestionar errores al recibir documentos electrónicos".
+7. Repita los pasos 2 a 5 para todo el texto de los documentos entrantes para los que desea crear documentos automáticamente.
 
 ## <a name="to-handle-errors-when-receiving-electronic-documents"></a>Para gestionar errores al recibir documentos electrónicos
 1. En la ventana **Documentos entrantes**, seleccione la línea de un documento entrante recibido del servicio OCR que contenga errores. Está indicado en el Valor de error del campo **Estado OCR**.
